@@ -9450,6 +9450,10 @@ msgctxt ".use"
 msgid "Use"
 msgstr "Sử dụng"
 
+msgctxt ".use_automation_template"
+msgid "Use automation template"
+msgstr "Sử dụng automation mẫu"
+
 msgctxt ".use_template"
 msgid "Use template"
 msgstr "Sử dụng template"
