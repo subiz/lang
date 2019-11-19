@@ -10124,6 +10124,10 @@ msgctxt ".atm_temp_send_message_user_back_text"
 msgid "Hi {{user.fullname}}, welcome back to our website!\n\nFeel free to ask us anything! :smiling:"
 msgstr "Hi {{user.fullname}}, welcome back to our website!\n\nFeel free to ask us anything! :smiling:"
 
-msgctxt ".use_automation_template"
-msgid "Use automation template"
-msgstr "Use automation template"
+msgctxt ".use_automation_library"
+msgid "Use automation library"
+msgstr "Use automation library"
+
+msgctxt ".use_rule_library"
+msgid "Use rule library"
+msgstr "Use rule library"
