@@ -6074,7 +6074,7 @@ msgctxt ".replied_by_agents"
 msgid "Replied by agents"
 msgstr "Trả lời bởi agent"
 
-msgctxt ".replied_by_bots "
+msgctxt ".replied_by_bots"
 msgid "Replied by bots"
 msgstr "Trả lời bởi bot"
 

@@ -9932,7 +9932,7 @@ msgctxt ".error_detail"
 msgid "Error detail"
 msgstr "Error detail"
 
-msgctxt ".replied_by_bots "
+msgctxt ".replied_by_bots"
 msgid "Replied by bots"
 msgstr "Replied by bots"
 
