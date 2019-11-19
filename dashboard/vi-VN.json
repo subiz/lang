@@ -661,6 +661,7 @@
 	"error_agent_accept_invitation_undefined": "Lỗi không xác định, vui lòng thử lại sau",
 	"error_agent_not_activated": "Agent đã bị khóa",
 	"error_agent_not_found": "Agent không tồn tại",
+	"error_bussiness_name_input": "Please enter bussiness name",
 	"error_captcha_must_input": "Vui lòng nhập mã captcha",
 	"error_condition_must_input": "Vui lòng chọn điều kiện",
 	"error_custom_css": "Không thể cập nhật. Vui lòng kiểm tra lại mã CSS của bạn!",

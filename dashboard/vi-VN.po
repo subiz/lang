@@ -2646,6 +2646,10 @@ msgctxt ".error_agent_not_found"
 msgid "Agent not found"
 msgstr "Agent không tồn tại"
 
+msgctxt ".error_bussiness_name_input"
+msgid "Please enter bussiness name"
+msgstr "Hãy nhập tên doanh nghiệp của bạn"
+
 msgctxt ".error_captcha_must_input"
 msgid "Please input captcha"
 msgstr "Vui lòng nhập mã captcha"

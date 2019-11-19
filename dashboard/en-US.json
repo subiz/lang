@@ -661,6 +661,7 @@
 	"error_agent_accept_invitation_undefined": "There's an undefined error, please try again later",
 	"error_agent_not_activated": "Agent not activated",
 	"error_agent_not_found": "Agent not found",
+	"error_bussiness_name_input": "Please enter bussiness name",
 	"error_captcha_must_input": "Please input captcha",
 	"error_condition_must_input": "Please select condition for this segement",
 	"error_custom_css": "Failed to update. Please check again your CSS!",

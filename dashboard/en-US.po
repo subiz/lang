@@ -10131,3 +10131,7 @@ msgstr "Use automation library"
 msgctxt ".use_rule_library"
 msgid "Use rule library"
 msgstr "Use rule library"
+
+msgctxt ".error_bussiness_name_input"
+msgid "Please enter bussiness name"
+msgstr "Please enter bussiness name"
