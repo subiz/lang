@@ -10135,3 +10135,8 @@ msgstr "Use rule library"
 msgctxt ".error_bussiness_name_input"
 msgid "Please enter bussiness name"
 msgstr "Please enter bussiness name"
+
+msgctxt ".setting_zalo_deleter_messenger"
+msgid "Zalo page is deleted"
+msgstr "Zalo page is deleted"
+

@@ -2105,6 +2105,7 @@
 	"setting_user_attribute_update": "User attribute is updated",
 	"setting_zalo_delete_confirm": "Are you sure want to delete this zalo offical account?",
 	"setting_zalo_delete_message": "Delete zalo offical account",
+	"setting_zalo_deleter_messenger": "Zalo page is deleted",
 	"setting_zalo_summary": "Answer user’s messages on Zalo Offical Account from Subiz dashboard",
 	"setting_zalo_title": "Zalo",
 	"settings": "Open Settings",

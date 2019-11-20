@@ -1112,7 +1112,7 @@ msgstr "Blocks"
 
 msgctxt ".boolean"
 msgid "Boolean"
-msgstr "Boolean"
+msgstr "Đúng/Sai"
 
 msgctxt ".bot-editor"
 msgid "Bot Editor"
@@ -2080,7 +2080,7 @@ msgstr "Thời gian"
 
 msgctxt ".date_time"
 msgid "Date time"
-msgstr "Date time"
+msgstr "Thời gian"
 
 msgctxt ".decline"
 msgid "Decline"
@@ -4524,7 +4524,7 @@ msgstr "Only update one file at a time"
 
 msgctxt ".list"
 msgid "List"
-msgstr "List"
+msgstr "Danh sách"
 
 msgctxt ".list_tags_empty"
 msgid "Tag empty"
@@ -5192,7 +5192,7 @@ msgstr "Trình duyệt web"
 
 msgctxt ".number"
 msgid "Number"
-msgstr "Number"
+msgstr "Số"
 
 msgctxt ".number_agent_after_reduce"
 msgid "Number of agent subscription after reduce"
@@ -7448,7 +7448,7 @@ msgstr "Vui lòng thêm trường dữ liệu"
 
 msgctxt ".setting_field_key"
 msgid "Attribute key"
-msgstr "Attribute key"
+msgstr "Mã dữ liệu"
 
 msgctxt ".setting_field_name"
 msgid "Attribute name"
@@ -8421,6 +8421,10 @@ msgstr "Bạn có chắn chắn xóa tích hợp zalo offical account?"
 msgctxt ".setting_zalo_delete_message"
 msgid "Delete zalo offical account"
 msgstr "Xóa tích hợp zalo offical account"
+
+msgctxt ".setting_zalo_deleter_messenger"
+msgid "Zalo page is deleted"
+msgstr "Page zalo đã được xóa"
 
 msgctxt ".setting_zalo_summary"
 msgid "Answer user’s messages on Zalo Offical Account from Subiz dashboard"
