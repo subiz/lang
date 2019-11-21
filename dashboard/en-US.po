@@ -10140,3 +10140,15 @@ msgctxt ".setting_zalo_deleter_messenger"
 msgid "Zalo page is deleted"
 msgstr "Zalo page is deleted"
 
+msgctxt ".setting_zalo_intergrated"
+msgid "Zalo page is intergrated"
+msgstr "Zalo page is intergrated"
+
+msgctxt ".setting_facebook_comment_intergrated"
+msgid "Facebook comment is intergrated"
+msgstr "Facebook comment is intergrated"
+
+msgctxt ".setting_messenger_intergrated"
+msgid "Messenger is intergrated"
+msgstr "Messenger is intergrated"
+

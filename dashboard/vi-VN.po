@@ -7410,6 +7410,10 @@ msgctxt ".setting_email_title"
 msgid "Email"
 msgstr "Email"
 
+msgctxt ".setting_facebook_comment_intergrated"
+msgid "Facebook comment is intergrated"
+msgstr "Bình luận facebook đã được tích hợp"
+
 msgctxt ".setting_fb_comment_summary"
 msgid "Answer user’s comments on Facebook Page from Subiz dashboard"
 msgstr "Trả lời bình luận của khách hàng trên trang Facebook từ Subiz Dashboard"
@@ -7926,6 +7930,10 @@ msgctxt ".setting_messenger_header"
 msgid "Messenger"
 msgstr "Messenger"
 
+msgctxt ".setting_messenger_intergrated"
+msgid "Messenger is intergrated"
+msgstr "Messenger đã được tích hợp"
+
 msgctxt ".setting_messenger_nonepage"
 msgid "You don't have any Facebook Page configured yet"
 msgstr "Bạn chưa có Fanpage nào được tích hợp với Subiz"
@@ -8425,6 +8433,10 @@ msgstr "Xóa tích hợp zalo offical account"
 msgctxt ".setting_zalo_deleter_messenger"
 msgid "Zalo page is deleted"
 msgstr "Page zalo đã được xóa"
+
+msgctxt ".setting_zalo_intergrated"
+msgid "Zalo page is intergrated"
+msgstr "Zalo page đã được tích hợp"
 
 msgctxt ".setting_zalo_summary"
 msgid "Answer user’s messages on Zalo Offical Account from Subiz dashboard"
