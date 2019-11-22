@@ -9910,3 +9910,11 @@ msgctxt "unread_all_users"
 msgid "Read all users"
 msgstr "Đánh dấu đã đọc tất cả user"
 
+msgctxt ".subtitle_not_found"
+msgid "Oops. Looks like you took a wrong turn."
+msgstr "Rất tiếc. Đường dẫn không tìm thấy"
+
+
+msgctxt ".go_back_home"
+msgid "Go back home"
+msgstr "Về trang chủ"

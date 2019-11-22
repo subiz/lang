@@ -10152,3 +10152,10 @@ msgctxt ".setting_messenger_intergrated"
 msgid "Messenger is intergrated"
 msgstr "Messenger is intergrated"
 
+msgctxt ".subtitle_not_found"
+msgid "Oops. Looks like you took a wrong turn."
+msgstr "Oops. Looks like you took a wrong turn."
+
+msgctxt ".go_back_home"
+msgid "Go back home"
+msgstr "Back home"
