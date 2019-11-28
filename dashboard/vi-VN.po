@@ -3302,6 +3302,10 @@ msgctxt ".get_started"
 msgid "Get started"
 msgstr "Get started"
 
+msgctxt ".go_back_home"
+msgid "Go back home"
+msgstr "Về trang chủ"
+
 msgctxt ".google_adwords"
 msgid "google_adwords"
 msgstr "Google adwords"
@@ -4441,6 +4445,10 @@ msgstr "Bị khóa"
 msgctxt ".is_no"
 msgid "No"
 msgstr "Không"
+
+msgctxt ".is_not_member_conversation"
+msgid "Is not member conversation"
+msgstr "Bạn không phải thành viên trong hội thoại"
 
 msgctxt ".is_typing"
 msgid "is typing"
@@ -6580,7 +6588,7 @@ msgstr "Đã xem {0} và {1} người khác"
 
 msgctxt ".seen_time"
 msgid "Last seen"
-msgstr "Thời gian cuối cùng nhận được tin nhắn"
+msgstr "Hoạt động cuối cùng của user"
 
 msgctxt ".segment_settings"
 msgid "Segment"
@@ -8706,6 +8714,10 @@ msgctxt ".subscription"
 msgid "Subscription"
 msgstr "Thông tin trả phí"
 
+msgctxt ".subtitle_not_found"
+msgid "Oops. Looks like you took a wrong turn."
+msgstr "Rất tiếc. Đường dẫn không tìm thấy"
+
 msgctxt ".success"
 msgid "Success"
 msgstr "Thành công"
@@ -9909,17 +9921,4 @@ msgstr "Messenger"
 msgctxt "unread_all_users"
 msgid "Read all users"
 msgstr "Đánh dấu đã đọc tất cả user"
-
-msgctxt ".subtitle_not_found"
-msgid "Oops. Looks like you took a wrong turn."
-msgstr "Rất tiếc. Đường dẫn không tìm thấy"
-
-
-msgctxt ".go_back_home"
-msgid "Go back home"
-msgstr "Về trang chủ"
-
-msgctxt ".is_not_member_conversation"
-msgid "Is not member conversation"
-msgstr "Bạn không phải thành viên trong hội thoại"
 
