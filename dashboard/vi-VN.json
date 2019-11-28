@@ -2442,7 +2442,7 @@
 	"when": "Khi",
 	"whitelist_domain": "Domains whitelist",
 	"whitelist_manager": "Quản lý domain whitelist",
-	"who_end_chat": "{who} đã kết thúc cuộc chat",
+	"who_end_chat": "{type} {who} đã kết thúc cuộc chat",
 	"whoops": "Whoops!",
 	"widget_btn_lib": "Thư viện button",
 	"widget_buton_event": "Button sự kiện",

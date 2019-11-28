@@ -9772,7 +9772,7 @@ msgstr "Quản lý domain whitelist"
 
 msgctxt ".who_end_chat"
 msgid "Who end chat"
-msgstr "{who} đã kết thúc cuộc chat"
+msgstr "{type} {who} đã kết thúc cuộc chat"
 
 msgctxt ".whoops"
 msgid "Whoops!"
