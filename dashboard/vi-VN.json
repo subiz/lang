@@ -2387,6 +2387,7 @@
 	"user_fullname_label": "Họ và tên",
 	"user_fullname_placeholder": "Ví dụ: Nguyễn Văn A",
 	"user_info_updated": "Cập nhật thông tin khách hàng",
+	"user_is_ban": "User đã bị chặn",
 	"user_is_not_in_the_conversation": "Bạn không tham gia hội thoại. Đóng cuộc thoại cũ nếu muốn tạo một cuộc hội thoại mới",
 	"user_limit_upgrade": "Nâng cấp gói cước để tương tác với nhiều khách hàng hơn",
 	"user_limit_upgrade_button": "Nâng cấp ngay",

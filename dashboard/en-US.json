@@ -2387,6 +2387,7 @@
 	"user_fullname_label": "Full name",
 	"user_fullname_placeholder": "E.g John Doe",
 	"user_info_updated": "Update User Attribute",
+	"user_is_ban": "User is ban",
 	"user_is_not_in_the_conversation": "You are not in the conversation. Close old conversation if you wanna create new",
 	"user_limit_upgrade": "Upgrade subscription to start interacting with more users",
 	"user_limit_upgrade_button": "Upgrade now",

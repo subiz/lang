@@ -9550,6 +9550,10 @@ msgctxt ".user_info_updated"
 msgid "Update User Attribute"
 msgstr "Cập nhật thông tin khách hàng"
 
+msgctxt ".user_is_ban"
+msgid "User is ban"
+msgstr "User đã bị chặn"
+
 msgctxt ".user_is_not_in_the_conversation"
 msgid "You are not in the conversation. Close old conversation if you wanna create new"
 msgstr "Bạn không tham gia hội thoại. Đóng cuộc thoại cũ nếu muốn tạo một cuộc hội thoại mới"

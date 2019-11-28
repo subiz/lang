@@ -10168,3 +10168,7 @@ msgstr "Is not member conversation"
 msgctxt ".who_end_chat"
 msgid "Who end chat"
 msgstr "{who} end chat"
+
+msgctxt ".user_is_ban"
+msgid "User is ban"
+msgstr "User is ban"
