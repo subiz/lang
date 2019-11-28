@@ -10159,3 +10159,7 @@ msgstr "Oops. Looks like you took a wrong turn."
 msgctxt ".go_back_home"
 msgid "Go back home"
 msgstr "Back home"
+
+msgctxt ".is_not_member_conversation"
+msgid "Is not member conversation"
+msgstr "Is not member conversation"

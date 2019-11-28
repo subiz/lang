@@ -9918,3 +9918,8 @@ msgstr "Rất tiếc. Đường dẫn không tìm thấy"
 msgctxt ".go_back_home"
 msgid "Go back home"
 msgstr "Về trang chủ"
+
+msgctxt ".is_not_member_conversation"
+msgid "Is not member conversation"
+msgstr "Bạn không phải thành viên trong hội thoại"
+
