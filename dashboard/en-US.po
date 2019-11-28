@@ -10172,3 +10172,27 @@ msgstr "{type} {who} end chat"
 msgctxt ".user_is_ban"
 msgid "User is ban"
 msgstr "User is ban"
+
+msgctxt ".setting_install_facebook_comment"
+msgid "SUBIZ FOR FACEBOOK COMMENT"
+msgstr "SUBIZ FOR FACEBOOK COMMENT"
+
+msgctxt ".setting_install_intergrate_facebook_comment"
+msgid "Facebook comment integration"
+msgstr "Facebook comment integration"
+
+msgctxt ".setting_install_facebook_comment_summary"
+msgid "Answering messages on Facebook comment from Subiz dashboard"
+msgstr "Answering messages on Facebook comment from Subiz dashboard"
+
+msgctxt ".setting_install_facebook_zalo"
+msgid "SUBIZ FOR ZALO"
+msgstr "SUBIZ FOR ZALO"
+
+msgctxt ".setting_install_intergrate_zalo"
+msgid "Zalo integration"
+msgstr "Zalo integration"
+
+msgctxt ".setting_install_zalo_summary"
+msgid "Answering Zalo on Facebook from Subiz dashboard"
+msgstr "Answering Zalo on Facebook from Subiz dashboard"

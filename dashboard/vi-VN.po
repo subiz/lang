@@ -7882,6 +7882,18 @@ msgctxt ".setting_install_email_summary"
 msgid "Receiving and replying customer’s email directly from Subiz dashboard"
 msgstr "Nhận và trả lời email của khách hàng trực tiếp từ Dashboard Subiz"
 
+msgctxt ".setting_install_facebook_comment"
+msgid "SUBIZ FOR FACEBOOK COMMENT"
+msgstr "Sử dụng Facebook comment trên Subiz"
+
+msgctxt ".setting_install_facebook_comment_summary"
+msgid "Answering messages on Facebook comment from Subiz dashboard"
+msgstr "Trả lời bình luận Facebook qua Subiz"
+
+msgctxt ".setting_install_facebook_zalo"
+msgid "SUBIZ FOR ZALO"
+msgstr "Sử dụng Zalo trên Subiz"
+
 msgctxt ".setting_install_header"
 msgid "Installations"
 msgstr "Tích hợp"
@@ -7890,9 +7902,17 @@ msgctxt ".setting_install_intergrate"
 msgid "Email integration"
 msgstr "Tích hợp Email"
 
+msgctxt ".setting_install_intergrate_facebook_comment"
+msgid "Facebook comment integration"
+msgstr "Tích hợp bình luận Facebook"
+
 msgctxt ".setting_install_intergrate_messenger"
 msgid "Facebook Messenger integration"
 msgstr "Tích hợp Facebook Messenger"
+
+msgctxt ".setting_install_intergrate_zalo"
+msgid "Zalo integration"
+msgstr "Tích hợp Zalo"
 
 msgctxt ".setting_install_messenger"
 msgid "SUBIZ FOR FACEBOOK MESSENGER"
@@ -7909,6 +7929,10 @@ msgstr "Kết nối với khách hàng của bạn trong mỗi cuộc hội tho�
 msgctxt ".setting_install_title"
 msgid "Installations"
 msgstr "Tích hợp"
+
+msgctxt ".setting_install_zalo_summary"
+msgid "Answering Zalo on Facebook from Subiz dashboard"
+msgstr "Trả lời tin nhắn của khách hàng trên Zalo qua Subiz"
 
 msgctxt ".setting_intergrate_app"
 msgid "Integrated Apps"
