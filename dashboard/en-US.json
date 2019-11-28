@@ -2441,6 +2441,7 @@
 	"when": "When",
 	"whitelist_domain": "Domains whitelist",
 	"whitelist_manager": "Manage domains whitelist",
+	"who_end_chat": "{who} end chat",
 	"whoops": "Whoops!",
 	"widget_btn_lib": "Button library",
 	"widget_buton_event": "Button event",

@@ -9766,6 +9766,10 @@ msgctxt ".whitelist_manager"
 msgid "Manage domains whitelist"
 msgstr "Quản lý domain whitelist"
 
+msgctxt ".who_end_chat"
+msgid "Who end chat"
+msgstr "{who} đã kết thúc cuộc chat"
+
 msgctxt ".whoops"
 msgid "Whoops!"
 msgstr "Whoops!"

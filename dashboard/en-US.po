@@ -10163,3 +10163,8 @@ msgstr "Back home"
 msgctxt ".is_not_member_conversation"
 msgid "Is not member conversation"
 msgstr "Is not member conversation"
+
+
+msgctxt ".who_end_chat"
+msgid "Who end chat"
+msgstr "{who} end chat"
