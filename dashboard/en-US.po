@@ -10196,3 +10196,7 @@ msgstr "Zalo integration"
 msgctxt ".setting_install_zalo_summary"
 msgid "Answering Zalo on Facebook from Subiz dashboard"
 msgstr "Answering Zalo on Facebook from Subiz dashboard"
+
+msgctxt "input_text_here"
+msgid "Input text here"
+msgstr "Input text here"

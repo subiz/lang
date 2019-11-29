@@ -9946,6 +9946,10 @@ msgctxt "exist_user"
 msgid "User exist"
 msgstr "Tồn tại User"
 
+msgctxt "input_text_here"
+msgid "Input text here"
+msgstr "Nhập dữ liệu tại đây"
+
 msgctxt "messenger"
 msgid "Messenger"
 msgstr "Messenger"
