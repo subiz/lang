@@ -7778,8 +7778,8 @@ msgid "Replied conversations"
 msgstr "Replied conversations"
 
 msgctxt ".replied_by"
-msgid "Replied by"
-msgstr "Replied by"
+msgid "By"
+msgstr "By"
 
 msgctxt ".agent_availability"
 msgid "Agent Availability"
@@ -7798,12 +7798,12 @@ msgid "No agent replied in {0} mins"
 msgstr "No agent replied in {0} mins"
 
 msgctxt ".none_agent_replied_hour"
-msgid "Agent none replied in {0} hours"
-msgstr "Agent none replied in {0} hours"
+msgid "Agent none replied after {0} hours"
+msgstr "Agent none replied after {0} hours"
 
 msgctxt ".no_agent_replied_hour"
-msgid "No agent replied in {0} hours"
-msgstr "No agent replied in {0} hours"
+msgid "No agent replied after {0} hours"
+msgstr "No agent replied after {0} hours"
 
 msgctxt ".total_time"
 msgid "Total time"

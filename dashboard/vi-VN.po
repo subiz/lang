@@ -4879,8 +4879,8 @@ msgid "No activities yet"
 msgstr "Dữ liệu hoạt động trống"
 
 msgctxt ".no_agent_replied_hour"
-msgid "No agent replied in {0} hours"
-msgstr "Không có agent trả lời sau {0} giờ"
+msgid "No agent replied after {0} hours"
+msgstr "No agent replied after {0} hours"
 
 msgctxt ".no_agent_replied_min"
 msgid "No agent replied in {0} mins"
@@ -4995,12 +4995,12 @@ msgid "Non reply conversations"
 msgstr "Hội thoại không được trả lời"
 
 msgctxt ".none_agent_replied_hour"
-msgid "Agent none replied in {0} hours"
-msgstr "Agent không trả lời trong {0} giờ"
+msgid "Agent none replied after {0} hours"
+msgstr "Agent không trả lời sau {0} giờ"
 
 msgctxt ".none_agent_replied_min"
 msgid "Agent none replied in {0} mins"
-msgstr "Agent không trả lời trong {0} phút"
+msgstr "Agent none replied in {0} mins"
 
 msgctxt ".not_found_id"
 msgid "ID not found"
@@ -6075,8 +6075,8 @@ msgid "Repeat"
 msgstr "Lặp lại"
 
 msgctxt ".replied_by"
-msgid "Replied by"
-msgstr "Trả lời bởi"
+msgid "By"
+msgstr "Bởi"
 
 msgctxt ".replied_by_agents"
 msgid "Replied by agents"
