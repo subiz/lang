@@ -7790,12 +7790,12 @@ msgid "Agent Availability"
 msgstr "Agent Availability"
 
 msgctxt ".none_agent_replied_min"
-msgid "Agent none replied in {0} mins"
-msgstr "Agent none replied in {0} mins"
+msgid "Agent none replied after {0} mins"
+msgstr "Agent none replied after {0} mins"
 
 msgctxt ".no_agent_replied_min"
-msgid "No agent replied in {0} mins"
-msgstr "No agent replied in {0} mins"
+msgid "No agent replied after {0} mins"
+msgstr "No agent replied after {0} mins"
 
 msgctxt ".none_agent_replied_hour"
 msgid "Agent none replied after {0} hours"
