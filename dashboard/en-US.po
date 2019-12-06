@@ -10200,3 +10200,8 @@ msgstr "Answering Zalo on Facebook from Subiz dashboard"
 msgctxt "input_text_here"
 msgid "Input text here"
 msgstr "Input text here"
+
+
+msgctxt ".create_new_user_attribute"
+msgid "Create new user attribute"
+msgstr "create new user attribute"

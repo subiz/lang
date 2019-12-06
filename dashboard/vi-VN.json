@@ -475,6 +475,7 @@
 	"create_conversation": "Tạo hội thoại mới",
 	"create_cvs_error": "Rất tiếc, một sự cố đã xảy ra khi tạo cuộc hội thoại mới. Vui lòng thử lại sau!",
 	"create_new_automation_screen": "Tạo Automation mới",
+	"create_new_user_attribute": "Tạo thuộc tính mới user",
 	"create_note_error": "Có điều gì đó không đúng. Chưa thể tạo mới ghi chú",
 	"create_tags": "Tạo tags",
 	"create_template_success": "Tin nhắn mẫu được tạo thành công",

@@ -1902,6 +1902,10 @@ msgctxt ".create_new_automation_screen"
 msgid "Create New Automation"
 msgstr "Tạo Automation mới"
 
+msgctxt ".create_new_user_attribute"
+msgid "Create new user attribute"
+msgstr "Tạo thuộc tính mới user"
+
 msgctxt ".create_note_error"
 msgid "Some thing not working. Can not create note"
 msgstr "Có điều gì đó không đúng. Chưa thể tạo mới ghi chú"

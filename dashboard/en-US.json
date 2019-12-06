@@ -475,6 +475,7 @@
 	"create_conversation": "Create Conversation",
 	"create_cvs_error": "Oops, there was a problem creating a new conversation. Please try again later!",
 	"create_new_automation_screen": "Create New Automation",
+	"create_new_user_attribute": "create new user attribute",
 	"create_note_error": "Some thing not working. Can not create note",
 	"create_tags": "create tags",
 	"create_template_success": "Success! Template's created",
