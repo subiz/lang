@@ -5000,11 +5000,11 @@ msgstr "Hội thoại không được trả lời"
 
 msgctxt ".none_agent_replied_hour"
 msgid "Agent none replied after {0} hours"
-msgstr "Agent không trả lời sau {0} giờ"
+msgstr "Agent trả lời sau {0} giờ"
 
 msgctxt ".none_agent_replied_min"
 msgid "Agent none replied after {0} mins"
-msgstr "Agent không trả lời sau {0} phút"
+msgstr "Agent trả lời sau {0} phút"
 
 msgctxt ".not_found_id"
 msgid "ID not found"
