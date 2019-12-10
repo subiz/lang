@@ -6748,7 +6748,7 @@ msgstr "Gửi data đến Email: "
 
 msgctxt ".sent_invitation"
 msgid "Invitation has been sent"
-msgstr "Invitation has been sent"
+msgstr "Lời mời đã được gửi thành công"
 
 msgctxt ".sent_test"
 msgid "Send test"
