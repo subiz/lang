@@ -10205,3 +10205,69 @@ msgstr "Input text here"
 msgctxt ".create_new_user_attribute"
 msgid "Create new user attribute"
 msgstr "create new user attribute"
+
+msgctxt ".introduction_wiget_button"
+msgid "Subiz chat button to attract customers interactively"
+msgstr "Subiz chat button to attract customers interactively"
+
+msgctxt ".button_position"
+msgid "Button position"
+msgstr "Button position"
+
+msgctxt ".button_position_introduction"
+msgid "Chat button will be placed in the lower left or right of the website."
+msgstr "Chat button will be placed in the lower left or right of the website."
+
+msgctxt ".button_position_template"
+msgid "Template"
+msgstr "Template"
+
+msgctxt ".desktop"
+msgid "Desktop"
+msgstr "Desktop"
+
+msgctxt ".mobile"
+msgid "Mobile"
+msgstr "Mobile"
+
+
+
+msgctxt ".greeting"
+msgid "Greating"
+msgstr "Lời chào"
+
+msgctxt ".greeting_user_visited"
+msgid "Greeting user when they visited website"
+msgstr "Greeting user when they visited website"
+
+msgctxt ".greeting_user_visited_help"
+msgid "Learn how greetings work"
+msgstr "Learn how greetings work"
+
+msgctxt ".send_from"
+msgid "Send from"
+msgstr "Send from"
+
+msgctxt ".randomly_agent"
+msgid "Randomly select an agent"
+msgstr "Randomly select an agent"
+
+msgctxt ".specific_agent"
+msgid "A specific agent"
+msgstr "A specific agent"
+
+msgctxt ".right"
+msgid "Right"
+msgstr "Right"
+
+msgctxt ".left"
+msgid "Left"
+msgstr "Left"
+
+msgctxt ".horizontal_margin"
+msgid "Horizontal margin"
+msgstr "Horizontal margin"
+
+msgctxt ".bottom"
+msgid "Bottom"
+msgstr "Bottom"

@@ -1134,6 +1134,10 @@ msgctxt ".bots"
 msgid "Bots"
 msgstr "Trợ lý ảo"
 
+msgctxt ".bottom"
+msgid "Bottom"
+msgstr "Cách chân"
+
 msgctxt ".buider_message_default"
 msgid "Hi there, We’re here and ready to help. Feel free to ask us anything or share your feedback!"
 msgstr "Xin chào, Chúng tôi ở đây và sẵn sàng tư vấn. Hãy cho chúng tôi biết nhu cầu của bạn!"
@@ -1181,6 +1185,18 @@ msgstr "Vui lòng cài đặt Giờ làm việc của tài khoản trước khi 
 msgctxt ".button_label"
 msgid "Button Label"
 msgstr "Tiêu đề button"
+
+msgctxt ".button_position"
+msgid "Button position"
+msgstr "Button position"
+
+msgctxt ".button_position_introduction"
+msgid "Chat button will be placed in the lower left or right of the website."
+msgstr "Nút chat sẽ được đặt ở góc dưới bên trái hoặc phải của website."
+
+msgctxt ".button_position_template"
+msgid "Template"
+msgstr "Xem mẫu"
 
 msgctxt ".button_recomment"
 msgid "Recommended dimensions: 240x146 px"
@@ -2204,7 +2220,7 @@ msgstr "Mô tả"
 
 msgctxt ".desktop"
 msgid "Desktop"
-msgstr "Máy tính cá nhân"
+msgstr ""
 
 msgctxt ".desktop_notify_subscribed"
 msgid "Has subscribe notify desktop"
@@ -3322,6 +3338,18 @@ msgctxt ".great_day"
 msgid "Have a great day at work!"
 msgstr "Chúc bạn một ngày làm việc hiệu quả!"
 
+msgctxt ".greeting"
+msgid "Greating"
+msgstr "Greating"
+
+msgctxt ".greeting_user_visited"
+msgid "Greeting user when they visited website"
+msgstr "Chào khách hàng khi họ vừa vào website"
+
+msgctxt ".greeting_user_visited_help"
+msgid "Learn how greetings work"
+msgstr "Tìm hiểu cách hoạt động của lời chào"
+
 msgctxt ".group"
 msgid "Group"
 msgstr "Nhóm"
@@ -4254,6 +4282,10 @@ msgctxt ".home_night"
 msgid "Welcome back,"
 msgstr "Mừng bạn trở lại, "
 
+msgctxt ".horizontal_margin"
+msgid "Horizontal margin"
+msgstr "Căn lề ngang"
+
 msgctxt ".html"
 msgid "HTML"
 msgstr "HTML"
@@ -4373,6 +4405,10 @@ msgstr "Danh sách các ứng dụng đã tích hợp vào tài khoản"
 msgctxt ".internet_reconnect_success"
 msgid "Internet reconnect successfull"
 msgstr "Internet đã kết nối lại thành công"
+
+msgctxt ".introduction_wiget_button"
+msgid "Subiz chat button to attract customers interactively"
+msgstr "Nút chat Subiz để thu hút khách hàng tương tác"
 
 msgctxt ".invalid_input"
 msgid "Invalid input"
@@ -4505,6 +4541,10 @@ msgstr "Cập nhật gần nhất"
 msgctxt ".later"
 msgid "Later"
 msgstr "Tải sau"
+
+msgctxt ".left"
+msgid "Left"
+msgstr "Bên trái"
 
 msgctxt ".let_create_content"
 msgid "Import products to Subiz to organize products easier and engage users more when sending them product/service information"
@@ -4728,7 +4768,7 @@ msgstr "Cuộc gọi nhỡ"
 
 msgctxt ".mobile"
 msgid "Mobile"
-msgstr "Điện thoại"
+msgstr "Mobile"
 
 msgctxt ".modal_body_complete_convo"
 msgid "Are you sure want to complete this conversation?"
@@ -5678,6 +5718,10 @@ msgctxt ".quickview-title"
 msgid "Quick View"
 msgstr "Quick View"
 
+msgctxt ".randomly_agent"
+msgid "Randomly select an agent"
+msgstr "Chọn ngẫu nhiên một agent"
+
 msgctxt ".range_day"
 msgid "{0} day | {0} days"
 msgstr "{0} ngày"
@@ -6350,6 +6394,10 @@ msgctxt ".return_time"
 msgid "Return {0} times"
 msgstr "Quay lại {0} lần"
 
+msgctxt ".right"
+msgid "Right"
+msgstr "Bên phải"
+
 msgctxt ".rows"
 msgid "Rows"
 msgstr "Hàng"
@@ -6697,6 +6745,10 @@ msgstr "Gửi tin nhắn chuyển hướng tới messenger"
 msgctxt ".send_fail"
 msgid "Sent fail"
 msgstr "Lỗi gửi tin"
+
+msgctxt ".send_from"
+msgid "Send from"
+msgstr "Gửi từ"
 
 msgctxt ".send_hide_comment"
 msgid "Auto hide comment"
@@ -8666,6 +8718,10 @@ msgctxt ".spamlist"
 msgid "SPAMLIST"
 msgstr "Danh sách chặn"
 
+msgctxt ".specific_agent"
+msgid "A specific agent"
+msgstr "Một agent cụ thể"
+
 msgctxt ".standard_plan"
 msgid "Standard"
 msgstr "Cơ bản"
@@ -9712,7 +9768,7 @@ msgstr "REFER/ CAMPAIGN"
 
 msgctxt ".visitor_say_hello"
 msgid "Say hello"
-msgstr "Say hello"
+msgstr "Chào khách"
 
 msgctxt ".visitor_upgrade_description"
 msgid "See who’s online, follow important leads, and say hello…"
