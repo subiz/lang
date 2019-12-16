@@ -2260,7 +2260,7 @@ msgstr "Mô tả"
 
 msgctxt ".desktop"
 msgid "Desktop"
-msgstr ""
+msgstr "Máy tính"
 
 msgctxt ".desktop_notify_subscribed"
 msgid "Has subscribe notify desktop"
@@ -10141,4 +10141,3 @@ msgstr "Messenger"
 msgctxt "unread_all_users"
 msgid "Read all users"
 msgstr "Đánh dấu đã đọc tất cả user"
-
