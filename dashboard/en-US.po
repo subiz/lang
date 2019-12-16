@@ -10271,3 +10271,138 @@ msgstr "Horizontal margin"
 msgctxt ".bottom"
 msgid "Bottom"
 msgstr "Bottom"
+
+msgctxt ".put_subiz_chat_in_minute"
+msgid "Put Subiz chat window on your website in just a minute"
+msgstr "Put Subiz chat window on your website in just a minute"
+
+msgctxt ".did_not_find_web_platform"
+msgid "Did not find the desired web platform"
+msgstr "Did not find the desired web platform"
+
+
+msgctxt ".see_install_instrucion_other_platform"
+msgid "See installation instructions for other platforms"
+msgstr "See installation instructions for other platforms"
+
+msgctxt ".manually_install_subiz_embed_code_on_website"
+msgid "manually install subiz embed code on the website"
+msgstr "manually install subiz embed code on the website"
+
+msgctxt ".copy_and_insert_code_below_front_of_card"
+msgid "Copy and insert the code below into the front of the card"
+msgstr "Copy and insert the code below into the front of the card"
+on the pages you want to install
+
+msgctxt ".on_the_page_you_want_install"
+msgid "On the pages you want to install"
+msgstr "On the pages you want to install"
+
+msgctxt ".reload_page"
+msgid "Reload page"
+msgstr "Reload page"
+
+
+msgctxt ".chat_subiz_window_display_bottom_your_screen"
+msgid "Chat subiz window will be displayed at the bottom of your screen"
+msgstr "Chat subiz window will be displayed at the bottom of your screen"
+
+msgctxt ".send_embed_code_your_website_admin"
+msgid "Send the embed code to your website administrator"
+msgstr "Send the embed code to your website administrator"
+
+msgctxt ".account_login"
+msgid "Account login"
+msgstr "Account login"
+
+msgctxt ".chose"
+msgid "Chose"
+msgstr "Chose"
+
+msgctxt ".you_want_to_install"
+msgid "You want to install"
+msgstr "You want to install"
+
+msgctxt ".page_setting"
+msgid "Page setting"
+msgstr "Page setting"
+
+msgctxt ".at_bottom_of_screen"
+msgid "At bottom of screen"
+msgstr "At the bottom of the screen"
+
+msgctxt ".custom_tracking_code"
+msgid "Custom tracking code"
+msgstr "Custom tracking code"
+
+msgctxt ".copy_embed"
+msgid "Copy embed"
+msgstr "Copy embeb"
+
+msgctxt ".paste_on_front_card"
+msgid "Paste on the front of the card"
+msgstr "Paste on the front of the card"
+
+msgctxt ".press"
+msgid "Press"
+msgstr "Press"
+
+msgctxt ".save"
+msgid "Save"
+msgstr "Save"
+
+msgctxt ".publish"
+msgid "Publish"
+msgstr "Publish"
+
+msgctxt ".display"
+msgid "Display"
+msgstr "Display"
+
+msgctxt ".manipulation"
+msgid "Manipulation"
+msgstr "Manipulation"
+
+msgctxt ".edit"
+msgid "Edit"
+msgstr "Edit"
+
+msgctxt ".reload_websit_has_embed_checked"
+msgid "Reload the website that has the embed code checked"
+msgstr "Reload the website that has the embed code checked"
+
+msgctxt ".and"
+msgid "And"
+msgstr "And"
+
+msgctxt ".correction"
+msgid "Correction"
+msgstr "Correction"
+
+msgctxt ".will_integrate"
+msgid "Will integrate"
+msgstr "Will integrate"
+
+msgctxt ".create_tag"
+msgid "Create tag"
+msgstr "Create tag"
+
+msgctxt ".paste_into_the_box"
+msgid "Paste into the box"
+msgstr "Paste into the box"
+
+msgctxt ".tick_the_box"
+msgid "Tick the box"
+msgstr "Tick the box"
+
+msgctxt ".set_window_display_conditions"
+msgid "Set window display conditions"
+msgstr "Set window display conditions"
+
+msgctxt ".example"
+msgid "Example"
+msgstr "Example"
+
+msgctxt ".display_every_page"
+msgid "To display on every page"
+msgstr "To display on every page"
