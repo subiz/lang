@@ -10142,3 +10142,95 @@ msgctxt "unread_all_users"
 msgid "Read all users"
 msgstr "Đánh dấu đã đọc tất cả user"
 
+msgctxt ".change_chat_button"
+msgid "Change chat button"
+msgstr "Thay đổi chat button"
+
+msgctxt ".choose_large_small_window_type"
+msgid "Choose a large or small window type to fit your website"
+msgstr "Lựa chọn một loại cửa sổ to hay nhỏ để phù hợp với website của bạn"
+
+msgctxt ".pattern"
+msgid "Pattern"
+msgstr "Xem mẫu"
+
+msgctxt ".standard"
+msgid "Standard"
+msgstr "Tieu chuẩn"
+
+msgctxt ".compact"
+msgid "Compact"
+msgstr "gọn nhẹ"
+
+msgctxt ".as_tall_as_screen_height"
+msgid "As tall as the screen height"
+msgstr "Cao bằng chiều cao màn hình"
+
+msgctxt ".type_windown"
+msgid "Type windown"
+msgstr "Loại cửa sổ"
+
+msgctxt ".size"
+msgid "Size"
+msgstr "Kích thước"
+
+msgctxt ".custom_height_width_windown_chat"
+msgid "Custom height width windown chat"
+msgstr "Điều chỉnh chiều rộng và chiều cao của cửa sổ  chat"
+
+msgctxt ".width"
+msgid "Width"
+msgstr "Chiều rộng"
+
+msgctxt ".height"
+msgid "Height"
+msgstr "Chiều cao"
+
+msgctxt ".trademark"
+msgid "Trademark"
+msgstr "Thương hiệu"
+
+msgctxt ".brand"
+msgid "Brand"
+msgstr "Nhãn hiệu"
+
+msgctxt ".show_logo_and_interact_chanel_or_show_avatar_agent_of_windown_chat"
+msgid "Show logo and interact chanel or show avatar agent of windown chat"
+msgstr "Hiển thị logo và các kênh tương tác, hoặc hiển thị avatar agent trên màn hình chính của cửa sổ chat"
+
+msgctxt ".interact_chanel"
+msgid "Interact chanel"
+msgstr "Kênh tương tác"
+
+msgctxt ".color"
+msgid "Color"
+msgstr "Màu sắc"
+
+msgctxt ".color_primary"
+msgid "Color primary"
+msgstr "Màu chính"
+
+msgctxt ".gradient"
+msgid "Gradient"
+msgstr "Dải màu"
+
+msgctxt ".single_color"
+msgid "Single color"
+msgstr "Màu đơn sắc"
+
+msgctxt ".color_message"
+msgid "Color message"
+msgstr "Màu tin nhắn"
+
+msgctxt ".introduction"
+msgid "Introduction"
+msgstr "Lời giới thiệu"
+
+msgctxt ".auto_display_appropriate_or_select_langue"
+msgid "Automatically display the appropriate language or a selected language"
+msgstr "Subiz tự động hiển thị ngôn ngữ phù hợp hoặc một ngôn ngữ được lựa chọn"
+
+msgctxt ".vietnamese_content_edit_on_chat_windown"
+msgid "Vietnamese content editing on chat window"
+msgstr "Chỉnh sửa nội dung tiếng Việt trên cửa sổ chat"
+
