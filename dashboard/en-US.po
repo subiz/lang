@@ -10507,3 +10507,4 @@ msgstr "Recommended margins and footers"
 msgctxt ".install_button_position_on_phone"
 msgid "Install button position on phone"
 msgstr "Install button position on phone"
+

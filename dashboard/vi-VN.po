@@ -4446,6 +4446,10 @@ msgctxt ".input_is_too_long"
 msgid "{input_name} is too long, you can only enter no more than {max} characters"
 msgstr "{input_name} cần có ít nhất {min} ký tự và không có nhiều hơn {max} ký tự"
 
+msgctxt ".install_button_position_on_phone"
+msgid "Install button position on phone"
+msgstr "Cài đặt vị trí button trên điện thoại"
+
 msgctxt ".install_update"
 msgid "Update"
 msgstr "Cập nhật ứng dụng"
@@ -5901,6 +5905,10 @@ msgstr "đã nhận"
 msgctxt ".recieve_new_message"
 msgid "Recieve new message"
 msgstr "Nhận tin nhắn mới"
+
+msgctxt ".recommended_margins_footer"
+msgid "Recommended margins and footers"
+msgstr "Khoảng cách lề và chân trang khuyến nghị"
 
 msgctxt ".recover_confirm_password"
 msgid "Confirm Password"
@@ -10234,10 +10242,3 @@ msgctxt "unread_all_users"
 msgid "Read all users"
 msgstr "Đánh dấu đã đọc tất cả user"
 
-msgctxt ".recommended_margins_footer"
-msgid "Recommended margins and footers"
-msgstr "Khoảng cách lề và chân trang khuyến nghị"
-
-msgctxt ".install_button_position_on_phone"
-msgid "Install button position on phone"
-msgstr "Cài đặt vị trí button trên điện thoại"
