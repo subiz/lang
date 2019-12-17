@@ -174,6 +174,10 @@ msgctxt ".locate"
 msgid "locate"
 msgstr "Tìm"
 
+msgctxt ".menu_more"
+msgid "More action"
+msgstr "Thêm"
+
 msgctxt ".message"
 msgid "Message"
 msgstr "Tin nhắn"
@@ -241,6 +245,10 @@ msgstr "Vui lòng cung cấp địa chỉ email để chúng tôi có thể liê
 msgctxt ".question_phone"
 msgid "Please provide us your phone number, so we could reach out to you later when you need more help"
 msgstr "Vui lòng cung cấp địa chỉ email để chúng tôi có thể liên hệ lại với bạn trong thời gian sớm nhất"
+
+msgctxt ".rate_conversation"
+msgid "Rate this conversation"
+msgstr "Đánh giá cuộc hội thoại"
 
 msgctxt ".recent_conversations"
 msgid "Recent conversations"
@@ -321,6 +329,10 @@ msgstr "True (Đúng)"
 msgctxt ".try_again"
 msgid "Retry"
 msgstr "Thử lại"
+
+msgctxt ".turn_on_notification"
+msgid "Turn on notification"
+msgstr "Bật thông báo"
 
 msgctxt ".widget_title"
 msgid "Chat with us"

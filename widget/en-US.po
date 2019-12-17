@@ -322,14 +322,6 @@ msgctxt ".recent_conversations"
 msgid "Recent conversations"
 msgstr "Recent conversations"
 
-msgctx ".turn_on_notification"
-msgid "Turn on notification"
-msgstr "Turn on notification"
-
-msgctx ".rate_conversation"
-msgid "Rate this conversation"
-msgstr "Rate this conversation"
-
 msgctxt ".message"
 msgid "Message"
 msgstr "Message"
@@ -357,3 +349,15 @@ msgstr "Empty conversation"
 msgctxt ".sending"
 msgid "Sending"
 msgstr "Sending"
+
+msgctxt ".rate_conversation"
+msgid "Rate this conversation"
+msgstr "Rate this conversation"
+
+msgctxt ".turn_on_notification"
+msgid "Turn on notification"
+msgstr "Turn on notification"
+
+msgctxt ".menu_more"
+msgid "More action"
+msgstr "More action"
