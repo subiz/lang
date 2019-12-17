@@ -329,3 +329,31 @@ msgstr "Turn on notification"
 msgctx ".rate_conversation"
 msgid "Rate this conversation"
 msgstr "Rate this conversation"
+
+msgctxt ".message"
+msgid "Message"
+msgstr "Message"
+
+msgctxt ".start_chat"
+msgid "Start the chat"
+msgstr "Start the chat"
+
+msgctxt ".require_group"
+msgid "You want to meet"
+msgstr "You want to meet"
+
+msgctxt ".leave_message"
+msgid "Leave a message"
+msgstr "Leave a message"
+
+msgctxt ".new_conversation"
+msgid "New conversation"
+msgstr "New conversation"
+
+msgctxt ".empty_conversation"
+msgid "Empty conversation"
+msgstr "Empty conversation"
+
+msgctxt ".sending"
+msgid "Sending"
+msgstr "Sending"

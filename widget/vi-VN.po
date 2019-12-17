@@ -94,6 +94,10 @@ msgctxt ".email_transcript"
 msgid "Email transcript"
 msgstr "Email transcript"
 
+msgctxt ".empty_conversation"
+msgid "Empty conversation"
+msgstr "Không có cuộc hội thoại nào"
+
 msgctxt ".end_chat"
 msgid "End chat"
 msgstr "Kết thúc hội thoại"
@@ -158,6 +162,10 @@ msgctxt ".joined_the_conversation"
 msgid "joined"
 msgstr "tham gia"
 
+msgctxt ".leave_message"
+msgid "Leave a message"
+msgstr "Để lại tin nhắn"
+
 msgctxt ".left_this_conversation"
 msgid "left this conversation"
 msgstr "left this conversation"
@@ -166,6 +174,10 @@ msgctxt ".locate"
 msgid "locate"
 msgstr "Tìm"
 
+msgctxt ".message"
+msgid "Message"
+msgstr "Tin nhắn"
+
 msgctxt ".message_input_help"
 msgid "Type a message..."
 msgstr "Nhập tin nhắn…"
@@ -173,6 +185,10 @@ msgstr "Nhập tin nhắn…"
 msgctxt ".new_conversation"
 msgid " Start a conversation!"
 msgstr " Bắt đầu trò chuyện!"
+
+msgctxt ".new_conversation"
+msgid "New conversation"
+msgstr "Tạo hội thoại mới"
 
 msgctxt ".new_message"
 msgid "You have new messages"
@@ -238,6 +254,10 @@ msgctxt ".reply_time"
 msgid "Typically replies in under {0}"
 msgstr "Thường trả lời trong khoảng {0}"
 
+msgctxt ".require_group"
+msgid "You want to meet"
+msgstr "Bạn muốn gặp"
+
 msgctxt ".save"
 msgid "Save"
 msgstr "Lưu"
@@ -258,9 +278,17 @@ msgctxt ".send_message"
 msgid "Send message"
 msgstr "Gửi tin nhắn"
 
+msgctxt ".sending"
+msgid "Sending"
+msgstr "Đang gửi"
+
 msgctxt ".sound"
 msgid "Sound"
 msgstr "Âm thanh"
+
+msgctxt ".start_chat"
+msgid "Start the chat"
+msgstr "Bắt đầu chat"
 
 msgctxt ".start_convo"
 msgid "Let’s start a conversation!"
