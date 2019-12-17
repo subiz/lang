@@ -30,6 +30,10 @@ msgctxt ".btn_ask_save_info"
 msgid "Save contact"
 msgstr "Lưu thông tin"
 
+msgctxt ".btn_submit_form_attachment"
+msgid "Submit"
+msgstr "Lưu"
+
 msgctxt ".cancel"
 msgid "Cancel"
 msgstr "Hủy"
@@ -37,6 +41,10 @@ msgstr "Hủy"
 msgctxt ".capture_lead_title"
 msgid "Please enter the information below so we could support you better"
 msgstr "Vui lòng cung cấp thêm các thông tin dưới đây để giúp chúng tôi phục vụ bạn tốt hơn"
+
+msgctxt ".chat_now"
+msgid "Chat now"
+msgstr "Chat ngay"
 
 msgctxt ".choose"
 msgid "Choose"
@@ -54,9 +62,13 @@ msgctxt ".contact_detail"
 msgid "Contact"
 msgstr "Thông tin liên hệ"
 
+msgctxt ".conversation_state_updated"
+msgid "Conversation is {state}"
+msgstr "Trạng thái thội thoại: {state}"
+
 msgctxt ".conversations"
-msgid "Conversations"
-msgstr "Danh sách hội thoại"
+msgid "Your conversations"
+msgstr "Your conversations"
 
 msgctxt ".conversations_unread"
 msgid "messaged you"
@@ -94,6 +106,10 @@ msgctxt ".error_empty"
 msgid "The value must not be empty"
 msgstr "Vui lòng hoàn thành trường thông tin này"
 
+msgctxt ".error_empty_list"
+msgid "You must select at least one value"
+msgstr "Bạn chưa chọn giá trị nào"
+
 msgctxt ".error_invalid_color"
 msgid "Invalid hex color code"
 msgstr "Mã màu không khả dụng"
@@ -105,6 +121,10 @@ msgstr "Thời gian không khả dụng"
 msgctxt ".error_invalid_email"
 msgid "Invalid email address"
 msgstr "Địa chỉ email không khả dụng"
+
+msgctxt ".error_invalid_list_value"
+msgid "Invalid value"
+msgstr "Giá trị không hợp lệ"
 
 msgctxt ".error_invalid_number"
 msgid "Invalid number"
@@ -191,8 +211,8 @@ msgid "E.g 0423857xxx"
 msgstr "Ví dụ 0423857xxx"
 
 msgctxt ".powered_by"
-msgid "Powered by"
-msgstr "Cung cấp bởi"
+msgid "We run on {logo} subiz"
+msgstr "We run on {logo} subiz"
 
 msgctxt ".price"
 msgid "Price"
@@ -205,6 +225,10 @@ msgstr "Vui lòng cung cấp địa chỉ email để chúng tôi có thể liê
 msgctxt ".question_phone"
 msgid "Please provide us your phone number, so we could reach out to you later when you need more help"
 msgstr "Vui lòng cung cấp địa chỉ email để chúng tôi có thể liên hệ lại với bạn trong thời gian sớm nhất"
+
+msgctxt ".recent_conversations"
+msgid "Recent conversations"
+msgstr "Danh sách hội thoại"
 
 msgctxt ".reply"
 msgid "Reply here..."
