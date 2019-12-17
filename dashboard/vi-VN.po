@@ -654,6 +654,10 @@ msgctxt ".apply_selected_channels"
 msgid "Apply settings with selected channels"
 msgstr "Chỉ cài đặt trên các kênh được chọn"
 
+msgctxt ".as_tall_as_screen_height"
+msgid "As tall as the screen height"
+msgstr "Cao bằng chiều cao màn hình"
+
 msgctxt ".ask_email_question"
 msgid "Please provide us your email address, so we could reach out to you later when you need more help"
 msgstr "Vui lòng nhập địa chỉ email của bạn để chúng tôi có thể liên lạc khi bạn cần nhiều sự trợ giúp hơn"
@@ -954,6 +958,10 @@ msgctxt ".auto_detect"
 msgid "Auto detect"
 msgstr "Tự động"
 
+msgctxt ".auto_display_appropriate_or_select_langue"
+msgid "Automatically display the appropriate language or a selected language"
+msgstr "Subiz tự động hiển thị ngôn ngữ phù hợp hoặc một ngôn ngữ được lựa chọn"
+
 msgctxt ".auto_message"
 msgid "Auto-messages"
 msgstr "Auto-messages"
@@ -1149,6 +1157,10 @@ msgstr "Trợ lý ảo"
 msgctxt ".bottom"
 msgid "Bottom"
 msgstr "Cách chân"
+
+msgctxt ".brand"
+msgid "Brand"
+msgstr "Nhãn hiệu"
 
 msgctxt ".buider_message_default"
 msgid "Hi there, We’re here and ready to help. Feel free to ask us anything or share your feedback!"
@@ -1482,6 +1494,10 @@ msgctxt ".change_billing_cycle_success"
 msgid "Change billing cycle successful"
 msgstr "Thành công!"
 
+msgctxt ".change_chat_button"
+msgid "Change chat button"
+msgstr "Thay đổi chat button"
+
 msgctxt ".change_owner"
 msgid "Change owner"
 msgstr "Thay đổi chủ sở hữu tài khoản"
@@ -1554,6 +1570,10 @@ msgctxt ".choose_image"
 msgid "Choose image"
 msgstr "Chọn ảnh"
 
+msgctxt ".choose_large_small_window_type"
+msgid "Choose a large or small window type to fit your website"
+msgstr "Lựa chọn một loại cửa sổ to hay nhỏ để phù hợp với website của bạn"
+
 msgctxt ".chose"
 msgid "Chose"
 msgstr "Chọn"
@@ -1610,6 +1630,18 @@ msgctxt ".collumn_to_import"
 msgid "Collumn to import"
 msgstr "Cột dữ liệu"
 
+msgctxt ".color"
+msgid "Color"
+msgstr "Màu sắc"
+
+msgctxt ".color_message"
+msgid "Color message"
+msgstr "Màu tin nhắn"
+
+msgctxt ".color_primary"
+msgid "Color primary"
+msgstr "Màu chính"
+
 msgctxt ".comfirm_profile"
 msgid "Please confirm your bot profile"
 msgstr "Hãy xác nhận thông tin trợ lý ảo"
@@ -1617,6 +1649,10 @@ msgstr "Hãy xác nhận thông tin trợ lý ảo"
 msgctxt ".comment_reply_facebook"
 msgid "Edit comment reply"
 msgstr "Chỉnh sửa nội dung comment"
+
+msgctxt ".compact"
+msgid "Compact"
+msgstr "gọn nhẹ"
 
 msgctxt ".company_industry"
 msgid "Company industry"
@@ -2045,6 +2081,10 @@ msgstr "Tùy chỉnh"
 msgctxt ".custom_filter"
 msgid "Custom filter"
 msgstr "Tùy chỉnh"
+
+msgctxt ".custom_height_width_windown_chat"
+msgid "Custom height width windown chat"
+msgstr "Điều chỉnh chiều rộng và chiều cao của cửa sổ  chat"
 
 msgctxt ".custom_holiday"
 msgid "to the list, or manually add custom holiday"
@@ -3390,6 +3430,10 @@ msgctxt ".google_analytics"
 msgid "Google Analytics"
 msgstr "Google Analytics"
 
+msgctxt ".gradient"
+msgid "Gradient"
+msgstr "Dải màu"
+
 msgctxt ".great_day"
 msgid "Have a great day at work!"
 msgstr "Chúc bạn một ngày làm việc hiệu quả!"
@@ -3633,6 +3677,10 @@ msgstr "Cuộc hội thoại có tin nhắn mới"
 msgctxt ".have_no_automation_credits"
 msgid "You have no more automation credits"
 msgstr "Bạn đã hết số lượng automation"
+
+msgctxt ".height"
+msgid "Height"
+msgstr "Chiều cao"
 
 msgctxt ".help_conversation_channel"
 msgid "E.g channel Subiz Chat, Email..."
@@ -4426,6 +4474,10 @@ msgctxt ".integrated_bots"
 msgid "List of integrated bots"
 msgstr "Danh sách trợ lý ảo đã tích hợp"
 
+msgctxt ".interact_chanel"
+msgid "Interact chanel"
+msgstr "Kênh tương tác"
+
 msgctxt ".interacted_last_7_days"
 msgid "Interacted last 7 days"
 msgstr "Đã tương tác trong 7 ngày vừa qua"
@@ -4461,6 +4513,10 @@ msgstr "Danh sách các ứng dụng đã tích hợp vào tài khoản"
 msgctxt ".internet_reconnect_success"
 msgid "Internet reconnect successfull"
 msgstr "Internet đã kết nối lại thành công"
+
+msgctxt ".introduction"
+msgid "Introduction"
+msgstr "Lời giới thiệu"
 
 msgctxt ".introduction_wiget_button"
 msgid "Subiz chat button to attract customers interactively"
@@ -5577,6 +5633,10 @@ msgstr "dán vào ô"
 msgctxt ".paste_on_front_card"
 msgid "Paste on the front of the card"
 msgstr "dán vào phía trước thẻ"
+
+msgctxt ".pattern"
+msgid "Pattern"
+msgstr "Xem mẫu"
 
 msgctxt ".pay_now"
 msgid "Pay now"
@@ -8670,6 +8730,10 @@ msgctxt ".show list user select"
 msgid "Show list user select"
 msgstr "Tất cả {userlist} người dùng đã được chọn"
 
+msgctxt ".show_logo_and_interact_chanel_or_show_avatar_agent_of_windown_chat"
+msgid "Show logo and interact chanel or show avatar agent of windown chat"
+msgstr "Hiển thị logo và các kênh tương tác, hoặc hiển thị avatar agent trên màn hình chính của cửa sổ chat"
+
 msgctxt ".show_secret"
 msgid "Show secret"
 msgstr "Show secret"
@@ -8685,6 +8749,14 @@ msgstr "Show verification key"
 msgctxt ".sign_up"
 msgid "Sign up"
 msgstr "Đăng ký"
+
+msgctxt ".single_color"
+msgid "Single color"
+msgstr "Màu đơn sắc"
+
+msgctxt ".size"
+msgid "Size"
+msgstr "Kích thước"
 
 msgctxt ".sla"
 msgid "Ticket SLA"
@@ -8833,6 +8905,10 @@ msgstr "Danh sách chặn"
 msgctxt ".specific_agent"
 msgid "A specific agent"
 msgstr "Một agent cụ thể"
+
+msgctxt ".standard"
+msgid "Standard"
+msgstr "Tiêu chuẩn"
 
 msgctxt ".standard_plan"
 msgid "Standard"
@@ -9390,6 +9466,10 @@ msgctxt ".tracing_group"
 msgid "Traces"
 msgstr "Traces"
 
+msgctxt ".trademark"
+msgid "Trademark"
+msgstr "Thương hiệu"
+
 msgctxt ".traffic"
 msgid "Traffic"
 msgstr "Truy cập web"
@@ -9425,6 +9505,10 @@ msgstr "Loại"
 msgctxt ".type_a_message"
 msgid "Type a message..."
 msgstr "Type a message..."
+
+msgctxt ".type_windown"
+msgid "Type windown"
+msgstr "Loại cửa sổ"
 
 msgctxt ".type_your_msg"
 msgid "Type your message here..."
@@ -9866,6 +9950,10 @@ msgctxt ".vietnamese"
 msgid "Tiếng Việt"
 msgstr "Tiếng Việt"
 
+msgctxt ".vietnamese_content_edit_on_chat_windown"
+msgid "Vietnamese content editing on chat window"
+msgstr "Chỉnh sửa nội dung tiếng Việt trên cửa sổ chat"
+
 msgctxt ".view_invoice"
 msgid "View invoice"
 msgstr "Xem hóa đơn"
@@ -10054,6 +10142,10 @@ msgctxt ".widget_upload_btn_lib"
 msgid "Use custom button"
 msgstr "Sử dụng button tùy chỉnh"
 
+msgctxt ".width"
+msgid "Width"
+msgstr "Chiều rộng"
+
 msgctxt ".will_integrate"
 msgid "Will integrate"
 msgstr "sẽ tích hợp"
@@ -10142,95 +10234,10 @@ msgctxt "unread_all_users"
 msgid "Read all users"
 msgstr "Đánh dấu đã đọc tất cả user"
 
-msgctxt ".change_chat_button"
-msgid "Change chat button"
-msgstr "Thay đổi chat button"
+msgctxt ".recommended_margins_footer"
+msgid "Recommended margins and footers"
+msgstr "Khoảng cách lề và chân trang khuyến nghị"
 
-msgctxt ".choose_large_small_window_type"
-msgid "Choose a large or small window type to fit your website"
-msgstr "Lựa chọn một loại cửa sổ to hay nhỏ để phù hợp với website của bạn"
-
-msgctxt ".pattern"
-msgid "Pattern"
-msgstr "Xem mẫu"
-
-msgctxt ".standard"
-msgid "Standard"
-msgstr "Tieu chuẩn"
-
-msgctxt ".compact"
-msgid "Compact"
-msgstr "gọn nhẹ"
-
-msgctxt ".as_tall_as_screen_height"
-msgid "As tall as the screen height"
-msgstr "Cao bằng chiều cao màn hình"
-
-msgctxt ".type_windown"
-msgid "Type windown"
-msgstr "Loại cửa sổ"
-
-msgctxt ".size"
-msgid "Size"
-msgstr "Kích thước"
-
-msgctxt ".custom_height_width_windown_chat"
-msgid "Custom height width windown chat"
-msgstr "Điều chỉnh chiều rộng và chiều cao của cửa sổ  chat"
-
-msgctxt ".width"
-msgid "Width"
-msgstr "Chiều rộng"
-
-msgctxt ".height"
-msgid "Height"
-msgstr "Chiều cao"
-
-msgctxt ".trademark"
-msgid "Trademark"
-msgstr "Thương hiệu"
-
-msgctxt ".brand"
-msgid "Brand"
-msgstr "Nhãn hiệu"
-
-msgctxt ".show_logo_and_interact_chanel_or_show_avatar_agent_of_windown_chat"
-msgid "Show logo and interact chanel or show avatar agent of windown chat"
-msgstr "Hiển thị logo và các kênh tương tác, hoặc hiển thị avatar agent trên màn hình chính của cửa sổ chat"
-
-msgctxt ".interact_chanel"
-msgid "Interact chanel"
-msgstr "Kênh tương tác"
-
-msgctxt ".color"
-msgid "Color"
-msgstr "Màu sắc"
-
-msgctxt ".color_primary"
-msgid "Color primary"
-msgstr "Màu chính"
-
-msgctxt ".gradient"
-msgid "Gradient"
-msgstr "Dải màu"
-
-msgctxt ".single_color"
-msgid "Single color"
-msgstr "Màu đơn sắc"
-
-msgctxt ".color_message"
-msgid "Color message"
-msgstr "Màu tin nhắn"
-
-msgctxt ".introduction"
-msgid "Introduction"
-msgstr "Lời giới thiệu"
-
-msgctxt ".auto_display_appropriate_or_select_langue"
-msgid "Automatically display the appropriate language or a selected language"
-msgstr "Subiz tự động hiển thị ngôn ngữ phù hợp hoặc một ngôn ngữ được lựa chọn"
-
-msgctxt ".vietnamese_content_edit_on_chat_windown"
-msgid "Vietnamese content editing on chat window"
-msgstr "Chỉnh sửa nội dung tiếng Việt trên cửa sổ chat"
-
+msgctxt ".install_button_position_on_phone"
+msgid "Install button position on phone"
+msgstr "Cài đặt vị trí button trên điện thoại"

@@ -10499,3 +10499,11 @@ msgstr "Subiz automatically display the appropriate language or a selected langu
 msgctxt ".vietnamese_content_edit_on_chat_windown"
 msgid "Vietnamese content editing on chat window"
 msgstr "Vietnamese content editing on chat window"
+
+msgctxt ".recommended_margins_footer"
+msgid "Recommended margins and footers"
+msgstr "Recommended margins and footers"
+
+msgctxt ".install_button_position_on_phone"
+msgid "Install button position on phone"
+msgstr "Install button position on phone"
