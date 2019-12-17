@@ -822,6 +822,7 @@
 	"fields_duplicate_key": "Key của bạn đã được sử dụng",
 	"file": "Tệp",
 	"file_size_big": "File size needs to be less than 25MB",
+	"file_type_incorrect": "{0} file không đúng định dạng",
 	"file_upload": "Tải lên tệp",
 	"filter": "Lọc user",
 	"filter_agents": "Lọc agents",

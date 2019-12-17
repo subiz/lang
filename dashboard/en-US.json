@@ -822,6 +822,7 @@
 	"fields_duplicate_key": "The key has been duplicated",
 	"file": "File",
 	"file_size_big": "File size needs to be less than 25MB",
+	"file_type_incorrect": "{0} file is incorrect",
 	"file_upload": "File upload",
 	"filter": "Filter",
 	"filter_agents": "Lọc agents",

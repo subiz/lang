@@ -10508,3 +10508,7 @@ msgctxt ".install_button_position_on_phone"
 msgid "Install button position on phone"
 msgstr "Install button position on phone"
 
+msgctxt ".file_type_incorrect"
+msgid "{0} file is incorrect"
+msgstr "{0} file is incorrect"
+
