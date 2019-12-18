@@ -361,3 +361,19 @@ msgstr "Turn on notification"
 msgctxt ".menu_more"
 msgid "More action"
 msgstr "More action"
+
+msgctxt ".prechat_form_thanks"
+msgid "Thank for your information"
+msgstr "Thank for your information"
+
+msgctxt ".offline_form_thanks"
+msgid "Thank you! Your message has been sent. Our support team will contact you soon."
+msgstr "Thank you! Your message has been sent. Our support team will contact you soon."
+
+msgctxt ".offline_preform_btn"
+msgid "Leave a message"
+msgstr "Leave a message"
+
+msgctxt ".prechat_preform_btn"
+msgid "Chat now"
+msgstr "Chat now"

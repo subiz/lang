@@ -210,6 +210,14 @@ msgctxt ".notify"
 msgid "Notification"
 msgstr "Nhận thông báo"
 
+msgctxt ".offline_form_thanks"
+msgid "Thank you! Your message has been sent. Our support team will contact you soon."
+msgstr "Cảm ơn bạn! Tin nhắn của bạn đã được gửi. Chúng tôi sẽ sớm liên hệ lại với bạn."
+
+msgctxt ".offline_preform_btn"
+msgid "Leave a message"
+msgstr "Để lại tin nhắn"
+
 msgctxt ".or"
 msgid "or"
 msgstr "hoặc"
@@ -233,6 +241,14 @@ msgstr "Ví dụ 0423857xxx"
 msgctxt ".powered_by"
 msgid "We run on {logo} subiz"
 msgstr "We run on {logo} subiz"
+
+msgctxt ".prechat_form_thanks"
+msgid "Thank for your information"
+msgstr "Cảm ơn bạn đã nhập thông tin"
+
+msgctxt ".prechat_preform_btn"
+msgid "Chat now"
+msgstr "Gửi tin nhắn"
 
 msgctxt ".price"
 msgid "Price"
