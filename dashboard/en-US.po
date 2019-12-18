@@ -10596,3 +10596,27 @@ msgstr "Design windown chat"
 msgctxt ".setup_website"
 msgid "Set up website"
 msgstr "Set up website"
+
+msgctxt ".avatar_display"
+msgid "Avatar display"
+msgstr "Avatar display"
+
+msgctxt ".support_img_type"
+msgid "Support img type"
+msgstr "Support img type"
+
+msgctxt ".choose_from_desktop"
+msgid "Choose from desktop"
+msgstr "Choose from desktop"
+
+msgctxt ".user_button"
+msgid "User button"
+msgstr "Use button"
+
+msgctxt ".small"
+msgid "Small"
+msgstr "small"
+
+msgctxt ".large"
+msgid "Large"
+msgstr "large"
