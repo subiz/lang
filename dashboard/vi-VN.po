@@ -2326,6 +2326,10 @@ msgctxt ".description"
 msgid "Description"
 msgstr "Mô tả"
 
+msgctxt ".design_window_chat"
+msgid "Design windown chat"
+msgstr "Thiết kế cửa sổ chat"
+
 msgctxt ".desktop"
 msgid "Desktop"
 msgstr "Máy tính"
@@ -8623,8 +8627,8 @@ msgid "Delete Segment"
 msgstr "Xóa phân khúc"
 
 msgctxt ".setting_segment_list_create_advance"
-msgid "Create more user segments with Subiz Advance"
-msgstr "Tạo thêm nhiều phân khúc với Subiz Advance"
+msgid "Create more user segments with Subiz"
+msgstr "Create more user segments with Subiz Advance"
 
 msgctxt ".setting_segment_list_header"
 msgid "Segments"
@@ -8797,6 +8801,10 @@ msgstr "Mở Cài đặt"
 msgctxt ".setup_templates"
 msgid "Create a message template"
 msgstr "Thiết lập Tin nhắn mẫu"
+
+msgctxt ".setup_website"
+msgid "Set up website"
+msgstr "Cài đặt lên website"
 
 msgctxt ".share"
 msgid "Share"

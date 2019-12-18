@@ -3754,7 +3754,7 @@ msgid "Delete Segment"
 msgstr "Delete Segment"
 
 msgctxt ".setting_segment_list_create_advance"
-msgid "Create more user segments with Subiz Advance"
+msgid "Create more user segments with Subiz"
 msgstr "Create more user segments with Subiz Advance"
 
 msgctxt ".setting_segment_list_header"
@@ -10587,3 +10587,12 @@ msgstr "Send message of guest to email"
 msgctxt ".send_dupl_mail"
 msgid "You can enter multiple emails and separated by spaces"
 msgstr "You can enter multiple emails and separated by spaces"
+
+msgctxt ".design_window_chat"
+msgid "Design windown chat"
+msgstr "Design windown chat"
+
+
+msgctxt ".setup_website"
+msgid "Set up website"
+msgstr "Set up website"
