@@ -111,8 +111,8 @@ msgid "other(s)"
 msgstr "other(s)"
 
 msgctxt ".powered_by"
-msgid "We run on {logo} subiz"
-msgstr "We run on {logo} subiz"
+msgid "We run on"
+msgstr "We run on"
 
 msgctxt ".question_email"
 msgid ""
@@ -377,3 +377,11 @@ msgstr "Leave a message"
 msgctxt ".prechat_preform_btn"
 msgid "Chat now"
 msgstr "Chat now"
+
+msgctxt ".offline_form_btn"
+msgid "Leave a message"
+msgstr "Leave a message"
+
+msgctxt ".prechat_form_btn"
+msgid "Start the chat"
+msgstr "Start the chat"

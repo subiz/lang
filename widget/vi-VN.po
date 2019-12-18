@@ -210,6 +210,10 @@ msgctxt ".notify"
 msgid "Notification"
 msgstr "Nhận thông báo"
 
+msgctxt ".offline_form_btn"
+msgid "Leave a message"
+msgstr "Để lại tin nhắn"
+
 msgctxt ".offline_form_thanks"
 msgid "Thank you! Your message has been sent. Our support team will contact you soon."
 msgstr "Cảm ơn bạn! Tin nhắn của bạn đã được gửi. Chúng tôi sẽ sớm liên hệ lại với bạn."
@@ -239,8 +243,12 @@ msgid "E.g 0423857xxx"
 msgstr "Ví dụ 0423857xxx"
 
 msgctxt ".powered_by"
-msgid "We run on {logo} subiz"
-msgstr "We run on {logo} subiz"
+msgid "We run on"
+msgstr "We run on"
+
+msgctxt ".prechat_form_btn"
+msgid "Start the chat"
+msgstr "Bắt đầu hội thoại"
 
 msgctxt ".prechat_form_thanks"
 msgid "Thank for your information"
