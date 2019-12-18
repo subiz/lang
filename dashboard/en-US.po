@@ -10512,3 +10512,78 @@ msgctxt ".file_type_incorrect"
 msgid "{0} file is incorrect"
 msgstr "{0} file is incorrect"
 
+msgctxt ".setting_ask_info_before_eval_chat"
+msgid "Advanced widget settings such as asking information before chatting, evaluating after chatting"
+msgstr "Advanced widget settings such as asking information before chatting, evaluating after chatting"
+
+msgctxt ".let_us_what_you_want_to_you_not_seen"
+msgid "Let us know what you want to add to the widget that you have not seen here"
+msgstr "Let us know what you want to add to the widget that you have not seen here"
+
+msgctxt ".ask_info_before_chat"
+msgid "Ask for information before chatting"
+msgstr "Ask for information before chatting"
+
+msgctxt ".allow_guest_ask_info_before_chat"
+msgid "Allows guests to ask for information before chatting"
+msgstr "Allows guests to ask for information before chatting"
+
+msgctxt ".obligatory"
+msgid "Obligatory"
+msgstr "Obligatory"
+
+msgctxt ".display_name"
+msgid "Display name"
+msgstr "Display name"
+
+msgctxt ".add_group"
+msgid "Add group"
+msgstr "Add group"
+
+msgctxt ".field_can_not_empty"
+msgid "Field not empty"
+msgstr "Field can not empty"
+
+msgctxt ".add_ingredient"
+msgid "Add ingredient"
+msgstr "Add ingredient"
+
+msgctxt ".ask_info_offline"
+msgid "Ask information when offline"
+msgstr "Ask information when Offline"
+
+msgctxt ".ask_info_sup_off"
+msgid "Ask information when support offline"
+msgstr "Ask information when support offline"
+
+msgctxt ".display_setting"
+msgid "Display setting"
+msgstr "Display setting"
+
+msgctxt ".info_inquiry_form"
+msgid "The offline information inquiry form will be displayed when"
+msgstr "The offline information inquiry form will be displayed when"
+
+msgctxt ".support_offline"
+msgid "Support offline"
+msgstr "Support Offline"
+
+msgctxt ".out_work_hour"
+msgid "Outside working hours"
+msgstr "Outside working hours"
+
+msgctxt ".auto_close_conver"
+msgid "Automatically close the conversation when guests fill out the form"
+msgstr "Automatically close the conversation when guests fill out the form"
+
+msgctxt ".guest_not_conti_send"
+msgid "Guest will not continue to send message"
+msgstr "Guest will not continue to send message"
+
+msgctxt ".send_mess_of_guest_to_mail"
+msgid "Send message of guest to email"
+msgstr "Send message of guest to email"
+
+msgctxt ".send_dupl_mail"
+msgid "You can enter multiple emails and separated by spaces"
+msgstr "You can enter multiple emails and separated by spaces"

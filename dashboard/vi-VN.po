@@ -10246,3 +10246,70 @@ msgctxt "unread_all_users"
 msgid "Read all users"
 msgstr "Đánh dấu đã đọc tất cả user"
 
+msgctxt ".setting_ask_info_before_eval_chat"
+msgid "Advanced widget settings such as asking information before chatting, evaluating after chatting"
+msgstr "Thiêt lập nâng cao cho widget như hỏi thông tin trước khi chat, đánh giá sau khi chat"
+
+msgctxt ".let_us_what_you_want_to_you_not_seen"
+msgid "Let us know what you want to add to the widget that you have not seen here"
+msgstr "Hãy cho chúng tôi biết những gì bạn muốn thêm vào widget mà chưa nhìn thấy tại đây"
+
+msgctxt ".ask_info_before_chat"
+msgid "Ask for information before chatting"
+msgstr "Hỏi thông tin trước khi chat"
+
+msgctxt ".allow_guest_ask_info_before_chat"
+msgid "Allows guests to ask for information before chatting"
+msgstr "Cho phép hỏi thông tin của khách trước khi trò chuyện"
+
+msgctxt ".add_group"
+msgid "Add group"
+msgstr "Tạo nhóm"
+
+msgctxt ".field_can_not_empty"
+msgid "Field can not empty"
+msgstr "Trường này không thể  để trống"
+
+msgctxt ".add_ingredient"
+msgid "Add ingredient"
+msgstr "Thêm thành phần"
+
+msgctxt ".ask_info_offline"
+msgid "Ask information when offline"
+msgstr "Hỏi thông tin khi Offline"
+
+msgctxt ".ask_info_sup_off"
+msgid "Ask information when support offline"
+msgstr "Hỏi thông tin của khách khi hỗ trợ viên không online"
+
+msgctxt ".display_setting"
+msgid "Display setting"
+msgstr "Cài đặt hiển thị"
+
+msgctxt ".info_inquiry_form"
+msgid "The offline information inquiry form will be displayed when"
+msgstr "Form hỏi thông tin Offline sẽ được hiển thị khi"
+
+msgctxt ".support_offline"
+msgid "Support offline"
+msgstr "Hỗ trợ viên Offline"
+
+msgctxt ".out_work_hour"
+msgid "Outside working hours"
+msgstr "Ngoài giờ làm việc"
+
+msgctxt ".auto_close_conver"
+msgid "Automatically close the conversation when guests fill out the form"
+msgstr "Tự động đóng cuộc thoại sau khi khách điền form"
+
+msgctxt ".guest_not_conti_send"
+msgid "Guest will not continue to send message"
+msgstr "Khách sẽ không tiếp tục gửi tin nhắn"
+
+msgctxt ".send_mess_of_guest_to_mail"
+msgid "Send message of guest to email"
+msgstr "Gửi nội dung tin nhắn của khách về email"
+
+msgctxt ".send_dupl_mail"
+msgid "You can enter multiple emails and separated by spaces"
+msgstr "Bạn có thể nhập nhiều email và cách nhau bởi dấu cách"
