@@ -10644,3 +10644,7 @@ msgstr "Message"
 msgctxt ".choose_talk_to"
 msgid "Choose to talk to"
 msgstr "Choose to talk to"
+
+msgctxt ".question"
+msgid "Question"
+msgstr "Question"

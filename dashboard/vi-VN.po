@@ -5962,6 +5962,10 @@ msgctxt ".put_subiz_chat_in_minute"
 msgid "Put Subiz chat window on your website in just a minute"
 msgstr "Đặt cửa sổ chat Subiz lên website của bạn chỉ trong 1 phút"
 
+msgctxt ".question"
+msgid "Question"
+msgstr "Câu hỏi"
+
 msgctxt ".quick_reply"
 msgid "Quick Reply"
 msgstr "Câu trả lời nhanh"
