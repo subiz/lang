@@ -34,6 +34,7 @@
 	"error_invalid_list_value": "Invalid value",
 	"error_invalid_number": "Invalid number",
 	"error_invalid_url": "Invalid URL",
+	"error_send_message": "Couldn't send. Click here to resend",
 	"false": "False",
 	"frequently_emojis": "Frequently used",
 	"fullname": "Full name",

@@ -385,3 +385,7 @@ msgstr "Leave a message"
 msgctxt ".prechat_form_btn"
 msgid "Start the chat"
 msgstr "Start the chat"
+
+msgctxt ".error_send_message"
+msgid "Couldn't send. Click here to resend"
+msgstr "Couldn't send. Click here to resend"

@@ -34,6 +34,7 @@
 	"error_invalid_list_value": "Giá trị không hợp lệ",
 	"error_invalid_number": "Số không khả dụng",
 	"error_invalid_url": "Đường dẫn không khả dụng",
+	"error_send_message": "Không gửi được. Bấm vào đây để thử lại",
 	"false": "False (Sai)",
 	"frequently_emojis": "Thường sử dụng",
 	"fullname": "Họ và tên",

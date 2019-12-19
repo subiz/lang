@@ -138,6 +138,10 @@ msgctxt ".error_invalid_url"
 msgid "Invalid URL"
 msgstr "Đường dẫn không khả dụng"
 
+msgctxt ".error_send_message"
+msgid "Couldn't send. Click here to resend"
+msgstr "Không gửi được. Bấm vào đây để thử lại"
+
 msgctxt ".false"
 msgid "False"
 msgstr "False (Sai)"
