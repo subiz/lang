@@ -2408,7 +2408,7 @@ msgstr "Hiển thị logo"
 
 msgctxt ".display_name"
 msgid "Display name"
-msgstr "Display name"
+msgstr "Tên hiển thị"
 
 msgctxt ".display_setting"
 msgid "Display setting"
@@ -3340,7 +3340,7 @@ msgstr "Xem chi tiết"
 
 msgctxt ".field_can_not_empty"
 msgid "Field not empty"
-msgstr "Field can not empty"
+msgstr "Trường này không được để trống"
 
 msgctxt ".field_settings"
 msgid "Fields"
