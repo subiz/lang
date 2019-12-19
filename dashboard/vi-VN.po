@@ -2402,8 +2402,8 @@ msgctxt ".display_every_page"
 msgid "To display on every page"
 msgstr "Hiển thị mọi trang"
 
-msgctxt ".display_logo_chanel"
-msgid "Display logo chanel"
+msgctxt ".display_logo_channel"
+msgid "Display logo channel"
 msgstr "Hiển thị logo"
 
 msgctxt ".display_name"
@@ -2414,9 +2414,13 @@ msgctxt ".display_setting"
 msgid "Display setting"
 msgstr "Cài đặt hiển thị"
 
+msgctxt ".display_team_member"
+msgid "Display team member"
+msgstr "Hiển thị agent"
+
 msgctxt ".display_team_number"
 msgid "Display team number"
-msgstr "Hiển thị agent"
+msgstr "Display agent"
 
 msgctxt ".displayed_attributes"
 msgid "Displayed attributes"

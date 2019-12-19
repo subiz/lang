@@ -10621,12 +10621,12 @@ msgctxt ".large"
 msgid "Large"
 msgstr "large"
 
-msgctxt ".display_logo_chanel"
-msgid "Display logo chanel"
+msgctxt ".display_logo_channel"
+msgid "Display logo channel"
 msgstr "Display logo"
 
-msgctxt ".display_team_number"
-msgid "Display team number"
+msgctxt ".display_team_member"
+msgid "Display team member"
 msgstr "Display agent"
 
 msgctxt ".display_team_number"
