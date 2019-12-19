@@ -10498,7 +10498,7 @@ msgstr "Subiz automatically display the appropriate language or a selected langu
 
 msgctxt ".vietnamese_content_edit_on_chat_windown"
 msgid "Vietnamese content editing on chat window"
-msgstr "Vietnamese content editing on chat window"
+msgstr "You can edit content Vietnamese on chat window at here"
 
 msgctxt ".recommended_margins_footer"
 msgid "Recommended margins and footers"
@@ -10620,3 +10620,27 @@ msgstr "small"
 msgctxt ".large"
 msgid "Large"
 msgstr "large"
+
+msgctxt ".display_logo_chanel"
+msgid "Display logo chanel"
+msgstr "Display logo"
+
+msgctxt ".display_team_number"
+msgid "Display team number"
+msgstr "Display agent"
+
+msgctxt ".display_team_number"
+msgid "Display team number"
+msgstr "Display agent"
+
+msgctxt ".title_form_default"
+msgid "Title form default"
+msgstr "Wellcome to Subiz! Please complete the following information before connecting to our support staff"
+
+msgctxt ".default_question_label"
+msgid "Default_question_label"
+msgstr "Message"
+
+msgctxt ".choose_talk_to"
+msgid "Choose to talk to"
+msgstr "Choose to talk to"

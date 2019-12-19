@@ -1610,6 +1610,10 @@ msgctxt ".choose_large_small_window_type"
 msgid "Choose a large or small window type to fit your website"
 msgstr "Lựa chọn một loại cửa sổ to hay nhỏ để phù hợp với website của bạn"
 
+msgctxt ".choose_talk_to"
+msgid "Choose to talk to"
+msgstr "Lựa chọn nói chuyện với"
+
 msgctxt ".chose"
 msgid "Chose"
 msgstr "Chọn"
@@ -2230,6 +2234,10 @@ msgctxt ".default_payment_method"
 msgid "Default"
 msgstr "Mặc định"
 
+msgctxt ".default_question_label"
+msgid "Default_question_label"
+msgstr "Tin nhắn"
+
 msgctxt ".default_rss_feed"
 msgid "Deault Feed subiz"
 msgstr "Tin tức chung Subiz"
@@ -2394,6 +2402,10 @@ msgctxt ".display_every_page"
 msgid "To display on every page"
 msgstr "Hiển thị mọi trang"
 
+msgctxt ".display_logo_chanel"
+msgid "Display logo chanel"
+msgstr "Hiển thị logo"
+
 msgctxt ".display_name"
 msgid "Display name"
 msgstr "Display name"
@@ -2401,6 +2413,10 @@ msgstr "Display name"
 msgctxt ".display_setting"
 msgid "Display setting"
 msgstr "Cài đặt hiển thị"
+
+msgctxt ".display_team_number"
+msgid "Display team number"
+msgstr "Hiển thị agent"
 
 msgctxt ".displayed_attributes"
 msgid "Displayed attributes"
@@ -9466,6 +9482,10 @@ msgctxt ".title_filter_user"
 msgid "Filter User"
 msgstr "Lọc user"
 
+msgctxt ".title_form_default"
+msgid "Title form default"
+msgstr "Chào mừng đến Subiz! Bạn hãy hoàn thành những thông tin dưới đây trước khi bắt đầu kết nối với hỗ trợ viên của chúng tôi nhé."
+
 msgctxt ".title_image"
 msgid "Image"
 msgstr "Chèn hình ảnh"
@@ -10072,7 +10092,7 @@ msgstr "Tiếng Việt"
 
 msgctxt ".vietnamese_content_edit_on_chat_windown"
 msgid "Vietnamese content editing on chat window"
-msgstr "Chỉnh sửa nội dung tiếng Việt trên cửa sổ chat"
+msgstr "Bạn có thể sửa tất cả nội dung Tiếng Việt tại đây"
 
 msgctxt ".view_invoice"
 msgid "View invoice"
