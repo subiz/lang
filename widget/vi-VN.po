@@ -178,6 +178,10 @@ msgctxt ".locate"
 msgid "locate"
 msgstr "Tìm"
 
+msgctxt ".menu_back"
+msgid "Back"
+msgstr "Quay lại"
+
 msgctxt ".menu_more"
 msgid "More action"
 msgstr "Thêm"
@@ -306,6 +310,10 @@ msgctxt ".select_your_answer"
 msgid "Select your answer"
 msgstr "Chọn câu trả lời"
 
+msgctxt ".send"
+msgid "Send"
+msgstr "Gửi"
+
 msgctxt ".send_file"
 msgid "Send files"
 msgstr "Gửi tệp"
@@ -361,6 +369,10 @@ msgstr "Thử lại"
 msgctxt ".turn_on_notification"
 msgid "Turn on notification"
 msgstr "Bật thông báo"
+
+msgctxt ".typing"
+msgid "is typing..."
+msgstr "đang gõ..."
 
 msgctxt ".widget_title"
 msgid "Chat with us"

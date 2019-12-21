@@ -389,3 +389,15 @@ msgstr "Start the chat"
 msgctxt ".error_send_message"
 msgid "Couldn't send. Click here to resend"
 msgstr "Couldn't send. Click here to resend"
+
+msgctxt ".typing"
+msgid "is typing..."
+msgstr "is typing..."
+
+msgctxt ".menu_back"
+msgid "Back"
+msgstr "Back"
+
+msgctxt ".send"
+msgid "Send"
+msgstr "Send"
