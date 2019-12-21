@@ -3515,8 +3515,8 @@ msgid "Have a great day at work!"
 msgstr "Chúc bạn một ngày làm việc hiệu quả!"
 
 msgctxt ".greeting"
-msgid "Greating"
-msgstr "Greating"
+msgid "Greeting"
+msgstr "Lời chào"
 
 msgctxt ".greeting_user_visited"
 msgid "Greeting user when they visited website"

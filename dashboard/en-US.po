@@ -10233,8 +10233,8 @@ msgstr "Mobile"
 
 
 msgctxt ".greeting"
-msgid "Greating"
-msgstr "Lời chào"
+msgid "Greeting"
+msgstr "Greeting"
 
 msgctxt ".greeting_user_visited"
 msgid "Greeting user when they visited website"
