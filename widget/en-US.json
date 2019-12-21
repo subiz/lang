@@ -27,6 +27,7 @@
 	"empty_convo_text": "Send message to start conversation!",
 	"end_chat": "End chat",
 	"ended_this_conversation": "ended this conversation",
+	"error_email_invalid": "Email is not valid",
 	"error_empty": "The value must not be empty",
 	"error_empty_list": "You must select at least one value",
 	"error_invalid_color": "Invalid hex color code",

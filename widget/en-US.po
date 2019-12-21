@@ -405,3 +405,7 @@ msgstr "Send"
 msgctxt ".empty_convo_text"
 msgid "Send message to start conversation!"
 msgstr "Send message to start conversation!"
+
+msgctxt ".error_email_invalid"
+msgid "Email is not valid"
+msgstr "Email is not valid"

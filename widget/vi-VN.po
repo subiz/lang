@@ -110,6 +110,10 @@ msgctxt ".ended_this_conversation"
 msgid "ended this conversation"
 msgstr "kết thúc hội thoại"
 
+msgctxt ".error_email_invalid"
+msgid "Email is not valid"
+msgstr "Email không hợp lệ"
+
 msgctxt ".error_empty"
 msgid "The value must not be empty"
 msgstr "Vui lòng hoàn thành trường thông tin này"

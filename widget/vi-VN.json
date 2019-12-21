@@ -27,6 +27,7 @@
 	"empty_convo_text": "Nhắn tin để bắt đầu hội thoại!",
 	"end_chat": "Kết thúc hội thoại",
 	"ended_this_conversation": "kết thúc hội thoại",
+	"error_email_invalid": "Email không hợp lệ",
 	"error_empty": "Vui lòng hoàn thành trường thông tin này",
 	"error_empty_list": "Bạn chưa chọn giá trị nào",
 	"error_invalid_color": "Mã màu không khả dụng",
