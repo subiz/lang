@@ -98,6 +98,10 @@ msgctxt ".empty_conversation"
 msgid "Empty conversation"
 msgstr "Không có cuộc hội thoại nào"
 
+msgctxt ".empty_convo_text"
+msgid "Send message to start conversation!"
+msgstr "Nhắn tin để bắt đầu hội thoại!"
+
 msgctxt ".end_chat"
 msgid "End chat"
 msgstr "Kết thúc hội thoại"

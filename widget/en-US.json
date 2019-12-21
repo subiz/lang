@@ -24,6 +24,7 @@
 	"email_help": "E.g name@company.com",
 	"email_transcript": "Email transcript",
 	"empty_conversation": "Empty conversation",
+	"empty_convo_text": "Send message to start conversation!",
 	"end_chat": "End chat",
 	"ended_this_conversation": "ended this conversation",
 	"error_empty": "The value must not be empty",

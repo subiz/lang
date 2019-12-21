@@ -401,3 +401,7 @@ msgstr "Back"
 msgctxt ".send"
 msgid "Send"
 msgstr "Send"
+
+msgctxt ".empty_convo_text"
+msgid "Send message to start conversation!"
+msgstr "Send message to start conversation!"
