@@ -10370,6 +10370,10 @@ msgctxt "exist_user"
 msgid "User exist"
 msgstr "Tồn tại User"
 
+msgctxt "greeting_default"
+msgid "Greeting default"
+msgstr "Chào mừng bạn đến với website của chúng tôi"
+
 msgctxt "input_text_here"
 msgid "Input text here"
 msgstr "Nhập dữ liệu tại đây"
