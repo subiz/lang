@@ -2138,6 +2138,10 @@ msgctxt ".custom_lable"
 msgid "Custom Label"
 msgstr "Custom Label"
 
+msgctxt ".custom_lang_content_edit_on_chat_windown"
+msgid "You can edit content {0} on chat window at here"
+msgstr "Bạn có thể sửa tất cả nội dung {0} tại đây"
+
 msgctxt ".custom_minute"
 msgid "{0} minute"
 msgstr "{0} phút"
@@ -10097,10 +10101,6 @@ msgstr "Kết nối qua API"
 msgctxt ".vietnamese"
 msgid "Tiếng Việt"
 msgstr "Tiếng Việt"
-
-msgctxt ".vietnamese_content_edit_on_chat_windown"
-msgid "Vietnamese content editing on chat window"
-msgstr "Bạn có thể sửa tất cả nội dung Tiếng Việt tại đây"
 
 msgctxt ".view_invoice"
 msgid "View invoice"

@@ -10496,9 +10496,9 @@ msgctxt ".auto_display_appropriate_or_select_langue"
 msgid "Automatically display the appropriate language or a selected language"
 msgstr "Subiz automatically display the appropriate language or a selected language"
 
-msgctxt ".vietnamese_content_edit_on_chat_windown"
-msgid "Vietnamese content editing on chat window"
-msgstr "You can edit content Vietnamese on chat window at here"
+msgctxt ".custom_lang_content_edit_on_chat_windown"
+msgid "You can edit content {0} on chat window at here"
+msgstr "You can edit content {0} on chat window at here"
 
 msgctxt ".recommended_margins_footer"
 msgid "Recommended margins and footers"
