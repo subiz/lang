@@ -10366,6 +10366,34 @@ msgctxt ".zalo"
 msgid "Zalo"
 msgstr "Zalo"
 
+msgctxt "chart"
+msgid "Chart"
+msgstr "Biểu đồ"
+
+msgctxt "conversion_per_page"
+msgid "conversions per page"
+msgstr "chuyển đổi mỗi trang"
+
+msgctxt "conversion_rate"
+msgid "Conversion rate"
+msgstr "Tỉ lệ chuyển đổi"
+
+msgctxt "conversions"
+msgid "Conversions"
+msgstr "Chuyển đổi"
+
+msgctxt "conversions_count"
+msgid "Total conversions"
+msgstr "Số lần chuyển đổi"
+
+msgctxt "conversions_empty"
+msgid "Conversions is empty"
+msgstr "Không có dữ liệu"
+
+msgctxt "design"
+msgid "Design"
+msgstr "Thiết kế"
+
 msgctxt "exist_user"
 msgid "User exist"
 msgstr "Tồn tại User"
@@ -10374,6 +10402,10 @@ msgctxt "greeting_default"
 msgid "Greeting default"
 msgstr "Chào mừng bạn đến với website của chúng tôi"
 
+msgctxt "impressions_count"
+msgid "Total impressions"
+msgstr "Số lần thực thi"
+
 msgctxt "input_text_here"
 msgid "Input text here"
 msgstr "Nhập dữ liệu tại đây"
@@ -10381,6 +10413,18 @@ msgstr "Nhập dữ liệu tại đây"
 msgctxt "messenger"
 msgid "Messenger"
 msgstr "Messenger"
+
+msgctxt "notification"
+msgid "Notification"
+msgstr "Thông báo"
+
+msgctxt "object"
+msgid "Object"
+msgstr "Đối tượng"
+
+msgctxt "report"
+msgid "Report"
+msgstr "Thông báo"
 
 msgctxt "unread_all_users"
 msgid "Read all users"

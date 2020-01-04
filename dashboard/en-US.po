@@ -10652,3 +10652,47 @@ msgstr "Question"
 msgctxt "greeting_default"
 msgid "Greeting default"
 msgstr "Wellcome to our website"
+
+msgctxt "impressions_count"
+msgid "Total impressions"
+msgstr "Total impressions"
+
+msgctxt "conversions_count"
+msgid "Total conversions"
+msgstr "Total conversions"
+
+msgctxt "conversion_rate"
+msgid "Conversion rate"
+msgstr "Conversion rate"
+
+msgctxt "chart"
+msgid "Chart"
+msgstr "Chart"
+
+msgctxt "conversions"
+msgid "Conversions"
+msgstr "Conversions"
+
+msgctxt "conversions_empty"
+msgid "Conversions is empty"
+msgstr "Conversions is empty"
+
+msgctxt "conversion_per_page"
+msgid "conversions per page"
+msgstr "conversions per page"
+
+msgctxt "design"
+msgid "Design"
+msgstr "Design"
+
+msgctxt "object"
+msgid "Object"
+msgstr "Object"
+
+msgctxt "notification"
+msgid "Notification"
+msgstr "Notification"
+
+msgctxt "report"
+msgid "Report"
+msgstr "Report"
