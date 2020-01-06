@@ -99,6 +99,7 @@
 	"after_any_message": "Last message sent by anyone",
 	"after_any_message_des": "End conversation after a time period when last message sent by anyone",
 	"after_custom_roll": "After the customer rolls the mouse",
+	"after_scroll_percent": "After scroll percent",
 	"after_sec_inactivity": "After x seconds of inactivity",
 	"after_second_page": "after x seconds on the page",
 	"after_user_message": "Last message sent by user",

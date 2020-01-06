@@ -398,6 +398,10 @@ msgctxt ".after_custom_roll"
 msgid "After the customer rolls the mouse"
 msgstr "Sau khi khách hàng cuộn chuột"
 
+msgctxt ".after_scroll_percent"
+msgid "After scroll percent"
+msgstr "Sau khi cuộn chuột x phần trăm"
+
 msgctxt ".after_sec_inactivity"
 msgid "After x seconds of inactivity"
 msgstr "Sau x giây không hoạt động"

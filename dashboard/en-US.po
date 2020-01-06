@@ -10953,3 +10953,7 @@ msgstr "Use this condition when you want to display pop-ups for your website vis
 msgctxt ".description_scheduler_date"
 msgid "Use this condition when you want to display pop-ups to your website visitors for a specific date range"
 msgstr "Use this condition when you want to display pop-ups to your website visitors for a specific date range"
+
+msgctxt ".after_scroll_percent"
+msgid "After scroll percent"
+msgstr "After scroll percent"

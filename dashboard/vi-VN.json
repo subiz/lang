@@ -99,6 +99,7 @@
 	"after_any_message": "Tin nhắn cuối cùng được gửi bởi bất kỳ ai",
 	"after_any_message_des": "Kết thúc hội thoại sau tin nhắn cuối cùng sau một khoảng thời gian",
 	"after_custom_roll": "Sau khi khách hàng cuộn chuột",
+	"after_scroll_percent": "Sau khi cuộn chuột x phần trăm",
 	"after_sec_inactivity": "Sau x giây không hoạt động",
 	"after_second_page": "Sau x giây trên trang",
 	"after_user_message": "Tin nhắn cuối cùng được gửi bởi user",
