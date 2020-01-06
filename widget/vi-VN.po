@@ -16,7 +16,7 @@ msgstr "Nhận Thông báo"
 
 msgctxt ".allow_notification_desc"
 msgid "Click on “Allow” to confirm receiving updates via Push Notification"
-msgstr "Click on “Allow” to confirm receiving updates via Push Notification"
+msgstr "Bấm “Cho phép” để nhận cập nhật qua Push Notification"
 
 msgctxt ".and"
 msgid "and"
@@ -52,7 +52,7 @@ msgstr "Chọn"
 
 msgctxt ".close"
 msgid "Close"
-msgstr "Close"
+msgstr "Đóng"
 
 msgctxt ".connect_timeout"
 msgid "The connection has timed out"
@@ -68,7 +68,7 @@ msgstr "Trạng thái thội thoại: {state}"
 
 msgctxt ".conversations"
 msgid "Your conversations"
-msgstr "Your conversations"
+msgstr "Danh sách hội thoại"
 
 msgctxt ".conversations_unread"
 msgid "messaged you"
@@ -180,7 +180,7 @@ msgstr "Để lại tin nhắn"
 
 msgctxt ".left_this_conversation"
 msgid "left this conversation"
-msgstr "left this conversation"
+msgstr "đã rời hội thoại"
 
 msgctxt ".locate"
 msgid "locate"
