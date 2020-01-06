@@ -10680,7 +10680,7 @@ msgstr "Đối tượng"
 
 msgctxt "report"
 msgid "Report"
-msgstr "Thông báo"
+msgstr "Thống kê"
 
 msgctxt "unread_all_users"
 msgid "Read all users"
