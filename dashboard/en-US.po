@@ -10649,7 +10649,7 @@ msgctxt ".question"
 msgid "Question"
 msgstr "Question"
 
-msgctxt "greeting_default"
+msgctxt " greeting_default"
 msgid "Greeting default"
 msgstr "Wellcome to our website"
 
@@ -10681,10 +10681,6 @@ msgctxt "conversion_per_page"
 msgid "conversions per page"
 msgstr "conversions per page"
 
-msgctxt "design"
-msgid "Design"
-msgstr "Design"
-
 msgctxt "object"
 msgid "Object"
 msgstr "Object"
@@ -10696,3 +10692,264 @@ msgstr "Notification"
 msgctxt "report"
 msgid "Report"
 msgstr "Report"
+
+msgctxt ".design"
+msgid "Design"
+msgstr "Design"
+
+msgctxt ".target"
+msgid "Target"
+msgstr "Target"
+
+msgctxt ".display_when"
+msgid "Display when"
+msgstr "Display when"
+
+msgctxt ".determine_behavior_trigger"
+msgid "Determining user behavior will trigger the campaign and display the message"
+msgstr "Determining user behavior will trigger the campaign and display the message"
+
+msgctxt ".add_activation_condition"
+msgid "Add activation conditions"
+msgstr "Add activation conditions"
+
+msgctxt ".display_who"
+msgid "Display to who"
+msgstr "Display to who"
+
+msgctxt ".group_custom_see_info"
+msgid "Group your customers and specify who will see the information"
+msgstr "Group your customers and specify who will see the information"
+
+msgctxt ".campaign_timer"
+msgid "Campaign timer"
+msgstr "Campaign timer"
+
+msgctxt ".you_set_time_campaign"
+msgid "You can set a timer for the campaign. If you want your campaign to run now, skip this topic"
+msgstr "You can set a timer for the campaign. If you want your campaign to run now, skip this topic"
+
+msgctxt ".more_time_conditions"
+msgid "More time conditions"
+msgstr "More time conditions"
+
+msgctxt ".intent_exit_web"
+msgid "Intention to exit the web"
+msgstr "Intention to exit the web"
+
+msgctxt ".when_visitor_leave_site"
+msgid "When visitors are about to leave your site"
+msgstr "When visitors are about to leave your site"
+
+msgctxt ".after_sec_inactivity"
+msgid "After x seconds of inactivity"
+msgstr "After x seconds of inactivity"
+
+msgctxt ".when_visitor_inactivity_after"
+msgid "When the visitor is inactive after"
+msgstr "When the visitor is inactive after"
+
+msgctxt ".second"
+msgid "Second"
+msgstr "second"
+
+msgctxt ".after_custom_roll"
+msgid "After the customer rolls the mouse"
+msgstr "After the customer rolls the mouse"
+
+msgctxt ".screen"
+msgid "Screen"
+msgstr "screen"
+
+msgctxt ".after_second_page"
+msgid "After x seconds on the page"
+msgstr "after x seconds on the page"
+
+msgctxt ".visitor_page_least"
+msgid "When the visitor has been on the page for at least"
+msgstr "when the visitor has been on the page for at least"
+
+msgctxt ".new_visitor_return_visitor"
+msgid "New Visitor/Return Visitor"
+msgstr "New Visitor/returning Visitor"
+
+msgctxt ".pop_up_show_these"
+msgid "Pop-ups will show up for these"
+msgstr "Pop-ups will show up for these"
+
+msgctxt ".access_source"
+msgid "Access source"
+msgstr "Access source"
+
+msgctxt ".popup_visible_guest_source"
+msgid "The pop-up will be visible to guests from sources"
+msgstr "The pop-up will be visible to guests from sources"
+
+msgctxt ".location"
+msgid "Location"
+msgstr "Location"
+
+msgctxt ".popup_display_guest_from"
+msgid "A pop-up will be displayed for guests from"
+msgstr "A pop-up will be displayed for guests from"
+
+msgctxt ".guest_device_use"
+msgid "Guest device using"
+msgstr "Guest device is using"
+
+msgctxt ".time_on_page"
+msgid "Time on page"
+msgstr "Time on page"
+
+msgctxt ".popup_display_custom_least_page"
+msgid The popup will display to customers who have been on the least pages"
+msgstr "The popup will display to customers who have been on the least pages"
+
+msgctxt ".impression_limit"
+msgid "Impression limit"
+msgstr "Impression limit"
+
+msgctxt ".maximum_popup"
+msgid "Maximun popup"
+msgstr "Maximun popup"
+
+msgctxt ".time"
+msgid "Time"
+msgstr "time"
+
+msgctxt ".day_of_week"
+msgid "Day of the week"
+msgstr "Day of the week"
+
+msgctxt ".campagin_run_on"
+msgid "Campaign run on"
+msgstr "Campaign run on"
+
+msgctxt ".hour_of_day"
+msgid "Hour of day"
+msgstr "Hour of day"
+
+msgctxt ".day"
+msgid "Day"
+msgstr "day"
+
+msgctxt ".this_algo_provide_subiz"
+msgid "This is the algorithm provided by Subiz"
+msgstr "This is the algorithm provided by Subiz"
+
+msgctxt ".you_do_not_setup"
+msgid "You do not need to set up, just press Save to use"
+msgstr "You do not need to set up, just press Save to use"
+
+msgctxt ".how_it_work"
+msgid "How it work"
+msgstr "How it work"
+
+msgctxt ".description_exitl_intent"
+msgid "Use this event when you want to show pop-ups to visitors who are about to leave your site. It grabs the attention of visitors who are about to leave the site without converting, on mobile devices and computers"
+msgstr "Use this event when you want to show pop-ups to visitors who are about to leave your site. It grabs the attention of visitors who are about to leave the site without converting, on mobile devices and computers."
+
+msgctxt ".popup_display_when_scroll"
+msgid "Pop up will be displayed when mouse is scrolled"
+msgstr "Pop up will be displayed when mouse is scrolled"
+
+msgctxt ".description_scroll_percent"
+msgid "Use this event when you want to display a pop-up after the visitor has scrolled down on your page by at least X%. This attracts the attention of active guests"
+msgstr "Use this event when you want to display a pop-up after the visitor has scrolled down on your page by at least X%. This attracts the attention of active guests"
+
+msgctxt ".popup_display_after"
+msgid "A pop-up will be displayed after"
+msgstr "Pop-up will be displayed after"
+
+msgctxt ".description_after_pageview"
+msgid "Use this event when you want to show a pop-up window to visitors who have read your page for at least X seconds. If 0 seconds is set, a pop-up window will appear as soon as the page loads"
+msgstr "Use this event when you want to show a pop-up window to visitors who have read your page for at least X seconds. If 0 seconds is set, a pop-up window will appear as soon as the page loads."
+
+msgctxt ".when_visitor_inactivity"
+msgid "When the visitor is inactive (click, type or click)"
+msgstr "When the visitor is inactive (click, type or click)"
+
+msgctxt ".inactivity"
+msgid "inactivity"
+msgstr "inactivity"
+
+msgctxt ".description_inactivity_duration"
+msgid "Use this event when you want to display a pop-up window after x seconds of inactivity (mouse scrolling, keyboard typing, clicking ...). This attracts the attention of inactive guests. If set to 0 seconds, a pop-up window will appear as soon as the visitor"
+msgstr "Use this event when you want to display a pop-up window after x seconds of inactivity (mouse scrolling, keyboard typing, clicking ...). This attracts the attention of inactive guests. If set to 0 seconds, a pop-up window will appear as soon as the visitor."
+
+msgctxt ".total_sessions"
+msgid "Total sessions"
+msgstr "Total sessions"
+
+msgctxt ".specified"
+msgid "specified"
+msgstr "chỉ định"
+
+msgctxt ".specified_source"
+msgid "specified source"
+msgstr "specified source"
+
+msgctxt ".popup_display_device_type_specified"
+msgid "Pop-up will display device type specified"
+msgstr "Pop-up will display device type specified"
+
+msgctxt ".popup_display_after_page_view"
+msgid "A pop-up will be displayed for guests viewing at least x pages"
+msgstr "A pop-up will be displayed for guests viewing at least x pages"
+
+msgctxt ".set_max_time_display"
+msgid "Set the maximum number of times pop-ups are displayed to customers"
+msgstr "Set the maximum number of times pop-ups are displayed to customers"
+
+msgctxt ".description_source"
+msgid "Use this condition when you want to group visitors based on source condition. Sources such as Search, Organic, Direct ... are determined by Subiz. The custom source is the first URL of the session that visitors view the page"
+msgstr "Use this condition when you want to group visitors based on source condition. Sources such as Search, Organic, Direct ... are determined by Subiz. The custom source is the first URL of the session that visitors view the page."
+
+msgctxt ".popup_display_places"
+msgid "A pop-up will be displayed for guests from specify places"
+msgstr "Pop-up will be displayed for guests from specify places"
+
+msgctxt ".search_and_choose"
+msgid "Search and choose"
+msgstr "Search and choose"
+
+msgctxt ".description_location"
+msgid "Use this condition when you want the pop-up to only be visible to a group of guests from designated areas. Subiz automatically recognizes the location via the visitor's IP address"
+msgstr "Use this condition when you want the pop-up to only be visible to a group of guests from designated areas. Subiz automatically recognizes the location via the visitor's IP address."
+
+msgctxt ".description_device"
+msgid "Visitors on each device type will have different habits. Use this condition if you want to group visitors by device"
+msgstr "Visitors on each device type will have different habits. Use this condition if you want to group visitors by device."
+
+msgctxt ".description_time_on_page"
+msgid "Use this condition when you want to display a pop-up window for visitors after X seconds on the page. You need to determine the average time visitors read the content. If set to 0 seconds, a pop-up window will appear immediately"
+msgstr "Use this condition when you want to display a pop-up window for visitors after X seconds on the page. You need to determine the average time visitors read the content. If set to 0 seconds, a pop-up window will appear immediately."
+
+
+msgctxt ".description_impression_limit"
+msgid "Use this condition when you want to show pop-ups multiple times to a visitor. Note that if the guest has completed the action on the pop-up, it will not show again. If the visitor has turned off the pop-up, it will only show again when the page reloads or opens a new page"
+msgstr "Use this condition when you want to show pop-ups multiple times to a visitor. Note that if the guest has completed the action on the pop-up, it will not show again. If the visitor has turned off the pop-up, it will only show again when the page reloads or opens a new page."
+
+msgctxt ".campaign_run_weekdays"
+msgid "The campaign runs on weekdays"
+msgstr "The campaign runs on weekdays"
+
+msgctxt ".campaign_run_time"
+msgid "Campaigns run by time"
+msgstr "Campaigns run by time"
+
+msgctxt ".campaign_run_specific_days"
+msgid "The campaign runs in a specific series of days"
+msgstr "The campaign runs in a specific series of days"
+
+msgctxt ".description_scheduler_days"
+msgid "Use this condition when you want to show pop-ups to your website visitors on specific days of the week"
+msgstr "Use this condition when you want to show pop-ups to your website visitors on specific days of the week."
+
+msgctxt ".description_scheduler_time"
+msgid "Use this condition when you want to display pop-ups for your website visitors at specific times"
+msgstr "Use this condition when you want to display pop-ups for your website visitors at specific times"
+
+msgctxt ".description_scheduler_date"
+msgid "Use this condition when you want to display pop-ups to your website visitors for a specific date range"
+msgstr "Use this condition when you want to display pop-ups to your website visitors for a specific date range"

@@ -1,3 +1,7 @@
+msgctxt " greeting_default"
+msgid "Greeting default"
+msgstr "Wellcome to our website"
+
 msgctxt ".2navigate"
 msgid "to navigate"
 msgstr "để điều hướng"
@@ -118,6 +122,10 @@ msgctxt ".access_gallery_title"
 msgid "Subiz would like to access your gallery to download this file"
 msgstr "Subiz cần sự cho phép truy cập vào Bộ sưu tập của bạn để tải về tệp này"
 
+msgctxt ".access_source"
+msgid "Access source"
+msgstr "Nguồn truy cập"
+
 msgctxt ".account_credits"
 msgid "Account credits"
 msgstr "Credits của tài khoản"
@@ -193,6 +201,10 @@ msgstr "Thêm"
 msgctxt ".add_action"
 msgid "Add Action"
 msgstr "Thêm hành động"
+
+msgctxt ".add_activation_condition"
+msgid "Add activation conditions"
+msgstr "Thêm điều kiện kích hoạt"
 
 msgctxt ".add_agent"
 msgid "Add agent"
@@ -381,6 +393,18 @@ msgstr "Tin nhắn cuối cùng được gửi bởi bất kỳ ai"
 msgctxt ".after_any_message_des"
 msgid "End conversation after a time period when last message sent by anyone"
 msgstr "Kết thúc hội thoại sau tin nhắn cuối cùng sau một khoảng thời gian"
+
+msgctxt ".after_custom_roll"
+msgid "After the customer rolls the mouse"
+msgstr "Sau khi khách hàng cuộn chuột"
+
+msgctxt ".after_sec_inactivity"
+msgid "After x seconds of inactivity"
+msgstr "Sau x giây không hoạt động"
+
+msgctxt ".after_second_page"
+msgid "After x seconds on the page"
+msgstr "Sau x giây trên trang"
 
 msgctxt ".after_user_message"
 msgid "Last message sent by user"
@@ -1298,9 +1322,29 @@ msgctxt ".callback_url"
 msgid "Callback URL"
 msgstr "Callback URL"
 
+msgctxt ".campagin_run_on"
+msgid "Campaign run on"
+msgstr "Chiến dịch chạy vào"
+
 msgctxt ".campaign"
 msgid "Campaign"
 msgstr "Campaign"
+
+msgctxt ".campaign_run_specific_days"
+msgid "The campaign runs in a specific series of days"
+msgstr "Chiến dịch chạy trong một chuỗi ngày cụ thể"
+
+msgctxt ".campaign_run_time"
+msgid "Campaigns run by time"
+msgstr "Chiến dịch chạy theo khung giờ"
+
+msgctxt ".campaign_run_weekdays"
+msgid "The campaign runs on weekdays"
+msgstr "Chiến dịch chạy vào ngày trong tuần"
+
+msgctxt ".campaign_timer"
+msgid "Campaign timer"
+msgstr "Hẹn giờ chiến dịch"
 
 msgctxt ".cancel"
 msgid "Cancel"
@@ -2226,6 +2270,14 @@ msgctxt ".date_time"
 msgid "Date time"
 msgstr "Thời gian"
 
+msgctxt ".day"
+msgid "Day"
+msgstr "ngày"
+
+msgctxt ".day_of_week"
+msgid "Day of the week"
+msgstr "Ngày trong tuần"
+
 msgctxt ".decline"
 msgid "Decline"
 msgstr "Từ chối"
@@ -2346,6 +2398,58 @@ msgctxt ".description"
 msgid "Description"
 msgstr "Mô tả"
 
+msgctxt ".description_after_pageview"
+msgid "Use this event when you want to show a pop-up window to visitors who have read your page for at least X seconds. If 0 seconds is set, a pop-up window will appear as soon as the page loads"
+msgstr "Sử dụng sự kiện này khi bạn muốn hiển thị cửa sổ pop-up cho khách truy cập đã đọc trang của bạn trong ít nhất X giây. Nếu đặt 0 giây, cửa sổ pop-up sẽ hiển thị ngay khi khách tải trang."
+
+msgctxt ".description_device"
+msgid "Visitors on each device type will have different habits. Use this condition if you want to group visitors by device"
+msgstr "Khách truy cập trên mỗi loại thiết bị sẽ có những thói quen khác nhau. Sử dụng điều kiện này nếu bạn muốn chia nhóm khách truy cập theo thiết bị."
+
+msgctxt ".description_exitl_intent"
+msgid "Use this event when you want to show pop-ups to visitors who are about to leave your site. It grabs the attention of visitors who are about to leave the site without converting, on mobile devices and computers"
+msgstr "Sử dụng sự kiện này khi bạn muốn hiển thị cửa sổ pop-up cho khách truy cập sắp rời trang web của bạn. Nó thu hút sự chú ý của khách sắp rời trang web mà không chuyển đổi, trên thiết bị di động và máy tính."
+
+msgctxt ".description_impression_limit"
+msgid "Use this condition when you want to show pop-ups multiple times to a visitor. Note that if the guest has completed the action on the pop-up, it will not show again. If the visitor has turned off the pop-up, it will only show again when the page reloads or opens a new page"
+msgstr "Sử dụng điều kiện này khi bạn muốn hiển thị cửa sổ pop-up nhiều lần với một khách truy cập. Chú ý rằng nếu khách đã hoàn thành hành động trên pop-up thì nó sẽ không hiển thị lại. Nếu khách đã tắt pop-up thì nó sẽ chỉ hiển thị lại khi khách tải lại trang hoặc mở trang mới."
+
+msgctxt ".description_inactivity_duration"
+msgid "Use this event when you want to display a pop-up window after x seconds of inactivity (mouse scrolling, keyboard typing, clicking ...). This attracts the attention of inactive guests. If set to 0 seconds, a pop-up window will appear as soon as the visitor"
+msgstr "Sử dụng sự kiện này khi bạn muốn hiển thị cửa sổ pop-up sau x giây khách truy cập không hoạt động (cuộn chuột, gõ bàn phím, click...). Điều này thu hút sự chú ý của khách không hoạt động. Nếu đặt 0 giây, cửa sổ pop-up sẽ hiển thị ngay khi khách truy cập."
+
+msgctxt ".description_location"
+msgid "Use this condition when you want the pop-up to only be visible to a group of guests from designated areas. Subiz automatically recognizes the location via the visitor's IP address"
+msgstr "Sử dụng điều kiện này khi bạn muốn pop-up chỉ hiển thị với một nhóm khách đến từ những khu vực được chỉ định. Subiz tự động nhận biết vị trí qua địa chỉ IP của khách."
+
+msgctxt ".description_scheduler_date"
+msgid "Use this condition when you want to display pop-ups to your website visitors for a specific date range"
+msgstr "Sử dụng điều kiện này khi bạn muốn hiển thị cửa sổ pop-up cho khách truy cập website của bạn trong một chuỗi ngày cụ thể"
+
+msgctxt ".description_scheduler_days"
+msgid "Use this condition when you want to show pop-ups to your website visitors on specific days of the week"
+msgstr "Sử dụng điều kiện này khi bạn muốn hiển thị cửa sổ pop-up cho khách truy cập website của bạn vào những ngày cụ thể trong tuần"
+
+msgctxt ".description_scheduler_time"
+msgid "Use this condition when you want to display pop-ups for your website visitors at specific times"
+msgstr "Sử dụng điều kiện này khi bạn muốn hiển thị cửa sổ pop-up cho khách truy cập website của bạn vào những khung giờ cụ thể"
+
+msgctxt ".description_scroll_percent"
+msgid "Use this event when you want to display a pop-up after the visitor has scrolled down on your page by at least X%. This attracts the attention of active guests"
+msgstr "Sử dụng sự kiện này khi bạn muốn hiển thị cửa sổ pop-up sau khi khách truy cập đã cuộn xuống trên trang của bạn ít nhất X%. Điều này thu hút sự chú ý của khách đang hoạt động."
+
+msgctxt ".description_source"
+msgid "Use this condition when you want to group visitors based on source condition. Sources such as Search, Organic, Direct ... are determined by Subiz. The custom source is the first URL of the session that visitors view the page"
+msgstr "Sử dụng điều kiện này khi bạn muốn phân nhóm khách truy cập dựa trên điều kiện nguồn. Các nguồn như Search, Organic, Direct... là do Subiz tự xác định. Nguồn tùy chỉnh là URL đầu tiên của phiên mà khách truy cập xem trang."
+
+msgctxt ".description_time_on_page"
+msgid "Use this condition when you want to display a pop-up window for visitors after X seconds on the page. You need to determine the average time visitors read the content. If set to 0 seconds, a pop-up window will appear immediately"
+msgstr "Sử dụng điều kiện này khi bạn muốn hiển thị cửa sổ pop-up cho khách truy cập sau X giây trên trang. Bạn cần xác định thời gian trung bình khách đọc nội dung hết bao lâu. Nếu đặt 0 giây, cửa sổ pop-up sẽ hiển thị ngay lập tức."
+
+msgctxt ".design"
+msgid "Design"
+msgstr "Thiết kế"
+
 msgctxt ".design_window_chat"
 msgid "Design windown chat"
 msgstr "Thiết kế cửa sổ chat"
@@ -2357,6 +2461,10 @@ msgstr "Máy tính"
 msgctxt ".desktop_notify_subscribed"
 msgid "Has subscribe notify desktop"
 msgstr "Có nhận thông báo trên máy tính"
+
+msgctxt ".determine_behavior_trigger"
+msgid "Determining user behavior will trigger the campaign and display the message"
+msgstr "Xác định hành vi của người dùng sẽ kích hoạt chiến dịch và hiển thị thông điệp"
 
 msgctxt ".device"
 msgid "Device"
@@ -2425,6 +2533,14 @@ msgstr "Hiển thị agent"
 msgctxt ".display_team_number"
 msgid "Display team number"
 msgstr "Display agent"
+
+msgctxt ".display_when"
+msgid "Display when"
+msgstr "Hiển thị khi"
+
+msgctxt ".display_who"
+msgid "Display to who"
+msgstr "Hiển thị cho ai"
 
 msgctxt ".displayed_attributes"
 msgid "Displayed attributes"
@@ -3554,6 +3670,10 @@ msgctxt ".group_conversation_update_involved"
 msgid "Conversation Update"
 msgstr "Cập nhật hội thoại"
 
+msgctxt ".group_custom_see_info"
+msgid "Group your customers and specify who will see the information"
+msgstr "Phân nhóm khách hàng của bạn và chỉ định đối tượng sẽ nhìn thấy thông tin"
+
 msgctxt ".group_message_sent"
 msgid "User send message"
 msgstr "User gửi tin nhắn"
@@ -3597,6 +3717,10 @@ msgstr "Các hoạt động của user được ghi nhận bởi Subiz"
 msgctxt ".group_user_event_involved"
 msgid "User events"
 msgstr "Hoạt động của user"
+
+msgctxt ".guest_device_use"
+msgid "Guest device using"
+msgstr "Thiết bị khách đang sử dụng"
 
 msgctxt ".guest_not_conti_send"
 msgid "Guest will not continue to send message"
@@ -4474,6 +4598,14 @@ msgctxt ".horizontal_margin"
 msgid "Horizontal margin"
 msgstr "Căn lề ngang"
 
+msgctxt ".hour_of_day"
+msgid "Hour of day"
+msgstr "Giờ trong ngày"
+
+msgctxt ".how_it_work"
+msgid "How it work"
+msgstr "Cách hoạt động"
+
 msgctxt ".html"
 msgid "HTML"
 msgstr "HTML"
@@ -4510,6 +4642,10 @@ msgctxt ".import_your_content"
 msgid "Import Products"
 msgstr "Nhập dữ liệu sản phần"
 
+msgctxt ".impression_limit"
+msgid "Impression limit"
+msgstr "Tuần suất hiển thị"
+
 msgctxt ".in"
 msgid "in"
 msgstr "trong"
@@ -4525,6 +4661,10 @@ msgstr "Còn hàng"
 msgctxt ".inactive"
 msgid "Inactive"
 msgstr "Inactive"
+
+msgctxt ".inactivity"
+msgid "inactivity"
+msgstr "không hoạt động"
 
 msgctxt ".info_inquiry_form"
 msgid "The offline information inquiry form will be displayed when"
@@ -4565,6 +4705,10 @@ msgstr "Đã tích hợp"
 msgctxt ".integrated_bots"
 msgid "List of integrated bots"
 msgstr "Danh sách trợ lý ảo đã tích hợp"
+
+msgctxt ".intent_exit_web"
+msgid "Intention to exit the web"
+msgstr "Ý định thoát web"
 
 msgctxt ".interact_chanel"
 msgid "Interact chanel"
@@ -4804,7 +4948,7 @@ msgstr "Đang tải"
 
 msgctxt ".location"
 msgid "Location"
-msgstr "Vị trí"
+msgstr "Vị trí địa lý"
 
 msgctxt ".location_and_lang"
 msgid "Location and Language"
@@ -4917,6 +5061,10 @@ msgstr "Tự cài đặt mã nhúng cửa sổ chat Subiz lên Website"
 msgctxt ".map_into_file"
 msgid "Map into field"
 msgstr "Nhập vào trường"
+
+msgctxt ".maximum_popup"
+msgid "Maximun popup"
+msgstr "Cửa sổ bật lên tối đa"
 
 msgctxt ".medium"
 msgid "Medium"
@@ -5034,6 +5182,10 @@ msgctxt ".more_info"
 msgid "More information"
 msgstr "Xem thêm"
 
+msgctxt ".more_time_conditions"
+msgid "More time conditions"
+msgstr "Thêm điều kiện thời gian"
+
 msgctxt ".more_user"
 msgid "and {0} others"
 msgstr "and {0} user khác"
@@ -5105,6 +5257,10 @@ msgstr "Users mới"
 msgctxt ".new_user"
 msgid "New user"
 msgstr "Khách mới"
+
+msgctxt ".new_visitor_return_visitor"
+msgid "New Visitor/Return Visitor"
+msgstr "Khách mới/quay lại"
 
 msgctxt ".new_whitelist"
 msgid "Add new domain"
@@ -5802,6 +5958,34 @@ msgctxt ".plan_and_billing"
 msgid "Plan & Billing"
 msgstr "Gói cước và Thanh toán"
 
+msgctxt ".pop_up_show_these"
+msgid "Pop-ups will show up for these"
+msgstr "Pop-up sẽ hiển thị cho những"
+
+msgctxt ".popup_display_after"
+msgid "A pop-up will be displayed after"
+msgstr "Pop-up sẽ hiển thị sau"
+
+msgctxt ".popup_display_after_page_view"
+msgid "A pop-up will be displayed for guests viewing at least x pages"
+msgstr "Pop-up sẽ hiển thị với những khách xem tối thiểu x trang"
+
+msgctxt ".popup_display_device_type_specified"
+msgid "Pop-up will display device type specified"
+msgstr "Pop-up sẽ hiển thị trên những loại thiết bị được chỉ định"
+
+msgctxt ".popup_display_guest_from"
+msgid "A pop-up will be displayed for guests from"
+msgstr "Pop-up sẽ hiển thị với những khách đến từ"
+
+msgctxt ".popup_display_places"
+msgid "A pop-up will be displayed for guests from specify places"
+msgstr "Pop-up sẽ hiển thị với những khách đến từ những nơi được chỉ định"
+
+msgctxt ".popup_display_when_scroll"
+msgid "Pop up will be displayed when mouse is scrolled"
+msgstr "Pop up sẽ hiển thị khi chuột được cuộn"
+
 msgctxt ".popup_expire_session_buton"
 msgid "Log in again"
 msgstr "Đăng nhập lại"
@@ -5809,6 +5993,10 @@ msgstr "Đăng nhập lại"
 msgctxt ".popup_expire_session_description"
 msgid "Your current session has been expired"
 msgstr "Phiên làm việc của bạn đã hết hạn"
+
+msgctxt ".popup_visible_guest_source"
+msgid "The pop-up will be visible to guests from sources"
+msgstr "Pop-up sẽ hiển thị với những khách đến từ các nguồn"
 
 msgctxt ".position_row"
 msgid "POSITION ROW(S)"
@@ -6822,6 +7010,10 @@ msgctxt ".save_phone"
 msgid "Save phone"
 msgstr "Lưu số điện thoại"
 
+msgctxt ".screen"
+msgid "Screen"
+msgstr "màn hình"
+
 msgctxt ".screen_template"
 msgid "Screen Templates"
 msgstr "Mẫu Automations"
@@ -6850,6 +7042,10 @@ msgctxt ".search_agent"
 msgid "Search agent"
 msgstr "Tìm agent"
 
+msgctxt ".search_and_choose"
+msgid "Search and choose"
+msgstr "Tìm kiếm và chọn"
+
 msgctxt ".search_content"
 msgid "Search products"
 msgstr "Tìm sản phẩm"
@@ -6877,6 +7073,10 @@ msgstr "Rất tiếc, không tìm thấy kết quả nào"
 msgctxt ".search_user_not_found_content"
 msgid "Sorry, we can’t find any user matching your filter. Please try again with another filter or check again your keyword"
 msgstr "Không tìm được user phù hợp. Vui lòng thử lại với một từ khóa khác"
+
+msgctxt ".second"
+msgid "Second"
+msgstr "giây"
 
 msgctxt ".secret"
 msgid "Verification key"
@@ -7109,6 +7309,10 @@ msgstr "Phiên làm việc của bạn đã kết thúc. Vui lòng đăng nhập
 msgctxt ".sessions"
 msgid "Sessions"
 msgstr "Số phiên"
+
+msgctxt ".set_max_time_display"
+msgid "Set the maximum number of times pop-ups are displayed to customers"
+msgstr "Thiết lập số lần tối đa mà pop-up hiển thị với khách hàng"
 
 msgctxt ".set_status_at"
 msgid "Set status as"
@@ -9042,6 +9246,14 @@ msgctxt ".specific_agent"
 msgid "A specific agent"
 msgstr "Một agent cụ thể"
 
+msgctxt ".specified"
+msgid "specified"
+msgstr "chỉ định"
+
+msgctxt ".specified_source"
+msgid "specified source"
+msgstr "nguồn chỉ định"
+
 msgctxt ".standard"
 msgid "Standard"
 msgstr "Tiêu chuẩn"
@@ -9202,6 +9414,10 @@ msgctxt ".tap_to_select"
 msgid "Tap to Select"
 msgstr "Nhấn để lựa chọn"
 
+msgctxt ".target"
+msgid "Target"
+msgstr "Đối tượng"
+
 msgctxt ".task_complete"
 msgid "Task completed"
 msgstr "đã hoàn thành"
@@ -9285,6 +9501,10 @@ msgstr "Văn bản"
 msgctxt ".text_message"
 msgid "Text Message"
 msgstr "Tin nhắn văn bản"
+
+msgctxt ".this_algo_provide_subiz"
+msgid "This is the algorithm provided by Subiz"
+msgstr "This is the algorithm provided by Subiz"
 
 msgctxt ".thursday"
 msgid "Thursday"
@@ -9378,6 +9598,10 @@ msgctxt ".tickets_per_page"
 msgid "tickets per page"
 msgstr "ticket mỗi trang"
 
+msgctxt ".time"
+msgid "Time"
+msgstr "lần"
+
 msgctxt ".time_ago_1_day"
 msgid "1d"
 msgstr "1 ngày"
@@ -9437,6 +9661,10 @@ msgstr "%s năm"
 msgctxt ".time_delay_title"
 msgid "Delay action when automation is triggered"
 msgstr "Trì hoãn hành động khi automation được kích hoạt"
+
+msgctxt ".time_on_page"
+msgid "Time on page"
+msgstr "Thời gian trên trang"
 
 msgctxt ".title"
 msgid "Title"
@@ -9584,7 +9812,7 @@ msgstr "Số ticket đang mở"
 
 msgctxt ".total_sessions"
 msgid "Total sessions"
-msgstr "Số phiên truy cập"
+msgstr "Phiên truy cập"
 
 msgctxt ".total_time"
 msgid "Total time"
@@ -10114,6 +10342,10 @@ msgctxt ".view_user"
 msgid "View user"
 msgstr "Xem user"
 
+msgctxt ".visitor_page_least"
+msgid "When the visitor has been on the page for at least"
+msgstr "Khi khách đã ở trên trang ít nhất"
+
 msgctxt ".visitor_refer_campaign"
 msgid "REFER/ CAMPAIGN"
 msgstr "REFER/ CAMPAIGN"
@@ -10197,6 +10429,18 @@ msgstr "Có gì mới ở Subiz 4.0"
 msgctxt ".when"
 msgid "When"
 msgstr "Khi"
+
+msgctxt ".when_visitor_inactivity"
+msgid "When the visitor is inactive (click, type or click)"
+msgstr "Khi khách truy cập không hoạt động (nhấn chuột, gõ bàn phím hay click chuột)"
+
+msgctxt ".when_visitor_inactivity_after"
+msgid "When the visitor is inactive after"
+msgstr "Khi khách truy cập không hoạt động sau"
+
+msgctxt ".when_visitor_leave_site"
+msgid "When visitors are about to leave your site"
+msgstr "Khi khách truy cập sắp rời trang web của bạn"
 
 msgctxt ".whitelist_domain"
 msgid "Domains whitelist"
@@ -10334,6 +10578,10 @@ msgctxt ".you_are_disabled_photo_permission"
 msgid "Subiz needs your permission to upload photo from your device"
 msgstr "Subiz cần sự cho phép của bạn để tải ảnh lên từ thiết bị này"
 
+msgctxt ".you_do_not_setup"
+msgid "You do not need to set up, just press Save to use"
+msgstr "Bạn không cần thiết lập, chỉ cần ấn Lưu để sử dụng"
+
 msgctxt ".you_have_new_messages"
 msgid "You have new messages"
 msgstr "Bạn có tin nhắn mới"
@@ -10341,6 +10589,10 @@ msgstr "Bạn có tin nhắn mới"
 msgctxt ".you_need_pay"
 msgid "You will pay"
 msgstr "Bạn cần thanh toán"
+
+msgctxt ".you_set_time_campaign"
+msgid "You can set a timer for the campaign. If you want your campaign to run now, skip this topic"
+msgstr "Bạn có thể thiết lập thời gian hẹn giờ cho chiến dịch. Nếu bạn muốn chiến dịch chạy ngay, hãy bỏ qua đề mục này"
 
 msgctxt ".you_want_to_install"
 msgid "You want to install"
@@ -10390,17 +10642,9 @@ msgctxt "conversions_empty"
 msgid "Conversions is empty"
 msgstr "Không có dữ liệu"
 
-msgctxt "design"
-msgid "Design"
-msgstr "Thiết kế"
-
 msgctxt "exist_user"
 msgid "User exist"
 msgstr "Tồn tại User"
-
-msgctxt "greeting_default"
-msgid "Greeting default"
-msgstr "Chào mừng bạn đến với website của chúng tôi"
 
 msgctxt "impressions_count"
 msgid "Total impressions"
