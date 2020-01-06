@@ -333,6 +333,8 @@
 	"callback_url": "Callback URL",
 	"campagin_run_on": "Chiến dịch chạy vào",
 	"campaign": "Campaign",
+	"campaign_notify_email_description": "Phản hồi bằng email tới những khách hàng được chuyển đổi",
+	"campaign_notify_email_title": "Tự động gửi email cho khách hàng",
 	"campaign_run_specific_days": "Chiến dịch chạy trong một chuỗi ngày cụ thể",
 	"campaign_run_time": "Chiến dịch chạy theo khung giờ",
 	"campaign_run_weekdays": "Chiến dịch chạy vào ngày trong tuần",

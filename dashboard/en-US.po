@@ -10957,3 +10957,11 @@ msgstr "Use this condition when you want to display pop-ups to your website visi
 msgctxt ".after_scroll_percent"
 msgid "After scroll percent"
 msgstr "After scroll percent"
+
+msgctxt ".campaign_notify_email_title"
+msgid "Auto sent email to customer"
+msgstr "Auto sent email to customer"
+
+msgctxt ".campaign_notify_email_description"
+msgid "Email feedback to converted customers"
+msgstr "Email feedback to converted customers"

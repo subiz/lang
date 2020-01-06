@@ -333,6 +333,8 @@
 	"callback_url": "Callback URL",
 	"campagin_run_on": "Campaign run on",
 	"campaign": "Campaign",
+	"campaign_notify_email_description": "Email feedback to converted customers",
+	"campaign_notify_email_title": "Auto sent email to customer",
 	"campaign_run_specific_days": "The campaign runs in a specific series of days",
 	"campaign_run_time": "Campaigns run by time",
 	"campaign_run_weekdays": "The campaign runs on weekdays",

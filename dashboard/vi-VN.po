@@ -1334,6 +1334,14 @@ msgctxt ".campaign"
 msgid "Campaign"
 msgstr "Campaign"
 
+msgctxt ".campaign_notify_email_description"
+msgid "Email feedback to converted customers"
+msgstr "Phản hồi bằng email tới những khách hàng được chuyển đổi"
+
+msgctxt ".campaign_notify_email_title"
+msgid "Auto sent email to customer"
+msgstr "Tự động gửi email cho khách hàng"
+
 msgctxt ".campaign_run_specific_days"
 msgid "The campaign runs in a specific series of days"
 msgstr "Chiến dịch chạy trong một chuỗi ngày cụ thể"
