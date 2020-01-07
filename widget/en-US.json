@@ -1,6 +1,7 @@
 {
 	"address": "Address",
 	"address_help": "E.g Wilmington, Delaware, USA",
+	"agent_online": "Agent is online",
 	"all_emojis": "Emoji",
 	"allow_notification": "Allow Notification",
 	"allow_notification_desc": "Click on “Allow” to confirm receiving updates via Push Notification",

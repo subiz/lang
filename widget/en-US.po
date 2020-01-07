@@ -409,3 +409,11 @@ msgstr "Send message to start conversation!"
 msgctxt ".error_email_invalid"
 msgid "Email is not valid"
 msgstr "Email is not valid"
+
+msgctxt ".agent_online"
+msgid "Agent is online"
+msgstr "Agent is online"
+
+msgctx ".agent_offline"
+msgid "Support is away"
+msgstr "Support is away"

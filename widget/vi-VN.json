@@ -1,6 +1,7 @@
 {
 	"address": "Địa chỉ",
 	"address_help": "Ví dụ Hà Nội, Việt Nam",
+	"agent_online": "Hỗ trợ viên đang online",
 	"all_emojis": "Emoji",
 	"allow_notification": "Nhận Thông báo",
 	"allow_notification_desc": "Bấm “Cho phép” để nhận cập nhật qua Push Notification",
