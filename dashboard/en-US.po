@@ -10707,7 +10707,7 @@ msgstr "Display when"
 
 msgctxt ".determine_behavior_trigger"
 msgid "Determining user behavior will trigger the campaign and display the message"
-msgstr "Determining user behavior will trigger the campaign and display the message"
+msgstr "Subiz determined user behavior, you can choose the time pop up trigger"
 
 msgctxt ".add_activation_condition"
 msgid "Add activation conditions"
@@ -10963,5 +10963,91 @@ msgid "Auto sent email to customer"
 msgstr "Auto sent email to customer"
 
 msgctxt ".campaign_notify_email_description"
+msgctxt ".campaign_title"
+msgid "Campaign title"
+msgstr "Title"
+
+msgctxt ".add_action"
+msgid "Add action"
+msgstr "Add Action"
+
+msgctxt ".form"
+msgid "form"
+msgstr "Form"
+
+
+msgctxt ".primary_button"
+msgid "primary button"
+msgstr "Primary button"
+
+msgctxt ".secondary_button"
+msgid "secondary button"
+msgstr "Secondary button"
+
+msgctxt ".background_click"
+msgid "background click"
+msgstr "Background click"
+
+msgctxt ".page_one"
+msgid "Page one"
+msgstr "Page 1"
+
+msgctxt ".page_two"
+msgid "Page two"
+msgstr "Page 2"
+
+msgctxt ".add_field"
+msgid "Add field"
+msgstr "Add field"
+
+msgctxt ".singleline_text"
+msgid "Single line text"
+msgstr "Singleline Text"
+
+msgctxt ".multiline_text"
+msgid "Multiple line text"
+msgstr "Multiline Text"
+
+msgctxt ".fill_number"
+msgid "Fill number"
+msgstr "Number"
+
+msgctxt ".open_url"
+msgid "Open url"
+msgstr "Open URL"
+
+msgctxt ".close_popup"
+msgid "Close popup"
+msgstr "Close pop up"
+
+msgctxt ".open_widget"
+msgid "Open Subiz widget"
+msgstr "Open Subiz widget"
+
+msgctxt ".submit_campaign"
+msgid "Submit campaign"
+msgstr "Submit"
+
+msgctxt ".next_to_page"
+msgid "Next to page"
+msgstr "Next to Page 2"
+
+msgctxt ".discover"
+msgid "Discover"
+msgstr "Discover"
+
+msgctxt ".manage_campaign"
+msgid "Manage campaign"
+msgstr "Manage Campaign"
+
+msgctxt ".text_intro_campaign"
+msgid "Text intro campaign"
+msgstr "Turn traffic into sales, automatically upsales, cross sales and engage customers in omnichannel"
+
+msgctxt ".analytics"
+msgid "Analytics"
+msgstr "Analytics"
+
+msgctxt ".campaign_notify_feedback"
 msgid "Email feedback to converted customers"
 msgstr "Email feedback to converted customers"
