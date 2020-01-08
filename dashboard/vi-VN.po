@@ -2414,6 +2414,10 @@ msgctxt ".delete"
 msgid "Delete"
 msgstr "Xóa"
 
+msgctxt ".delete_campaign"
+msgid "Deleted campaign"
+msgstr "Xóa campaign"
+
 msgctxt ".delete_content_after_import"
 msgid "If you use the sample file to create your own import file, then don’t forget to remove all the sample products."
 msgstr "Nếu bạn sử dụng tệp mẫu ở trên để nhập dữ liệu sản phẩm, đừng quên xóa đi các sản phẩm mẫu"

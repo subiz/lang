@@ -603,6 +603,7 @@
 	"delay_minutes": "Minute(s)",
 	"delay_seconds": "Second(s)",
 	"delete": "Delete",
+	"delete_campaign": "Deleted campaign",
 	"delete_content_after_import": "If you use the sample file to create your own import file, then don’t forget to remove all the sample products.",
 	"delete_domain": "Delete Domain",
 	"delete_your_csv_file": "Delete products that’s not contained in the selected CSV file(s)",

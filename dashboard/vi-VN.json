@@ -603,6 +603,7 @@
 	"delay_minutes": "Phút(s)",
 	"delay_seconds": "Giây(s)",
 	"delete": "Xóa",
+	"delete_campaign": "Xóa campaign",
 	"delete_content_after_import": "Nếu bạn sử dụng tệp mẫu ở trên để nhập dữ liệu sản phẩm, đừng quên xóa đi các sản phẩm mẫu",
 	"delete_domain": "Xóa tên miền",
 	"delete_your_csv_file": "Xóa sản phẩm không nằm trong file CSV được tải lên",
