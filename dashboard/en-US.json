@@ -1511,6 +1511,7 @@
 	"pop_up_show_these": "Pop-ups will show up for these",
 	"popup_display_after": "Pop-up will be displayed after",
 	"popup_display_after_page_view": "A pop-up will be displayed for guests viewing at least x pages",
+	"popup_display_custom_least_page": "The popup will display to customers who have been on the least pages",
 	"popup_display_device_type_specified": "Pop-up will display device type specified",
 	"popup_display_guest_from": "A pop-up will be displayed for guests from",
 	"popup_display_places": "Pop-up will be displayed for guests from specify places",

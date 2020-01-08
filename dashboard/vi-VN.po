@@ -6046,6 +6046,10 @@ msgctxt ".popup_display_after_page_view"
 msgid "A pop-up will be displayed for guests viewing at least x pages"
 msgstr "Pop-up sẽ hiển thị với những khách xem tối thiểu x trang"
 
+msgctxt ".popup_display_custom_least_page"
+msgid "The popup will display to customers who have been on the least pages"
+msgstr "Pop-up sẽ hiển thị với những khách hàng đã ở trên trang ít nhất"
+
 msgctxt ".popup_display_device_type_specified"
 msgid "Pop-up will display device type specified"
 msgstr "Pop-up sẽ hiển thị trên những loại thiết bị được chỉ định"

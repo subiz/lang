@@ -10801,9 +10801,6 @@ msgctxt ".time_on_page"
 msgid "Time on page"
 msgstr "Time on page"
 
-msgctxt ".popup_display_custom_least_page"
-msgid The popup will display to customers who have been on the least pages"
-msgstr "The popup will display to customers who have been on the least pages"
 
 msgctxt ".impression_limit"
 msgid "Impression limit"
@@ -11051,3 +11048,7 @@ msgstr "Analytics"
 msgctxt ".campaign_notify_feedback"
 msgid "Email feedback to converted customers"
 msgstr "Email feedback to converted customers"
+
+msgctxt ".popup_display_custom_least_page"
+msgid "The popup will display to customers who have been on the least pages"
+msgstr "The popup will display to customers who have been on the least pages"
