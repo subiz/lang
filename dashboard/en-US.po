@@ -11055,3 +11055,15 @@ msgstr "Email feedback to converted customers"
 msgctxt ".popup_display_custom_least_page"
 msgid "The popup will display to customers who have been on the least pages"
 msgstr "The popup will display to customers who have been on the least pages"
+
+msgctxt ".create_campaign"
+msgid "Create campaign"
+msgstr "Create campaign"
+
+msgctxt ".version_beta"
+msgid "BETA"
+msgstr "BETA"
+
+msgctxt ".success_deleted"
+msgid "Deleted {0} is success"
+msgstr "Deleted {0} is success"

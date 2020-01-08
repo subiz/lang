@@ -2094,6 +2094,10 @@ msgctxt ".create"
 msgid "Create"
 msgstr "Tạo"
 
+msgctxt ".create_campaign"
+msgid "Create campaign"
+msgstr "Tạo campaign"
+
 msgctxt ".create_content_success"
 msgid "Success! Products has been imported"
 msgstr "Nhập dữ liệu sản phẩm thành công"
@@ -9442,6 +9446,10 @@ msgctxt ".success"
 msgid "Success"
 msgstr "Thành công"
 
+msgctxt ".success_deleted"
+msgid "Deleted {0} is success"
+msgstr "Xóa {0} thành công"
+
 msgctxt ".summary"
 msgid "Summary"
 msgstr "Tổng quan"
@@ -10425,6 +10433,10 @@ msgstr "Verification key"
 msgctxt ".verify_wh"
 msgid "Verify webhook"
 msgstr "Xác thực webhook"
+
+msgctxt ".version_beta"
+msgid "BETA"
+msgstr "BETA"
 
 msgctxt ".via-api"
 msgid "Connect via API"
