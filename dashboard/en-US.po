@@ -10960,6 +10960,9 @@ msgid "Auto sent email to customer"
 msgstr "Auto sent email to customer"
 
 msgctxt ".campaign_notify_email_description"
+msgid "Email feedback to converted customers"
+msgstr "Email feedback to converted customers"
+
 msgctxt ".campaign_title"
 msgid "Campaign title"
 msgstr "Title"

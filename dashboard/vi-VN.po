@@ -1350,6 +1350,10 @@ msgctxt ".campaign"
 msgid "Campaign"
 msgstr "Campaign"
 
+msgctxt ".campaign_notify_email_description"
+msgid "Email feedback to converted customers"
+msgstr "Phản hồi bằng email tới những khách hàng được chuyển đổi"
+
 msgctxt ".campaign_notify_email_title"
 msgid "Auto sent email to customer"
 msgstr "Tự động gửi email cho khách hàng"
