@@ -128,15 +128,15 @@ msgstr "Bạn chưa chọn giá trị nào"
 
 msgctxt ".error_invalid_color"
 msgid "Invalid hex color code"
-msgstr "Mã màu không khả dụng"
+msgstr "Mã màu không hợp lệ"
 
 msgctxt ".error_invalid_date"
 msgid "Invalid date time"
-msgstr "Thời gian không khả dụng"
+msgstr "Thời gian không hợp lệ"
 
 msgctxt ".error_invalid_email"
 msgid "Invalid email address"
-msgstr "Địa chỉ email không khả dụng"
+msgstr "Địa chỉ email không hợp lệ"
 
 msgctxt ".error_invalid_list_value"
 msgid "Invalid value"
@@ -148,7 +148,7 @@ msgstr "Số không khả dụng"
 
 msgctxt ".error_invalid_url"
 msgid "Invalid URL"
-msgstr "Đường dẫn không khả dụng"
+msgstr "Địa chỉ URL không hợp lệ"
 
 msgctxt ".error_send_message"
 msgid "Couldn't send. Click here to resend"
@@ -208,7 +208,7 @@ msgstr "Nhập tin nhắn…"
 
 msgctxt ".new_conversation"
 msgid " Start a conversation!"
-msgstr " Bắt đầu trò chuyện!"
+msgstr " Start a conversation!"
 
 msgctxt ".new_conversation"
 msgid "New conversation"
@@ -384,7 +384,7 @@ msgstr "Bật thông báo"
 
 msgctxt ".typing"
 msgid "is typing..."
-msgstr "đang gõ..."
+msgstr "đang trả lời..."
 
 msgctxt ".widget_title"
 msgid "Chat with us"
