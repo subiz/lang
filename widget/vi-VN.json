@@ -1,6 +1,7 @@
 {
 	"address": "Địa chỉ",
 	"address_help": "Ví dụ Hà Nội, Việt Nam",
+	"agent_offline": "Hỗ trợ viên đang offline",
 	"agent_online": "Hỗ trợ viên đang online",
 	"all_emojis": "Emoji",
 	"allow_notification": "Nhận Thông báo",

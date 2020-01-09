@@ -1,6 +1,7 @@
 {
 	"address": "Address",
 	"address_help": "E.g Wilmington, Delaware, USA",
+	"agent_offline": "Support is away",
 	"agent_online": "Agent is online",
 	"all_emojis": "Emoji",
 	"allow_notification": "Allow Notification",

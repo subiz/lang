@@ -6,6 +6,10 @@ msgctxt ".address_help"
 msgid "E.g Wilmington, Delaware, USA"
 msgstr "Ví dụ Hà Nội, Việt Nam"
 
+msgctxt ".agent_offline"
+msgid "Support is away"
+msgstr "Hỗ trợ viên đang offline"
+
 msgctxt ".agent_online"
 msgid "Agent is online"
 msgstr "Hỗ trợ viên đang online"

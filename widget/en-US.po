@@ -414,6 +414,6 @@ msgctxt ".agent_online"
 msgid "Agent is online"
 msgstr "Agent is online"
 
-msgctx ".agent_offline"
+msgctxt ".agent_offline"
 msgid "Support is away"
 msgstr "Support is away"
