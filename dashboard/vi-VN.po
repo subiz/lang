@@ -2330,9 +2330,17 @@ msgctxt ".default_condition"
 msgid "General conditions"
 msgstr "Điều kiện chung"
 
+msgctxt ".default_offline_form_title"
+msgid "Our agents are not available right now. Please leave a message and we'll get back to you."
+msgstr "Hiện tại, chúng tôi không trực tuyến. Bạn vui lòng để lại tin nhắn, chúng tôi sẽ sớm liên hệ lại với bạn."
+
 msgctxt ".default_payment_method"
 msgid "Default"
 msgstr "Mặc định"
+
+msgctxt ".default_prechat_form_title"
+msgid "Wellcome to Subiz! Please complete the following information before connecting to our support staff"
+msgstr "Chào mừng đến Subiz! Bạn hãy hoàn thành những thông tin dưới đây trước khi bắt đầu kết nối với hỗ trợ viên của chúng tôi nhé."
 
 msgctxt ".default_question_label"
 msgid "Default_question_label"
@@ -9837,10 +9845,6 @@ msgstr "Biểu tượng cảm xúc"
 msgctxt ".title_filter_user"
 msgid "Filter User"
 msgstr "Lọc user"
-
-msgctxt ".title_form_default"
-msgid "Title form default"
-msgstr "Chào mừng đến Subiz! Bạn hãy hoàn thành những thông tin dưới đây trước khi bắt đầu kết nối với hỗ trợ viên của chúng tôi nhé."
 
 msgctxt ".title_image"
 msgid "Image"
