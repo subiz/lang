@@ -2186,6 +2186,10 @@ msgctxt ".cteated_last_7_days"
 msgid "Created last 7 days"
 msgstr "Được tạo trong 7 ngày vừa qua"
 
+msgctxt ".curr_url_description"
+msgid "Use this condition when you want to display pop-up only for vistors who are currently browsing on a your pages"
+msgstr "Sử dụng điều kiện này khi bạn muốn loại trừ những khách đã xem một số trang cụ thể. Ví dụ: Khách đã xem trang thanh toán thanhtoan.company.com"
+
 msgctxt ".currency"
 msgid "Currency"
 msgstr "Đơn vị tiền tệ"
@@ -2193,6 +2197,10 @@ msgstr "Đơn vị tiền tệ"
 msgctxt ".current_billing_cycle"
 msgid "Current billing cycle"
 msgstr "Chu kỳ thanh toán hiện tại"
+
+msgctxt ".current_url_title"
+msgid "Visitors who are currently browsing a specific page will see your message"
+msgstr "Pop-up sẽ hiển thị với những khách đã xem những URL cụ thể"
 
 msgctxt ".custom"
 msgid "Filter Name Custom"
@@ -2949,6 +2957,10 @@ msgstr "Nhập giá trị"
 msgctxt ".enter_your_message"
 msgid "Enter your message..."
 msgstr "Nhập tin nhắn..."
+
+msgctxt ".eq"
+msgid "Equal"
+msgstr "Bằng"
 
 msgctxt ".error"
 msgid "Error"
@@ -10249,6 +10261,14 @@ msgstr "URL"
 msgctxt ".url_button"
 msgid "URL Button"
 msgstr "URL Button"
+
+msgctxt ".url_curr_content"
+msgid "Popup will display to guest visiting url"
+msgstr "Pop-up sẽ hiển thị với những khách chứa url"
+
+msgctxt ".url_curr_view"
+msgid "Current URL"
+msgstr "URL khách đang xem"
 
 msgctxt ".url_not_valid"
 msgid "Url is invalid"

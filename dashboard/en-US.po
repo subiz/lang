@@ -11075,3 +11075,22 @@ msgstr "Deleted {0} is success"
 msgctxt ".delete_campaign"
 msgid "Deleted campaign"
 msgstr "Deleted campaign"
+msgctxt ".url_curr_view"
+msgid "Current URL"
+msgstr "Current URL"
+
+msgctxt ".current_url_title"
+msgid "Visitors who are currently browsing a specific page will see your message"
+msgstr "Visitors who are currently browsing a specific page will see your message"
+
+msgctxt ".curr_url_description"
+msgid "Use this condition when you want to display pop-up only for vistors who are currently browsing on a your pages"
+msgstr "Use this condition when you want to display pop-up only for vistors who are currently browsing on a your pages"
+
+msgctxt ".eq"
+msgid "Equal"
+msgstr "Equal"
+
+msgctxt ".url_curr_content"
+msgid "Popup will display to guest visiting url"
+msgstr "Popup will display to guest visiting url"
