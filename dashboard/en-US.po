@@ -11094,3 +11094,24 @@ msgstr "Equal"
 msgctxt ".url_curr_content"
 msgid "Popup will display to guest visiting url"
 msgstr "Popup will display to guest visiting url"
+
+
+msgctxt ".returning_visitor"
+msgid "Returning visitor"
+msgstr "Returning visitor"
+
+msgctxt ".new_visitor"
+msgid "New visitor"
+msgstr "New visitor"
+
+msgctxt ".visitor_label"
+msgid "Only new or only returning visitors will display pop-up"
+msgstr "Only new or only returning visitors will display pop-up"
+
+msgctxt ".visitor_description"
+msgid "Use this condition when you want your pop-up to display only for new – returning visitors"
+msgstr "Use this condition when you want your pop-up to display only for new – returning visitors"
+
+msgctxt ".popup_display_with"
+msgid "Pop-up display with"
+msgstr "Pop-up display with"

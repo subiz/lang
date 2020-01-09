@@ -5346,6 +5346,10 @@ msgctxt ".new_user"
 msgid "New user"
 msgstr "Khách mới"
 
+msgctxt ".new_visitor"
+msgid "New visitor"
+msgstr "Khách mới"
+
 msgctxt ".new_visitor_return_visitor"
 msgid "New Visitor/Return Visitor"
 msgstr "Khách mới/quay lại"
@@ -6097,6 +6101,10 @@ msgstr "Pop-up sẽ hiển thị với những khách đến từ những nơi �
 msgctxt ".popup_display_when_scroll"
 msgid "Pop up will be displayed when mouse is scrolled"
 msgstr "Pop up sẽ hiển thị khi chuột được cuộn"
+
+msgctxt ".popup_display_with"
+msgid "Pop-up display with"
+msgstr "Pop-up hiển thị với"
 
 msgctxt ".popup_expire_session_buton"
 msgid "Log in again"
@@ -6973,6 +6981,10 @@ msgstr "Quay lại"
 msgctxt ".return_time"
 msgid "Return {0} times"
 msgstr "Quay lại {0} lần"
+
+msgctxt ".returning_visitor"
+msgid "Returning visitor"
+msgstr "Khách quay lại"
 
 msgctxt ".right"
 msgid "Right"
@@ -10485,6 +10497,14 @@ msgstr "Đã xem {0} trang"
 msgctxt ".view_user"
 msgid "View user"
 msgstr "Xem user"
+
+msgctxt ".visitor_description"
+msgid "Use this condition when you want your pop-up to display only for new – returning visitors"
+msgstr "Sử dụng điều kiện này khi muốn hiển thị cửa sổ pop-up cho khách truy cập mới hoặc khách quay lại."
+
+msgctxt ".visitor_label"
+msgid "Only new or only returning visitors will display pop-up"
+msgstr "Chỉ khách mới hoặc khách quay lại mới hiển thị pop-up"
 
 msgctxt ".visitor_page_least"
 msgid "When the visitor has been on the page for at least"
