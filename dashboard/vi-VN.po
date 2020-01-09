@@ -260,7 +260,7 @@ msgstr "Nạp credit"
 
 msgctxt ".add_field"
 msgid "Add field"
-msgstr "Các loại câu hỏi"
+msgstr "Trường thông tin"
 
 msgctxt ".add_file_error"
 msgid "Sorry, we couldn’t upload the file"
@@ -1080,7 +1080,7 @@ msgstr "Quay trở lại"
 
 msgctxt ".background_click"
 msgid "background click"
-msgstr "Click ra ngoài pop up"
+msgstr "Click vào nền popup"
 
 msgctxt ".bank_transfer"
 msgid "Bank transfer"
@@ -5964,7 +5964,7 @@ msgstr "Trang"
 
 msgctxt ".page_one"
 msgid "Page one"
-msgstr "Bước 1"
+msgstr "Trang 1"
 
 msgctxt ".page_setting"
 msgid "Page setting"
@@ -5976,7 +5976,7 @@ msgstr "Tiêu đề trang"
 
 msgctxt ".page_two"
 msgid "Page two"
-msgstr "Bước 2"
+msgstr "Trang 2"
 
 msgctxt ".page_url"
 msgid "Page URL"
@@ -6132,7 +6132,7 @@ msgstr "Thẻ chính"
 
 msgctxt ".primary_button"
 msgid "primary button"
-msgstr "Nút kêu gọi hành động"
+msgstr "Nút chính"
 
 msgctxt ".primary_language"
 msgid "Primary Language"
@@ -9428,7 +9428,7 @@ msgstr "Submit"
 
 msgctxt ".submit_campaign"
 msgid "Submit campaign"
-msgstr "Gửi thông tin"
+msgstr "Đăng ký / Chuyển sang trang 2"
 
 msgctxt ".subscribe_btn"
 msgid "SUBSCRIBE NOW!"
