@@ -6014,6 +6014,10 @@ msgctxt ".page_url"
 msgid "Page URL"
 msgstr "URL trang"
 
+msgctxt ".page_view"
+msgid "Page view"
+msgstr "Xem trang"
+
 msgctxt ".paid_state"
 msgid "paid"
 msgstr "Đã thanh toán"

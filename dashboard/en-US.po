@@ -4865,7 +4865,7 @@ msgstr "List"
 
 msgctxt ".date_time"
 msgid "Date time"
-msgstr "Date time"
+msgstr "Time"
 
 msgctxt ".add_more_selection"
 msgid "Add more selection"
@@ -7140,7 +7140,7 @@ msgstr "Total conversations"
 
 msgctxt ".total_sessions"
 msgid "Total sessions"
-msgstr "Total sessions"
+msgstr "Sessions"
 
 msgctxt ".check_your_setting"
 msgid "Let’s check your Setting!"
@@ -9357,6 +9357,10 @@ msgstr "User update info"
 msgctxt ".url_page_view"
 msgid "User view page url"
 msgstr "User view page url"
+
+msgctxt ".page_view"
+msgid "Page view"
+msgstr "Page view"
 
 msgctxt ".add_user_success"
 msgid "Add user success"
