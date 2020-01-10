@@ -268,7 +268,7 @@ msgstr "Ví dụ 0423857xxx"
 
 msgctxt ".powered_by"
 msgid "We run on"
-msgstr "Cung cấp bởi"
+msgstr "Phát triển bởi"
 
 msgctxt ".prechat_form_btn"
 msgid "Start the chat"
