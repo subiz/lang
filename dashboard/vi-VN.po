@@ -1,6 +1,6 @@
 msgctxt " greeting_default"
 msgid "Greeting default"
-msgstr "Wellcome to our website"
+msgstr "Chào mừng đến với website của chúng tối"
 
 msgctxt ".2navigate"
 msgid "to navigate"

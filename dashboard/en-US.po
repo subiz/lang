@@ -10655,7 +10655,7 @@ msgstr "Question"
 
 msgctxt " greeting_default"
 msgid "Greeting default"
-msgstr "Wellcome to our website"
+msgstr "Welcome to our website"
 
 msgctxt "impressions_count"
 msgid "Total impressions"
