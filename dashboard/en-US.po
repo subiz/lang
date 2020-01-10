@@ -10896,10 +10896,6 @@ msgctxt ".description_inactivity_duration"
 msgid "Use this event when you want to display a pop-up window after x seconds of inactivity (mouse scrolling, keyboard typing, clicking ...). This attracts the attention of inactive guests. If set to 0 seconds, a pop-up window will appear as soon as the visitor"
 msgstr "Use this event when you want to display the pop-up to visitors who have been inactive on your page for at least X seconds. This catches the attention of inactive visitors. When you set this to 0 seconds, it will appear immediately when a visitor lands on your page."
 
-msgctxt ".total_sessions"
-msgid "Total sessions"
-msgstr "Total sessions"
-
 msgctxt ".specified"
 msgid "specified"
 msgstr "chỉ định"
