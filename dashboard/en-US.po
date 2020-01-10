@@ -11123,3 +11123,11 @@ msgstr "Chat with us"
 msgctxt ".widget_team_intro"
 msgid "We're here and ready to help. Feel free to ask us anything or share your feedback!"
 msgstr "We're here and ready to help. Feel free to ask us anything or share your feedback!"
+
+msgctxt ".show_mobile_button"
+msgid "Show button on mobile"
+msgstr "Show button on mobile"
+
+msgctxt ".show_desktop_button"
+msgid "Show button on desktop"
+msgstr "Show button on desktop"
