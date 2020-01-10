@@ -2322,6 +2322,10 @@ msgctxt ".date"
 msgid "Date"
 msgstr "Ngày"
 
+msgctxt ".date_label"
+msgid "Run campaign on specific date range"
+msgstr "Chiến dịch chạy trong một chuỗi ngày cụ thể"
+
 msgctxt ".date_range"
 msgid "Date range"
 msgstr "Thời gian"
@@ -5041,6 +5045,10 @@ msgstr "Vị trí địa lý"
 msgctxt ".location_and_lang"
 msgid "Location and Language"
 msgstr "Vị trí và Ngôn ngữ"
+
+msgctxt ".location_label"
+msgid "Visitors browsing from specific location will see your message"
+msgstr "Pop-up sẽ hiển thị với những khách đến từ những nơi được chỉ định"
 
 msgctxt ".login"
 msgid "Login"
@@ -9837,6 +9845,10 @@ msgstr "%s năm"
 msgctxt ".time_delay_title"
 msgid "Delay action when automation is triggered"
 msgstr "Trì hoãn hành động khi automation được kích hoạt"
+
+msgctxt ".time_label"
+msgid "Run campaign at specific time of day"
+msgstr "Chiến dịch chạy theo khung giờ"
 
 msgctxt ".time_on_page"
 msgid "Time on page"

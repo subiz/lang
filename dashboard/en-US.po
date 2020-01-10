@@ -10791,7 +10791,7 @@ msgstr "Source"
 
 msgctxt ".popup_visible_guest_source"
 msgid "The pop-up will be visible to guests from sources"
-msgstr "The popup will appear to those who are coming from one of the following sources"
+msgstr "Visitors coming from a specific traffic source will see your message"
 
 msgctxt ".url_site_contain"
 msgid "URL of the site contains"
@@ -10801,6 +10801,11 @@ msgstr "URL of the site contains"
 msgctxt ".location"
 msgid "Location"
 msgstr "Location"
+
+msgctxt ".location_label"
+msgid "Visitors browsing from specific location will see your message"
+msgstr "Visitors browsing from specific location will see your message"
+
 
 msgctxt ".popup_display_guest_from"
 msgid "A pop-up will be displayed for guests from"
@@ -10905,7 +10910,7 @@ msgstr "Visitors browsing on specific devices will see your message"
 
 msgctxt ".popup_display_after_page_view"
 msgid "A pop-up will be displayed for guests viewing at least x pages"
-msgstr "A pop-up will be displayed for guests viewing at least x pages"
+msgstr "Visitors who have spent at least ‘X’ seconds on the current page will see your message"
 
 msgctxt ".set_max_time_display"
 msgid "Set the maximum number of times pop-ups are displayed to customers"
@@ -10947,6 +10952,14 @@ msgstr "Run campaign on specific days of week"
 msgctxt ".campaign_run_time"
 msgid "Campaigns run by time"
 msgstr "Run campaign at"
+
+msgctxt ".time_label"
+msgid "Run campaign at specific time of day"
+msgstr "Run campaign at specific time of day"
+
+msgctxt ".date_label"
+msgid "Run campaign on specific date range"
+msgstr "Run campaign on specific date range"
 
 msgctxt ".campaign_run_specific_days"
 msgid "The campaign runs in a specific series of days"
