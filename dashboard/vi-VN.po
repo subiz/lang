@@ -4803,8 +4803,8 @@ msgid "Intention to exit the web"
 msgstr "Ý định thoát web"
 
 msgctxt ".interact_chanel"
-msgid "Interact chanel"
-msgstr "Kênh tương tác"
+msgid "Chanel"
+msgstr "Kênh"
 
 msgctxt ".interacted_last_7_days"
 msgid "Interacted last 7 days"
@@ -9231,16 +9231,16 @@ msgid "Show list user select"
 msgstr "Tất cả {userlist} người dùng đã được chọn"
 
 msgctxt ".show_desktop_button"
-msgid "Show button on desktop"
-msgstr "Hiện button trên máy tính"
+msgid "Button on desktop"
+msgstr "Button trên máy tính"
 
 msgctxt ".show_logo_and_interact_chanel_or_show_avatar_agent_of_windown_chat"
 msgid "Show logo and interact chanel or show avatar agent of windown chat"
 msgstr "Hiển thị logo và các kênh tương tác, hoặc hiển thị avatar agent trên màn hình chính của cửa sổ chat"
 
 msgctxt ".show_mobile_button"
-msgid "Show button on mobile"
-msgstr "Hiện button trên di động"
+msgid "Button on mobile"
+msgstr "Button trên di động"
 
 msgctxt ".show_secret"
 msgid "Show secret"
