@@ -51,8 +51,8 @@ msgid "Please enter the information below so we could support you better"
 msgstr "Vui lòng cung cấp thêm các thông tin dưới đây để giúp chúng tôi phục vụ bạn tốt hơn"
 
 msgctxt ".chat_now"
-msgid "Chat now"
-msgstr "Chat ngay"
+msgid "Send Message"
+msgstr "Gửi tin nhắn"
 
 msgctxt ".choose"
 msgid "Choose"
@@ -405,4 +405,8 @@ msgstr "Ngày hôm qua"
 msgctxt ".you"
 msgid "You"
 msgstr "Bạn"
+
+msgctxt "sent_you_a_message"
+msgid "Sent you a message"
+msgstr "Đã gửi cho bạn một tin nhắn"
 

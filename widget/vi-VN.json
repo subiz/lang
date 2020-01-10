@@ -12,7 +12,7 @@
 	"btn_submit_form_attachment": "Lưu",
 	"cancel": "Hủy",
 	"capture_lead_title": "Vui lòng cung cấp thêm các thông tin dưới đây để giúp chúng tôi phục vụ bạn tốt hơn",
-	"chat_now": "Chat ngay",
+	"chat_now": "Gửi tin nhắn",
 	"choose": "Chọn",
 	"close": "Đóng",
 	"connect_timeout": "Kết nối thất bại",
@@ -100,5 +100,6 @@
 	"widget_title": "Trò chuyện với chúng tôi",
 	"yes": "Có",
 	"yesterday": "Ngày hôm qua",
-	"you": "Bạn"
+	"you": "Bạn",
+	"sent_you_a_message": "Đã gửi cho bạn một tin nhắn"
 }

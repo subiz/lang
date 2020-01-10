@@ -12,7 +12,7 @@
 	"btn_submit_form_attachment": "Submit",
 	"cancel": "Cancel",
 	"capture_lead_title": "Please enter the information below so we could support you better",
-	"chat_now": "Chat now",
+	"chat_now": "Send Message",
 	"choose": "choose",
 	"close": "Close",
 	"connect_timeout": "The connection has timed out",
@@ -100,5 +100,6 @@
 	"widget_title": "Chat with us",
 	"yes": "Yes",
 	"yesterday": "Yesterday",
-	"you": "You"
+	"you": "You",
+	"sent_you_a_message": "Send you a message"
 }
