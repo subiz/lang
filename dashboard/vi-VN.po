@@ -9570,6 +9570,10 @@ msgctxt ".tax_business"
 msgid "An identifying number used for tax purposes of a business"
 msgstr "An identifying number used for tax purposes of a business"
 
+msgctxt ".widget_team_intro"
+msgid "We're here and ready to help. Feel free to ask us anything or share your feedback!"
+msgstr "Chúng tôi sẵn sàng trợ giúp. Vui lòng hỏi chúng tôi bất cứ điều gì hoặc chia sẻ phản hồi của bạn"
+
 msgctxt ".team_introduction"
 msgid "We make it simple and seamless for businesses and people to talk to each other. Ask us anything"
 msgstr "We make it simple and seamless for businesses and people to talk to each other. Ask us anything"
@@ -10637,6 +10641,10 @@ msgstr "Button lớn"
 msgctxt ".widget_settings"
 msgid "Subiz Widget"
 msgstr "Cửa sổ Subiz Chat"
+
+msgctxt ".widget_title"
+msgid "Chat with us"
+msgstr "Trò chuyện với chúng tôi"
 
 msgctxt ".widget_type"
 msgid "Widget type"

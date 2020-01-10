@@ -11115,3 +11115,11 @@ msgstr "Use this condition when you want your pop-up to display only for new –
 msgctxt ".popup_display_with"
 msgid "Pop-up display with"
 msgstr "Pop-up display with"
+
+msgctxt ".widget_title"
+msgid "Chat with us"
+msgstr "Chat with us"
+
+msgctxt ".widget_team_intro"
+msgid "We're here and ready to help. Feel free to ask us anything or share your feedback!"
+msgstr "We're here and ready to help. Feel free to ask us anything or share your feedback!"
