@@ -306,6 +306,14 @@ msgctxt ".add_new_card"
 msgid "Add new Card"
 msgstr "Thêm thẻ mới"
 
+msgctxt ".add_new_condition"
+msgid "Add new condition"
+msgstr "Thêm điều kiện"
+
+msgctxt ".add_new_trigger"
+msgid "Add new trigger"
+msgstr "Thêm điều kiện kích hoạt"
+
 msgctxt ".add_note"
 msgid "Add note"
 msgstr "Thêm ghi chú"
@@ -6038,6 +6046,10 @@ msgctxt ".per_agent_month"
 msgid "per agent / month"
 msgstr " agent / tháng"
 
+msgctxt ".percent_down_page"
+msgid "down on the current page"
+msgstr "down on the current page"
+
 msgctxt ".perform_actions"
 msgid "Actions"
 msgstr "Hành động"
@@ -6084,7 +6096,7 @@ msgstr "Pop-up sẽ hiển thị với những khách xem tối thiểu x trang"
 
 msgctxt ".popup_display_custom_least_page"
 msgid "The popup will display to customers who have been on the least pages"
-msgstr "Pop-up sẽ hiển thị với những khách hàng đã ở trên trang ít nhất"
+msgstr "Pop-up sẽ hiển thị"
 
 msgctxt ".popup_display_device_type_specified"
 msgid "Pop-up will display device type specified"
@@ -6982,6 +6994,10 @@ msgctxt ".return_time"
 msgid "Return {0} times"
 msgstr "Quay lại {0} lần"
 
+msgctxt ".returning_new"
+msgid "Returning / New"
+msgstr "Khách quay lại/khách mới"
+
 msgctxt ".returning_visitor"
 msgid "Returning visitor"
 msgstr "Khách quay lại"
@@ -7205,6 +7221,10 @@ msgstr "Không tìm được user phù hợp. Vui lòng thử lại với một 
 msgctxt ".second"
 msgid "Second"
 msgstr "giây"
+
+msgctxt ".second_curr_page_see_mess"
+msgid "seconds on the current page will see your message"
+msgstr "với những khách hàng đã ở trên trang ít nhất"
 
 msgctxt ".secondary_button"
 msgid "secondary button"
@@ -10297,6 +10317,10 @@ msgstr "Url is invalid"
 msgctxt ".url_page_view"
 msgid "User view page url"
 msgstr "User xem trang"
+
+msgctxt ".url_site_contain"
+msgid "URL of the site contains"
+msgstr "URL của trang chứa"
 
 msgctxt ".use"
 msgid "Use"
