@@ -9232,7 +9232,7 @@ msgstr "Tất cả {userlist} người dùng đã được chọn"
 
 msgctxt ".show_desktop_button"
 msgid "Show button on desktop"
-msgstr "Hiện button trên thiết bị để bàn"
+msgstr "Hiện button trên máy tính"
 
 msgctxt ".show_logo_and_interact_chanel_or_show_avatar_agent_of_windown_chat"
 msgid "Show logo and interact chanel or show avatar agent of windown chat"
