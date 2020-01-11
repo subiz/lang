@@ -9500,7 +9500,7 @@ msgstr "Submit"
 
 msgctxt ".submit_campaign"
 msgid "Submit campaign"
-msgstr "Gửi form"
+msgstr "Gửi form/ Chuyển sang trang 2"
 
 msgctxt ".subscribe_btn"
 msgid "SUBSCRIBE NOW!"

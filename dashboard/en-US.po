@@ -11052,7 +11052,7 @@ msgstr "Open Subiz widget"
 
 msgctxt ".submit_campaign"
 msgid "Submit campaign"
-msgstr "Submit campaign"
+msgstr "Submit campaign / Next page"
 
 msgctxt ".next_to_page"
 msgid "Next to page"
