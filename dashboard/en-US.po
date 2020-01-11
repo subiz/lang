@@ -11169,3 +11169,11 @@ msgstr "Add new condition"
 msgctxt ".returning_new"
 msgid "Returning / New"
 msgstr "Returning / New"
+
+msgctxt ".conversion"
+msgid "Conversion"
+msgstr "Conversion"
+
+msgctxt ".goal_reached"
+msgid "Goal Reached"
+msgstr "Goal Reached"

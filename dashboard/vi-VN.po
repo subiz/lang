@@ -10894,3 +10894,11 @@ msgctxt "unread_all_users"
 msgid "Read all users"
 msgstr "Đánh dấu đã đọc tất cả user"
 
+
+msgctxt ".conversion"
+msgid "Conversion"
+msgstr "Chuyển đổi"
+
+msgctxt ".goal_reached"
+msgid "Goal Reached"
+msgstr "Hoàn thành mục tiêu"
