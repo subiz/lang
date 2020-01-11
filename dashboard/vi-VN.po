@@ -2034,6 +2034,10 @@ msgctxt ".conversations_unread"
 msgid "Unread conversations"
 msgstr "Hội thoại chưa đọc"
 
+msgctxt ".conversion"
+msgid "Conversion"
+msgstr "Chuyển đổi"
+
 msgctxt ".convert"
 msgid "Convert"
 msgstr "Chuyển đổi"
@@ -3709,6 +3713,10 @@ msgstr "Get started"
 msgctxt ".go_back_home"
 msgid "Go back home"
 msgstr "Về trang chủ"
+
+msgctxt ".goal_reached"
+msgid "Goal Reached"
+msgstr "Hoàn thành mục tiêu"
 
 msgctxt ".google_adwords"
 msgid "google_adwords"
@@ -9492,7 +9500,7 @@ msgstr "Submit"
 
 msgctxt ".submit_campaign"
 msgid "Submit campaign"
-msgstr "Đăng ký / Chuyển sang trang 2"
+msgstr "Gửi form"
 
 msgctxt ".subscribe_btn"
 msgid "SUBSCRIBE NOW!"
@@ -10894,11 +10902,3 @@ msgctxt "unread_all_users"
 msgid "Read all users"
 msgstr "Đánh dấu đã đọc tất cả user"
 
-
-msgctxt ".conversion"
-msgid "Conversion"
-msgstr "Chuyển đổi"
-
-msgctxt ".goal_reached"
-msgid "Goal Reached"
-msgstr "Hoàn thành mục tiêu"
