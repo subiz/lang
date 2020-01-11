@@ -275,6 +275,10 @@ msgctxt ".and"
 msgid " and "
 msgstr " and "
 
+msgctxt ".and_1"
+msgid "And"
+msgstr "And"
+
 msgctxt ".and_other"
 msgid " and {0} others "
 msgstr " and {0} others "
