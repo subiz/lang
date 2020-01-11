@@ -11051,8 +11051,8 @@ msgid "Open Subiz widget"
 msgstr "Open Subiz widget"
 
 msgctxt ".submit_campaign"
-msgid "Submit campaign"
-msgstr "Submit campaign / Next page"
+msgid "Send form"
+msgstr "Send form"
 
 msgctxt ".next_to_page"
 msgid "Next to page"
@@ -11177,3 +11177,8 @@ msgstr "Conversion"
 msgctxt ".goal_reached"
 msgid "Goal Reached"
 msgstr "Goal Reached"
+
+
+msgctxt ".next_page"
+msgid "Next page"
+msgstr "Next page"

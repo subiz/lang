@@ -5394,6 +5394,10 @@ msgctxt ".next_billing_date"
 msgid "Next Billing Date"
 msgstr "Ngày thanh toán tiếp theo"
 
+msgctxt ".next_page"
+msgid "Next page"
+msgstr "Sang trang"
+
 msgctxt ".next_payment_due"
 msgid "Next Payment Due Date"
 msgstr "Ngày thanh toán cuối cùng"
@@ -9499,8 +9503,8 @@ msgid "Submit"
 msgstr "Submit"
 
 msgctxt ".submit_campaign"
-msgid "Submit campaign"
-msgstr "Gửi form/ Chuyển sang trang 2"
+msgid "Send form"
+msgstr "Send form"
 
 msgctxt ".subscribe_btn"
 msgid "SUBSCRIBE NOW!"
