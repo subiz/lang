@@ -1,3 +1,7 @@
+msgctxt "agent"
+msgid "Agent"
+msgstr "Agent"
+
 msgctxt ".all_emojis"
 msgid "Emoji"
 msgstr "Emoji"

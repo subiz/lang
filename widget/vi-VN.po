@@ -406,6 +406,10 @@ msgctxt ".you"
 msgid "You"
 msgstr "Bạn"
 
+msgctxt "agent"
+msgid "Agent"
+msgstr "Tư vấn viên"
+
 msgctxt "sent_you_a_message"
 msgid "Sent you a message"
 msgstr "Đã gửi cho bạn một tin nhắn"
