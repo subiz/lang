@@ -9231,16 +9231,16 @@ msgid "Show list user select"
 msgstr "Tất cả {userlist} người dùng đã được chọn"
 
 msgctxt ".show_desktop_button"
-msgid "Button on desktop"
-msgstr "Button trên máy tính"
+msgid "Show button on desktop"
+msgstr "Hiện thị trên máy tính"
 
 msgctxt ".show_logo_and_interact_chanel_or_show_avatar_agent_of_windown_chat"
 msgid "Show logo and interact chanel or show avatar agent of windown chat"
 msgstr "Hiển thị logo và các kênh tương tác, hoặc hiển thị avatar agent trên màn hình chính của cửa sổ chat"
 
 msgctxt ".show_mobile_button"
-msgid "Button on mobile"
-msgstr "Button trên di động"
+msgid "Show button on mobile"
+msgstr "Hiện thị trên điện thoại"
 
 msgctxt ".show_secret"
 msgid "Show secret"

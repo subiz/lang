@@ -11151,12 +11151,15 @@ msgid "We're here and ready to help. Feel free to ask us anything or share your 
 msgstr "We're here and ready to help. Feel free to ask us anything or share your feedback!"
 
 msgctxt ".show_mobile_button"
-msgid "Button on mobile"
-msgstr "Button on mobile"
+msgid "Show button on mobile"
+msgstr "Display on mobile"
 
 msgctxt ".show_desktop_button"
-msgid "Button on desktop"
-msgstr "Button on desktop"
+msgid "Show button on desktop"
+msgstr "Display on desktop"
+
+
+msgstr "The popup will appear to"
 
 msgctxt ".add_new_trigger"
 msgid "Add new trigger"
