@@ -11158,9 +11158,6 @@ msgctxt ".show_desktop_button"
 msgid "Show button on desktop"
 msgstr "Display on desktop"
 
-
-msgstr "The popup will appear to"
-
 msgctxt ".add_new_trigger"
 msgid "Add new trigger"
 msgstr "Add new trigger"
