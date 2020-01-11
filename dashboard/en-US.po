@@ -10375,10 +10375,6 @@ msgctxt ".reload_websit_has_embed_checked"
 msgid "Reload the website that has the embed code checked"
 msgstr "Reload the website that has the embed code checked"
 
-msgctxt ".and"
-msgid "And"
-msgstr "And"
-
 msgctxt ".correction"
 msgid "Correction"
 msgstr "Correction"

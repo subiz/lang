@@ -648,7 +648,7 @@ msgstr " và "
 
 msgctxt ".and"
 msgid "And"
-msgstr "và"
+msgstr "And"
 
 msgctxt ".and_other"
 msgid " and {0} others "
