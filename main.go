@@ -56,22 +56,32 @@ func buildAllPoInPath(path string) error {
 		}
 
 		fmt.Println("written to", path+f.Name())
-		jsonname := (path + f.Name())[:len(path+f.Name())-3] + ".json"
+		name := (path + f.Name())[:len(path+f.Name())-3]
 		// generate json
 		js := Jsonify(ParsePO(newcontent))
-		if err := ioutil.WriteFile(jsonname, []byte(js), 0644); err != nil {
+
+		if err := ioutil.WriteFile(name + ".json", []byte(js), 0644); err != nil {
 			return err
 		}
+		fmt.Println("written to", name + ".json")
 
-		fmt.Println("written to", jsonname)
+		if err := ioutil.WriteFile(name + ".js", []byte("export default " + js), 0644); err != nil {
+			return err
+		}
+		fmt.Println("written to", name + ".js")
 	}
-	jsonname := path + "en-US.json"
+
+	name := path + "en-US"
 	js := Jsonify(ParsePO(en))
-	if err := ioutil.WriteFile(jsonname, []byte(js), 0644); err != nil {
+	if err := ioutil.WriteFile(name + ".json", []byte(js), 0644); err != nil {
 		return err
 	}
+	fmt.Println("written to", name + ".json")
 
-	fmt.Println("written to", jsonname)
+	if err := ioutil.WriteFile(name + ".js", []byte("export default " + js), 0644); err != nil {
+		return err
+	}
+	fmt.Println("written to", name + ".js")
 	fmt.Println("done.")
 	return nil
 }
@@ -168,9 +178,9 @@ func toJsonKey(key string) string {
 }
 
 // jsonifyPo converts array of PoElement to JSON representation
-func Jsonify(eles []PoElement) []byte {
+func Jsonify(eles []PoElement) string {
 	if len(eles) == 0 {
-		return nil
+		return ""
 	}
 	sort(eles)
 	var buffer bytes.Buffer
@@ -188,7 +198,7 @@ func Jsonify(eles []PoElement) []byte {
 			buffer.WriteString(",\n")
 		}
 	}
-	return buffer.Bytes()
+	return buffer.String()
 }
 
 func JsonToPo(en, la []byte) ([]byte, error) {
