@@ -10662,12 +10662,12 @@ msgid "Greeting default"
 msgstr "Welcome to our website"
 
 msgctxt "impressions_count"
-msgid "Total impressions"
-msgstr "Total impressions"
+msgid "Impressions"
+msgstr "Impressions"
 
 msgctxt "conversions_count"
-msgid "Total conversions"
-msgstr "Total conversions"
+msgid "Conversions"
+msgstr "Conversions"
 
 msgctxt "conversion_rate"
 msgid "Conversion rate"

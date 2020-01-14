@@ -10883,7 +10883,7 @@ msgid "Conversions"
 msgstr "Chuyển đổi"
 
 msgctxt "conversions_count"
-msgid "Total conversions"
+msgid "Conversions"
 msgstr "Số lần chuyển đổi"
 
 msgctxt "conversions_empty"
@@ -10895,7 +10895,7 @@ msgid "User exist"
 msgstr "Tồn tại User"
 
 msgctxt "impressions_count"
-msgid "Total impressions"
+msgid "Impressions"
 msgstr "Số lần thực thi"
 
 msgctxt "input_text_here"
