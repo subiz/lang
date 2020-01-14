@@ -1726,6 +1726,14 @@ msgctxt ".click"
 msgid "click"
 msgstr "bấm"
 
+msgctxt ".click_area"
+msgid "Click area"
+msgstr "Khi khách click vào một vị trí cụ thể"
+
+msgctxt ".click_area_label"
+msgid "When a visitor clicks on a specific part of your page"
+msgstr "Khi khách truy cập click vào một vị trí cụ thể trên trang web của bạn"
+
 msgctxt ".click_to_custom_lang"
 msgid "Download widget’s custom text file"
 msgstr "Tải về tệp tùy chỉnh nội dung cửa sổ Subiz Chat"
@@ -2481,6 +2489,10 @@ msgstr "Mô tả"
 msgctxt ".description_after_pageview"
 msgid "Use this event when you want to show a pop-up window to visitors who have read your page for at least X seconds. If 0 seconds is set, a pop-up window will appear as soon as the page loads"
 msgstr "Sử dụng sự kiện này khi bạn muốn hiển thị cửa sổ pop-up cho khách truy cập đã đọc trang của bạn trong ít nhất X giây. Nếu đặt 0 giây, cửa sổ pop-up sẽ hiển thị ngay khi khách tải trang."
+
+msgctxt ".description_click_area"
+msgid "description_click_area"
+msgstr "Sử dụng sự kiện này nếu bạn muốn hiển thị cửa sổ pop-up khi khách truy cập click vào một vị trí cụ thể của trang (nút, đường dẫn, banner...). Bạn có thể nhập bất kỳ thuộc tính HTML, CSS nào có trên trang web của bạn."
 
 msgctxt ".description_device"
 msgid "Visitors on each device type will have different habits. Use this condition if you want to group visitors by device"
@@ -10653,6 +10665,10 @@ msgstr "Có gì mới ở Subiz 4.0"
 msgctxt ".when"
 msgid "When"
 msgstr "Khi"
+
+msgctxt ".when_a_visitor_click"
+msgid "When a visitor click"
+msgstr "Khi khách click"
 
 msgctxt ".when_visitor_inactivity"
 msgid "When the visitor is inactive (click, type or click)"

@@ -11178,7 +11178,22 @@ msgctxt ".goal_reached"
 msgid "Goal Reached"
 msgstr "Goal Reached"
 
-
 msgctxt ".next_page"
 msgid "Next page"
 msgstr "Next page"
+
+msgctxt ".click_area"
+msgid "Click area"
+msgstr "On click to a specific area"
+
+msgctxt ".when_a_visitor_click"
+msgid "When a visitor click"
+msgstr "When a visitor click"
+
+msgctxt ".click_area_label"
+msgid "When a visitor clicks on a specific part of your page"
+msgstr "When a visitor clicks on a specific part of your page"
+
+msgctxt ".description_click_area"
+msgid "description_click_area"
+msgstr "Use the following event to display pop-up when a visitor clicks on a particular part of your page — a box, link, banner, etc. You can enter any type of value of any HTML element, CSS classes and IDs, and their combination. For example: a (any link element), #container (an element which has a container ID)"
