@@ -10215,8 +10215,8 @@ msgid "Create new user attribute"
 msgstr "create new user attribute"
 
 msgctxt ".introduction_wiget_button"
-msgid "Subiz chat button to attract customers interactively"
-msgstr "Subiz chat button to attract customers interactively"
+msgid "Eye-catcher chat button to attract visitors"
+msgstr "Eye-catcher chat button to attract visitors"
 
 msgctxt ".button_position"
 msgid "Button position"
@@ -11190,6 +11190,19 @@ msgctxt ".when_a_visitor_click"
 msgid "When a visitor click"
 msgstr "When a visitor click"
 
+
+msgctxt ".not_url_visited"
+msgid "Exclude page visitors"
+msgstr "Exclude page visitors"
+
+msgctxt ".not_url_visit_title"
+msgid "Exclude visitors who have already visited a specific page"
+msgstr "Exclude visitors who have already visited a specific page"
+
+msgctxt ".not_url_visit_content"
+msgid "Exclude visitors who visited page contains"
+msgstr "Exclude visitors who visited page contains"
+
 msgctxt ".click_area_label"
 msgid "When a visitor clicks on a specific part of your page"
 msgstr "When a visitor clicks on a specific part of your page"
@@ -11197,3 +11210,7 @@ msgstr "When a visitor clicks on a specific part of your page"
 msgctxt ".description_click_area"
 msgid "description_click_area"
 msgstr "Use the following event to display pop-up when a visitor clicks on a particular part of your page — a box, link, banner, etc. You can enter any type of value of any HTML element, CSS classes and IDs, and their combination. For example: a (any link element), #container (an element which has a container ID)"
+
+msgctxt ".not_url_visit_description"
+msgid "Not url visit description"
+msgstr "Use this condition when you don't want to display the pop-up to visitors who have visited a specific pages. E.g: Visitors who have visited pricing.company.com"

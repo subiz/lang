@@ -4867,7 +4867,7 @@ msgid "Introduction"
 msgstr "Lời giới thiệu"
 
 msgctxt ".introduction_wiget_button"
-msgid "Subiz chat button to attract customers interactively"
+msgid "Eye-catcher chat button to attract visitors"
 msgstr "Nút chat Subiz để thu hút khách hàng tương tác"
 
 msgctxt ".invalid_input"
@@ -5573,6 +5573,22 @@ msgstr "Không nhập trường này"
 msgctxt ".not_send"
 msgid "Not send"
 msgstr "Không gửi được"
+
+msgctxt ".not_url_visit_content"
+msgid "Exclude visitors who visited page contains"
+msgstr "Loại bỏ những khách đã xem URL chứa"
+
+msgctxt ".not_url_visit_description"
+msgid "Not url visit description"
+msgstr "Sử dụng điều kiện này khi bạn muốn loại trừ những khách đã xem một số trang cụ thể. Ví dụ: Khách đã xem trang thanh toán thanhtoan.company.com"
+
+msgctxt ".not_url_visit_title"
+msgid "Exclude visitors who have already visited a specific page"
+msgstr "Pop-up sẽ hiển thị với những khách hàng đã xem URL cụ thể"
+
+msgctxt ".not_url_visited"
+msgid "Exclude page visitors"
+msgstr "Loại trừ khách đã xem URL"
 
 msgctxt ".note"
 msgid "Note"
