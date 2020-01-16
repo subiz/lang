@@ -554,7 +554,7 @@
 	"curr_url_description": "Sử dụng điều kiện này khi bạn muốn loại trừ những khách đã xem một số trang cụ thể. Ví dụ: Khách đã xem trang thanh toán thanhtoan.company.com",
 	"currency": "Đơn vị tiền tệ",
 	"current_billing_cycle": "Chu kỳ thanh toán hiện tại",
-	"current_url_title": "Pop-up sẽ hiển thị với những khách đã xem những URL cụ thể",
+	"current_url_title": "Pop-up sẽ hiển thị với những khách đang xem những URL cụ thể",
 	"custom": "Tùy chỉnh",
 	"custom_attribute": "Trường thông tin tùy chỉnh",
 	"custom_feed": "Tùy chỉnh",

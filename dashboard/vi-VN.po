@@ -2220,7 +2220,7 @@ msgstr "Chu kỳ thanh toán hiện tại"
 
 msgctxt ".current_url_title"
 msgid "Visitors who are currently browsing a specific page will see your message"
-msgstr "Pop-up sẽ hiển thị với những khách đã xem những URL cụ thể"
+msgstr "Pop-up sẽ hiển thị với những khách đang xem những URL cụ thể"
 
 msgctxt ".custom"
 msgid "Filter Name Custom"
