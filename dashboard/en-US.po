@@ -11258,3 +11258,7 @@ msgstr "{time} hour ago"
 msgctxt ".minute_ago"
 msgid "Minute ago"
 msgstr "{time} minute ago"
+
+msgctxt ".collapse"
+msgid "Collapse"
+msgstr "Collapse"
