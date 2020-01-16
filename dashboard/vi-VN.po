@@ -1806,6 +1806,10 @@ msgctxt ".completed_to_free"
 msgid "Complete Downgrade to FREE"
 msgstr "Hoàn thành hạ cấp tài khoản về gói Free"
 
+msgctxt ".con"
+msgid "Contains"
+msgstr "Chứa"
+
 msgctxt ".cond_to_end_convo"
 msgid "Condition to end conversation"
 msgstr "Condition to end conversation"
@@ -2913,6 +2917,10 @@ msgstr "Cho phép"
 msgctxt ".enable_notify_desktop"
 msgid "<u>Enable desktop notification</u> to get notified for every new message and never miss a chance to engage your users"
 msgstr "<u>Cho phép Subiz gửi thông báo</u> đến bạn để không bỏ lỡ cơ hội trò chuyện với khách hàng mỗi khi có tin nhắn mới"
+
+msgctxt ".end"
+msgid "End"
+msgstr "Kết thúc"
 
 msgctxt ".end-chatbot"
 msgid "Endchat bot"
@@ -9477,6 +9485,10 @@ msgstr "Tiêu chuẩn"
 msgctxt ".standard_plan"
 msgid "Standard"
 msgstr "Cơ bản"
+
+msgctxt ".start"
+msgid "Start"
+msgstr "Bắt đầu"
 
 msgctxt ".start_automation_when"
 msgid "Trigger this automation when"

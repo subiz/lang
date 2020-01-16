@@ -11214,3 +11214,15 @@ msgstr "Use the following event to display pop-up when a visitor clicks on a par
 msgctxt ".not_url_visit_description"
 msgid "Not url visit description"
 msgstr "Use this condition when you don't want to display the pop-up to visitors who have visited a specific pages. E.g: Visitors who have visited pricing.company.com"
+
+msgctxt ".con"
+msgid "Contains"
+msgstr "Contains"
+
+msgctxt ".start"
+msgid "Start"
+msgstr "Start"
+
+msgctxt ".end"
+msgid "End"
+msgstr "End"
