@@ -11226,3 +11226,35 @@ msgstr "Start"
 msgctxt ".end"
 msgid "End"
 msgstr "End"
+
+msgctxt ".see_and_edit"
+msgid "See and Edit"
+msgstr "See and edit"
+
+msgctxt ".is_online"
+msgid "Online"
+msgstr "Online"
+
+msgctxt ".off_line"
+msgid "Offline"
+msgstr "Offline"
+
+msgctxt ".year_ago"
+msgid "Year ago"
+msgstr "{time} year ago"
+
+msgctxt ".day_ago"
+msgid "Day ago"
+msgstr "{time} day ago"
+
+msgctxt ".month_ago"
+msgid "Month ago"
+msgstr "{time} month ago"
+
+msgctxt ".hour_ago"
+msgid "Hour ago"
+msgstr "{time} hour ago"
+
+msgctxt ".minute_ago"
+msgid "Minute ago"
+msgstr "{time} minute ago"
