@@ -10638,8 +10638,8 @@ msgid "Display team number"
 msgstr "Display agent"
 
 msgctxt ".default_prechat_form_title"
-msgid "Wellcome to Subiz! Please complete the following information before connecting to our support staff"
-msgstr "Wellcome to Subiz! Please complete the following information before connecting to our support staff"
+msgid "Wellcome to our website! Please complete the following information before connecting to our support staff"
+msgstr "Wellcome to our website! Please complete the following information before connecting to our support staff"
 
 msgctxt ".default_offline_form_title"
 msgid "Our agents are not available right now. Please leave a message and we'll get back to you."

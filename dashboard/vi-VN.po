@@ -2383,8 +2383,8 @@ msgid "Default"
 msgstr "Mặc định"
 
 msgctxt ".default_prechat_form_title"
-msgid "Wellcome to Subiz! Please complete the following information before connecting to our support staff"
-msgstr "Chào mừng đến Subiz! Bạn hãy hoàn thành những thông tin dưới đây trước khi bắt đầu kết nối với hỗ trợ viên của chúng tôi nhé."
+msgid "Wellcome to our website! Please complete the following information before connecting to our support staff"
+msgstr "Chào mừng website của chúng tôi! Bạn hãy hoàn thành những thông tin dưới đây trước khi bắt đầu kết nối với hỗ trợ viên của chúng tôi nhé."
 
 msgctxt ".default_question_label"
 msgid "Default_question_label"
