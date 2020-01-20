@@ -2738,6 +2738,7 @@
 	"conversions": "Conversions",
 	"conversions_count": "Conversions",
 	"conversions_empty": "Conversions is empty",
+	"convo_not_subject": "Conversation has not subject",
 	"exist_user": "User exist",
 	"impressions_count": "Impressions",
 	"input_text_here": "Input text here",

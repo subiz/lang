@@ -10954,6 +10954,10 @@ msgctxt "conversions_empty"
 msgid "Conversions is empty"
 msgstr "Không có dữ liệu"
 
+msgctxt "convo_not_subject"
+msgid "Convo not subject"
+msgstr "Hội thoại không có tiêu đề"
+
 msgctxt "exist_user"
 msgid "User exist"
 msgstr "Tồn tại User"

@@ -11262,3 +11262,7 @@ msgstr "{time} minute ago"
 msgctxt ".collapse"
 msgid "Collapse"
 msgstr "Collapse"
+
+msgctxt "convo_not_subject"
+msgid "Convo not subject"
+msgstr "Conversation has not subject"
