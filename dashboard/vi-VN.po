@@ -5030,6 +5030,10 @@ msgctxt ".last_message_recent"
 msgid "No recent message text"
 msgstr "Không có tin nhắn text mới"
 
+msgctxt ".last_online"
+msgid "Last online"
+msgstr "Lần truy cập cuối"
+
 msgctxt ".last_update"
 msgid "Last Update"
 msgstr "Cập nhật gần nhất"
@@ -6054,6 +6058,10 @@ msgctxt ".other_code"
 msgid "Other code"
 msgstr "Nhập mã khác"
 
+msgctxt ".other_conversation"
+msgid "Other conversation"
+msgstr "Hội thoại khác"
+
 msgctxt ".other_people"
 msgid "and {0} others"
 msgstr "và {0} người khác"
@@ -6429,6 +6437,10 @@ msgstr "Cách khắc phục"
 msgctxt ".received"
 msgid "received"
 msgstr "đã nhận"
+
+msgctxt ".recently_viewed_pages"
+msgid "Recently viewed pages"
+msgstr "Các trang vừa xem"
 
 msgctxt ".recieve_new_message"
 msgid "Recieve new message"

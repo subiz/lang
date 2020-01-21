@@ -11278,3 +11278,16 @@ msgstr "Click to create a new conversation"
 msgctxt ".drag_to_move"
 msgid "Drag to move"
 msgstr "Drag to move"
+
+msgctxt ".last_online"
+msgid "Last online"
+msgstr "Last online"
+
+msgctxt ".recently_viewed_pages"
+msgid "Recently viewed pages"
+msgstr "Recently viewed pages"
+
+msgctxt ".other_conversation"
+msgid "Other conversation"
+msgstr "Other conversation"
+
