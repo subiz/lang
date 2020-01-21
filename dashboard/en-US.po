@@ -11268,7 +11268,7 @@ msgid "Convo not subject"
 msgstr "Conversation has not subject"
 
 msgctxt ".ago"
-msgid "Ago"
+msgid "ago"
 msgstr "ago"
 
 msgctxt ".title_convo"
@@ -11291,3 +11291,6 @@ msgctxt ".other_conversation"
 msgid "Other conversation"
 msgstr "Other conversation"
 
+msgctxt ".my_conversations"
+msgid "My Conversations"
+msgstr "My Conversations"

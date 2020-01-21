@@ -567,8 +567,8 @@ msgid "Agent"
 msgstr "Agent"
 
 msgctxt ".ago"
-msgid "Ago"
-msgstr "Trước"
+msgid "ago"
+msgstr "trước"
 
 msgctxt ".all"
 msgid "All"
@@ -2044,7 +2044,7 @@ msgstr "Với hội thoại có các thông tin sau"
 
 msgctxt ".conversations"
 msgid "Conversations"
-msgstr "Tổng số hội thoại"
+msgstr "Hội thoại"
 
 msgctxt ".conversations_per_page"
 msgid "conversations per page"
@@ -5389,6 +5389,10 @@ msgstr "Đã tắt thông báo cuộc hội thoại"
 msgctxt ".muted_convo_fail"
 msgid "Mute Conversation fail"
 msgstr "Tắt thông báo cuộc hội thoại không thành công"
+
+msgctxt ".my_conversations"
+msgid "My Conversations"
+msgstr "Hội thoại của tôi"
 
 msgctxt ".my_tickets"
 msgid "My tickets"
