@@ -2226,6 +2226,10 @@ msgctxt ".currency"
 msgid "Currency"
 msgstr "Đơn vị tiền tệ"
 
+msgctxt ".current"
+msgid "Current activity"
+msgstr "Hiện tại"
+
 msgctxt ".current_billing_cycle"
 msgid "Current billing cycle"
 msgstr "Chu kỳ thanh toán hiện tại"
@@ -4986,6 +4990,10 @@ msgctxt ".is_typing"
 msgid "is typing"
 msgstr "đang nhắn tin"
 
+msgctxt ".is_viewing"
+msgid "is viewing"
+msgstr "Đang xem"
+
 msgctxt ".is_yes"
 msgid "Yes"
 msgstr "Có"
@@ -5031,7 +5039,7 @@ msgid "No recent message text"
 msgstr "Không có tin nhắn text mới"
 
 msgctxt ".last_online"
-msgid "Last online"
+msgid "Last activity"
 msgstr "Lần truy cập cuối"
 
 msgctxt ".last_update"
@@ -5391,7 +5399,7 @@ msgid "Mute Conversation fail"
 msgstr "Tắt thông báo cuộc hội thoại không thành công"
 
 msgctxt ".my_conversations"
-msgid "My Conversations"
+msgid "My conversations"
 msgstr "Hội thoại của tôi"
 
 msgctxt ".my_tickets"
@@ -6063,7 +6071,7 @@ msgid "Other code"
 msgstr "Nhập mã khác"
 
 msgctxt ".other_conversation"
-msgid "Other conversation"
+msgid "Conversations"
 msgstr "Hội thoại khác"
 
 msgctxt ".other_people"
@@ -6443,7 +6451,7 @@ msgid "received"
 msgstr "đã nhận"
 
 msgctxt ".recently_viewed_pages"
-msgid "Recently viewed pages"
+msgid "Viewed pages"
 msgstr "Các trang vừa xem"
 
 msgctxt ".recieve_new_message"

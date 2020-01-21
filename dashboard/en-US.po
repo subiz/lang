@@ -10212,7 +10212,7 @@ msgstr "Input text here"
 
 msgctxt ".create_new_user_attribute"
 msgid "Create new user attribute"
-msgstr "create new user attribute"
+msgstr "Create new user attribute"
 
 msgctxt ".introduction_wiget_button"
 msgid "Eye-catcher chat button to attract visitors"
@@ -11229,7 +11229,7 @@ msgstr "End"
 
 msgctxt ".see_and_edit"
 msgid "See and Edit"
-msgstr "See and edit"
+msgstr "View and edit"
 
 msgctxt ".is_online"
 msgid "Online"
@@ -11279,18 +11279,26 @@ msgctxt ".drag_to_move"
 msgid "Drag to move"
 msgstr "Drag to move"
 
+msgctxt ".is_viewing"
+msgid "is viewing"
+msgstr "Viewing"
+
 msgctxt ".last_online"
-msgid "Last online"
-msgstr "Last online"
+msgid "Last activity"
+msgstr "Last activity"
+
+msgctxt ".current"
+msgid "Current activity"
+msgstr "Current acitivity"
 
 msgctxt ".recently_viewed_pages"
-msgid "Recently viewed pages"
-msgstr "Recently viewed pages"
+msgid "Viewed pages"
+msgstr "Viewed pages"
 
 msgctxt ".other_conversation"
-msgid "Other conversation"
-msgstr "Other conversation"
+msgid "Conversations"
+msgstr "Conversations"
 
 msgctxt ".my_conversations"
-msgid "My Conversations"
-msgstr "My Conversations"
+msgid "My conversations"
+msgstr "My conversations"
