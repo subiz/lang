@@ -11270,3 +11270,11 @@ msgstr "Conversation has not subject"
 msgctxt ".ago"
 msgid "Ago"
 msgstr "ago"
+
+msgctxt ".title_convo"
+msgid "Click to create a new conversation"
+msgstr "Click to create a new conversation"
+
+msgctxt ".drag_to_move"
+msgid "Drag to move"
+msgstr "Drag to move"

@@ -566,6 +566,10 @@ msgctxt ".agents_settings"
 msgid "Agent"
 msgstr "Agent"
 
+msgctxt ".ago"
+msgid "Ago"
+msgstr "Trước"
+
 msgctxt ".all"
 msgid "All"
 msgstr "Tất cả"
@@ -2773,6 +2777,10 @@ msgstr "Chọn "
 msgctxt ".drag_file_here_to_upload"
 msgid "Drag file to upload"
 msgstr "Kéo tệp để tải lên"
+
+msgctxt ".drag_to_move"
+msgid "Drag to move"
+msgstr "Giữ chuột để di chuyển vị trí"
 
 msgctxt ".dragging_rules"
 msgid "Dragging rules up or down the list to their new position to re-prioritize them"
@@ -9982,6 +9990,10 @@ msgctxt ".title_convert_ticket"
 msgid "Convert Ticket"
 msgstr "Chuyển thành ticket"
 
+msgctxt ".title_convo"
+msgid "Click to create a new conversation"
+msgstr "Click để tạo hội thoại mới với khách hàng"
+
 msgctxt ".title_del_note"
 msgid "Delete note"
 msgstr "Xóa ghi chú"
@@ -10989,8 +11001,4 @@ msgstr "Thống kê"
 msgctxt "unread_all_users"
 msgid "Read all users"
 msgstr "Đánh dấu đã đọc tất cả user"
-
-msgctxt ".ago"
-msgid "Ago"
-msgstr "Trước"
 
