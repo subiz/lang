@@ -410,6 +410,10 @@ msgctxt "agent"
 msgid "Agent"
 msgstr "Tư vấn viên"
 
+msgctxt "save_infomation"
+msgid "Save infomation"
+msgstr "Lưu thông tin"
+
 msgctxt "sent_you_a_message"
 msgid "Sent you a message"
 msgstr "Đã gửi cho bạn một tin nhắn"

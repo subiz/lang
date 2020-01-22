@@ -425,3 +425,8 @@ msgstr "Support is away"
 msgctxt "sent_you_a_message"
 msgid "Sent you a message"
 msgstr "Send you a message"
+
+msgctxt "save_infomation"
+msgid "Save infomation"
+msgstr "Save infomation"
+
