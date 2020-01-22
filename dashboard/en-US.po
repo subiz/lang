@@ -10282,42 +10282,41 @@ msgstr "Bottom"
 
 msgctxt ".put_subiz_chat_in_minute"
 msgid "Put Subiz chat window on your website in just a minute"
-msgstr "Put Subiz chat window on your website in just a minute"
+msgstr "Get Subiz on your website in minutes!"
 
 msgctxt ".did_not_find_web_platform"
 msgid "Did not find the desired web platform"
-msgstr "Did not find the desired web platform"
+msgstr "Can't find your web platform"
 
 
 msgctxt ".see_install_instrucion_other_platform"
 msgid "See installation instructions for other platforms"
-msgstr "See installation instructions for other platforms"
+msgstr "See instruction for other platforms"
 
 msgctxt ".manually_install_subiz_embed_code_on_website"
 msgid "manually install subiz embed code on the website"
-msgstr "manually install subiz embed code on the website"
+msgstr "Install Subiz code manually"
 
 msgctxt ".copy_and_insert_code_below_front_of_card"
 msgid "Copy and insert the code below into the front of the card"
-msgstr "Copy and insert the code below into the front of the card"
-on the pages you want to install
+msgstr "Copy and paste this code before the closing"
 
 msgctxt ".on_the_page_you_want_install"
 msgid "On the pages you want to install"
-msgstr "On the pages you want to install"
+msgstr "on every page of your website"
 
 msgctxt ".reload_page"
 msgid "Reload page"
-msgstr "Reload page"
+msgstr "Reload your website"
 
 
 msgctxt ".chat_subiz_window_display_bottom_your_screen"
 msgid "Chat subiz window will be displayed at the bottom of your screen"
-msgstr "Chat subiz window will be displayed at the bottom of your screen"
+msgstr "Subiz widget should appear in the bottom corner"
 
 msgctxt ".send_embed_code_your_website_admin"
 msgid "Send the embed code to your website administrator"
-msgstr "Send the embed code to your website administrator"
+msgstr "Send this code to your webmaster"
 
 msgctxt ".account_login"
 msgid "Account login"
