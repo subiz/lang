@@ -11304,5 +11304,9 @@ msgstr "My conversations"
 
 msgctxt ".read_all"
 msgid "Read all"
-msgstr "Mark all as read "
+msgstr "Mark all as read"
 
+
+msgctxt ".read_success"
+msgid "Read success"
+msgstr "Conversations marked as read"

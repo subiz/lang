@@ -6450,6 +6450,10 @@ msgctxt ".read_solution"
 msgid "Read the solution"
 msgstr "Cách khắc phục"
 
+msgctxt ".read_success"
+msgid "Read success"
+msgstr "Đã đọc hội thoại"
+
 msgctxt ".received"
 msgid "received"
 msgstr "đã nhận"
