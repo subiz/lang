@@ -6438,6 +6438,10 @@ msgctxt ".rate_us"
 msgid "Rate Us"
 msgstr "Đánh giá"
 
+msgctxt ".read_all"
+msgid "Read all"
+msgstr "Đánh dấu đã đọc"
+
 msgctxt ".read_more"
 msgid "Read more"
 msgstr "Đọc thêm"

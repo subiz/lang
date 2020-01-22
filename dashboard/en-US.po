@@ -10320,7 +10320,7 @@ msgstr "Send this code to your webmaster"
 
 msgctxt ".account_login"
 msgid "Account login"
-msgstr "Account login"
+msgstr "Login to"
 
 msgctxt ".chose"
 msgid "Chose"
@@ -11301,3 +11301,8 @@ msgstr "Conversations"
 msgctxt ".my_conversations"
 msgid "My conversations"
 msgstr "My conversations"
+
+msgctxt ".read_all"
+msgid "Read all"
+msgstr "Mark all as read "
+
