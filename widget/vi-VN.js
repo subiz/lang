@@ -102,5 +102,6 @@ export default {
 	"yesterday": "Ngày hôm qua",
 	"you": "Bạn",
 	"agent": "Tư vấn viên",
+	"save_infomation": "Lưu thông tin",
 	"sent_you_a_message": "Đã gửi cho bạn một tin nhắn"
 }

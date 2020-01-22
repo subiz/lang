@@ -102,5 +102,6 @@ export default {
 	"yesterday": "Yesterday",
 	"you": "You",
 	"agent": "Agent",
+	"save_infomation": "Save infomation",
 	"sent_you_a_message": "Send you a message"
 }
