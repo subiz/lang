@@ -12,10 +12,7 @@ import (
 )
 
 func main() {
-	if err := buildAllPoInPath("./widget/"); err != nil {
-		panic(err)
-	}
-	if err := buildAllPoInPath("./dashboard/"); err != nil {
+	if err := buildAllPoInPath("./"); err != nil {
 		panic(err)
 	}
 }
